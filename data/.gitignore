@@ -1,4 +1,10 @@
+## folder
+extract/
+
+## files
 ILLs(zh-en).txt
 train_data.txt
 triple_en.txt
 triple_zh.txt
+sample_submission_for_validation.txt
+valid_data.txt
