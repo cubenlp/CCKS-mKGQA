@@ -14,10 +14,10 @@
 ## 知识库
 1. `Triples_zh.txt` 包含中文知识图谱的主要三元组。
 2. `Triples_en.txt` 包含英语知识图谱的主要三元组。
-3. `Triples_fr.txt` 包含法语知识图谱的主要三元组（缺）。
-4. `ILLs_zh_en.txt` 包含“中-英"跨语言图谱的已知实体对齐。
-5. `ILLs_en_fr.txt` 包含“英-法"跨语言图谱的已知实体对齐（缺）。
-6. `ILLs_zh_fr.txt` 包含“中-法"跨语言图谱的已知实体对齐（缺）。
+3. `ILLs_zh_en.txt` 包含“中-英"跨语言图谱的已知实体对齐。
 
-
-   
+## 预处理文件
+- [ILLs(zh-en).txt](http://qiniu.wzhecnu.cn/ccks/ILLs%28zh-en%29.txt)
+- [triple_zh.txt](http://qiniu.wzhecnu.cn/ccks/triple_zh.txt)
+- [triple_en.txt](http://qiniu.wzhecnu.cn/ccks/triple_en.txt)
+- [train_data.txt](http://qiniu.wzhecnu.cn/ccks/train_data.txt)
