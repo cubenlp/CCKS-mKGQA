@@ -16,7 +16,7 @@
 2. `Triples_en.txt` 包含英语知识图谱的主要三元组。
 3. `ILLs_zh_en.txt` 包含“中-英"跨语言图谱的已知实体对齐。
 
-## 预处理文件
+## 处理后的文件（外链）
 - [ILLs(zh-en).txt](http://qiniu.wzhecnu.cn/ccks/ILLs%28zh-en%29.txt)
 - [triple_zh.txt](http://qiniu.wzhecnu.cn/ccks/triple_zh.txt)
 - [triple_en.txt](http://qiniu.wzhecnu.cn/ccks/triple_en.txt)

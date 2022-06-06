@@ -1,6 +1,5 @@
 # CCKS2022：跨语言知识图谱问答
 
-
 ## 竞赛描述
 1. 比赛平台网址：
     [CCKS2022: Question Answering over Cross-lingual Knowledge Graphs - Biendata](https://www.biendata.xyz/competition/clkgqa/)
@@ -37,3 +36,17 @@
 | 提交测试结果时间 | 7月31日 |
 | 评测论文提交时间 | 8月12日 |
 | CCKS会议日期(评测报告及颁奖) | 8月25日—28日 |
+
+## 当前安排
+### 机器翻译
+1. 相关链接：
+   - [52 NLP Machine Translation Projects for Inspiration](https://naturalingual.com/trends/nlp-machine-translation-projects-for-inspiration)
+   - [Best 131 Machine Translation Open Source Projects](https://www.opensourceagenda.com/tags/machine-translation)
+
+2. 阅读列表（尝试顺序，可能一两个就够了）
+   - [seq2seq](https://google.github.io/seq2seq/getting_started/)
+   - [tensor2tensor](https://github.com/tensorflow/tensor2tensor)
+   - [opennmt](https://opennmt.net/)
+   - [Helsinki](https://aclanthology.org/2020.eamt-1.61.pdf), [Yandex](https://yandex.com/dev/translate/doc/dg/concepts/about.html)
+   - [NLP Progress](https://nlpprogress.com/)
+
