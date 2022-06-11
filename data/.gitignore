@@ -1,5 +1,6 @@
 ## folder
 extract/
+ill_data/
 
 ## files
 ILLs(zh-en).txt
@@ -8,3 +9,4 @@ triple_en.txt
 triple_zh.txt
 sample_submission_for_validation.txt
 valid_data.txt
+train_data_unique.txt
