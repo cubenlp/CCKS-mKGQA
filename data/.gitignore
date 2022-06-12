@@ -1,6 +1,6 @@
 ## folder
 extract/
-ill_data/
+NER_data/
 
 ## files
 ILLs(zh-en).txt
