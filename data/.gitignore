@@ -1,6 +1,10 @@
 ## folder
 extract/
 NER_data/
+RelExtract_data/
+translate/
+ILLs/
+raw_triple/
 
 ## files
 ILLs(zh-en).txt
