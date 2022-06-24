@@ -1,6 +1,6 @@
 using XLSX
 
-function save_xlsx(filename::AbstractString, vector::AbstractVector)
+function write_xlsx(filename::AbstractString, vector::AbstractVector)
     XLSX.openxlsx(filename, mode="w") do xf
         sheet = xf[1]
         n = length(vector)
