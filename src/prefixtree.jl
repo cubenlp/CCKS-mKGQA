@@ -40,3 +40,41 @@ function remove_subcase(subs)
     end
     res
 end
+
+# 读入字典
+en_words = _shift.(unique!(vcat(first.(en_triples), first.(ILLs))))
+zh_words = _shift.(unique!(vcat(first.(zh_triples), last.(ILLs))))
+words = unique!(vcat(en_words, zh_words))
+
+# 构建字典树
+dict, dict_en, dict_zh = PrefixTree(), PrefixTree(), PrefixTree()
+for word in words
+    add_node!(dict, word)
+end
+for word in en_words
+    add_node!(dict_en, word)
+end
+for word in zh_words
+    add_node!(dict_zh, word)
+end
+
+"匹配问题中的实体"
+function search_subject(que)
+    # 从所有头实体以及 ILLs 中匹配
+    subs = remove_subcase(search_valid_word(dict, que))
+    length(subs) == 1 && return subs
+    # 剩下的大部分是中文问题，带英文关键字
+    # 从英文实体以及 ILLs 英文实体中匹配
+    en_subs = remove_subcase(search_valid_word(dict_en, que))
+    length(en_subs) == 1 && return en_subs
+    # 从中文实体以及 ILLs 中文实体中匹配
+    zh_subs = remove_subcase(search_valid_word(dict_zh, que))
+    length(zh_subs) == 1 && return zh_subs
+    subs
+end
+
+function get_subject(que)
+    subs = search_subject(que)
+    isempty(subs) && return ""
+    argmax(length, subs)
+end
