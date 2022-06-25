@@ -1,3 +1,5 @@
+# 前缀树，用于匹配 NER，注意构建过程 _ 替换为空格，返回结果空格替换为 _
+
 "前缀树"
 Base.@kwdef mutable struct PrefixTree
     isend::Bool = false
@@ -76,5 +78,5 @@ end
 function get_subject(que)
     subs = search_subject(que)
     isempty(subs) && return ""
-    argmax(length, subs)
+    replace(argmax(length, subs), ' '=> '_')
 end
