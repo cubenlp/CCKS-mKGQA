@@ -6,6 +6,16 @@ Base.@kwdef mutable struct PrefixTree
     children = Dict{Char,PrefixTree}()
 end
 
+"""前缀树的初始化"""
+function PrefixTree(words)
+    dict = PrefixTree()
+    for word in _shift.(unique(words))
+        add_node!(dict, word)
+    end
+    dict
+end
+
+
 "给前缀树增加单词"
 function add_node!(node::PrefixTree, word::String)::Nothing
     for c in word
@@ -43,22 +53,16 @@ function remove_subcase(subs)
     res
 end
 
+# 格式转化
+_shift(st::AbstractString) = replace(st, '_' => ' ')
+
 # 读入字典
 en_words = _shift.(unique!(vcat(first.(en_triples), first.(ILLs))))
 zh_words = _shift.(unique!(vcat(first.(zh_triples), last.(ILLs))))
 words = unique!(vcat(en_words, zh_words))
 
 # 构建字典树
-dict, dict_en, dict_zh = PrefixTree(), PrefixTree(), PrefixTree()
-for word in words
-    add_node!(dict, word)
-end
-for word in en_words
-    add_node!(dict_en, word)
-end
-for word in zh_words
-    add_node!(dict_zh, word)
-end
+dict, dict_zh, dict_en = PrefixTree.([words, zh_words, en_words])
 
 "匹配问题中的实体"
 function search_subject(que)
