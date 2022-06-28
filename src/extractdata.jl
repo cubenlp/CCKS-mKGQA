@@ -1,6 +1,7 @@
-# 导入 extract_data 中的数据
+# 导入 extract 中的数据
 
 cd("../data")
+# 读取三元组
 # en triples
 txts = strip(read(open("extract/triple_en.txt", "r"), String))
 en_triples = [NTuple{3, String}(split(txt, '\t')) for txt in split(txts, '\n')]
@@ -12,7 +13,7 @@ txts = strip(read(open("extract/ILLs(zh-en).txt", "r"), String))
 ILLs = [NTuple{2, String}(split(txt, '\t')) for txt in split(txts, '\n')]
 ILLs_zh_en = Dict(@. last(ILLs) => first(ILLs))
 
-# 训练集和 NER
+# 读取训练集和 NER
 train_ques_ner, train_sols = Tuple{String, String}[], Vector{NTuple{4, String}}[]
 open("extract/train_data.txt", "r") do io
     while (que = readline(io)) != ""
@@ -26,6 +27,6 @@ open("extract/train_data.txt", "r") do io
     end
 end
 
-# 处理验证集
+# 读取验证集
 valid_ques = Vector{String}(split(
         strip(read(open("extract/valid_data.txt", "r"), String)), '\n'))

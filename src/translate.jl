@@ -9,7 +9,7 @@ lower(st) = replace(st,
     "How " => "how "
 )
 
-_shift(st) = replace(st, '_' => ' ')
+_2space(st::AbstractString) = replace(st, '_' => ' ')
 
 """用 Excel 文件与谷歌翻译交互"""
 function MT_questions(ques, filename; write=true)
@@ -37,6 +37,7 @@ function write_excel_triple(triples, filename)
     write_xlsx(filename * "_1.xlsx", permutedims(hcat(collect.(part1)...)))
     write_xlsx(filename * "_2.xlsx", permutedims(hcat(collect.(part2)...)))
 end
+
 function read_excel_triple(filename)
     filename = split(filename, '.')[1]
     part1 = permutedims(read_xlsx(filename * "_1_MT.xlsx"))

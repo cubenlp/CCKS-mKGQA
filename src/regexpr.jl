@@ -5,7 +5,11 @@ zh_obj_reg = r"<http://zh.dbpedia.org/resource/(.*)>"
 zh_rel_reg = r"<http://zh.dbpedia.org/property/(.*)>"
 
 "从 txt 中匹配 reg"
-get_txt(reg, txt) = match(reg, txt).captures[1]
+function get_txt(reg, txt)
+    mat = match(reg, txt)
+    isnothing(mat) && return ""
+    mat.captures[1]
+end
 
 "从单行提取三元组"
 function line2triple(line; en=true)

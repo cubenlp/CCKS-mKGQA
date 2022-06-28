@@ -5,6 +5,9 @@ ILLs/
 raw_triple/
 raw_data/
 excel_data/
+ILLs_fusion/
+ner_data/
+submit/
 
 ## files
 ILLs(zh-en).txt
@@ -14,3 +17,4 @@ triple_zh.txt
 sample_submission_for_validation.txt
 valid_data.txt
 train_data_unique.txt
+predict_data.txt

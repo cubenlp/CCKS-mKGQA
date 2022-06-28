@@ -9,7 +9,7 @@ end
 """前缀树的初始化"""
 function PrefixTree(words)
     dict = PrefixTree()
-    for word in _shift.(unique(words))
+    for word in _2space.(unique(words))
         add_node!(dict, word)
     end
     dict
@@ -54,11 +54,11 @@ function remove_subcase(subs)
 end
 
 # 格式转化
-_shift(st::AbstractString) = replace(st, '_' => ' ')
+_2space(st::AbstractString) = replace(st, '_' => ' ')
 
 # 读入字典
-en_words = _shift.(unique!(vcat(first.(en_triples), first.(ILLs))))
-zh_words = _shift.(unique!(vcat(first.(zh_triples), last.(ILLs))))
+zh_words = _2space.(unique!(first.(zh_triples)))
+en_words = _2space.(unique!(first.(en_triples)))
 words = unique!(vcat(en_words, zh_words))
 
 # 构建字典树
