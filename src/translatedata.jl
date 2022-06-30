@@ -4,12 +4,12 @@ cd("../data")
 # 验证集
 txts = split(strip(read(open("translate/valid_ques.txt", "r"), String)), '\n')
 valid_ques_ner = [split(txt, '\t') for txt in txts]
-valid_ques = first.(valid_ques_ner)
+valid_ques = String.(first.(valid_ques_ner))
 
 # 训练集
 txts = split(strip(read(open("translate/train_ques.txt", "r"), String)), '\n')
 train_ques_sols = [split(txt, '\t') for txt in txts]
-train_ques = first.(train_ques_sols)
+train_ques = String.(first.(train_ques_sols))
 
 # 三元组
 function readtriples(path)

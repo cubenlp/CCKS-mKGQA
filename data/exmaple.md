@@ -51,3 +51,8 @@ zh	海德公园_(犹他州)	subdivisionType	美國行政區劃
 新鐵金剛之不日殺機	starring	茱蒂·丹契
 新鐵金剛之不日殺機	starring	羅莎蒙·派克
 新鐵金剛之不日殺機	starring	曾江
+
+龙胜各族自治县	東	兴安县
+<http://dbpedia.org/resource/Longsheng_Various_Nationalities_Autonomous_County> <http://zh.dbpedia.org/property/東> <http://dbpedia.org/resource/Xing'an_County>
+
+<a href="https://en.wikipedia.org/wiki/Longsheng_Various_Nationalities_Autonomous_County" title="Longsheng Various Nationalities Autonomous County – 英文" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a>

@@ -68,3 +68,11 @@ end
 french = join(french)
 isfrench(c::AbstractChar) = c ∈ french
 isfrench(txt::AbstractString) = all(isfrench, txt)
+
+"问题简化（去除逗号）"
+function refine_que(que)
+    ',' ∈ que || return que
+    parts = split(que, ',')
+    strip(parts[2])[1] == 'a' || return que
+    join(parts[[1,3:end...]])
+end
