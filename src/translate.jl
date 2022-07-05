@@ -14,7 +14,7 @@ french = join(french)
 isfrench(c::AbstractChar) = c ∈ french
 isfrench(txt::AbstractString) = all(isfrench, txt)
 
-english = join(join.(['a':'z', 'A':'Z', '0':'9', "_ -"]))
+english = join(join.(['a':'z', 'A':'Z', '0':'9', "_ -()"]))
 isenglish(c::AbstractChar) = c ∈ english
 isenglish(txt::AbstractString) = all(isenglish, txt)
 
