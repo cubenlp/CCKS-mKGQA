@@ -19,6 +19,17 @@ isenglish(c::AbstractChar) = c ∈ english
 isenglish(txt::AbstractString) = all(isenglish, txt)
 
 
+# 关系中的少量规则修改
+rel_rules = (
+    "mittelstädte" => "medium-sized_towns",
+    "écoulement" => "flow",
+    "résidenceOfficielle" => "official_residence",
+    "siège" => "headquarters",
+    r"\d上一節目" => "上一節目",
+    r"\d+下一節目" => "下一節目",
+    "é" => "e");
+
+
 "问句首字母小写"
 lowerque(st) = replace(st, 
     "What "=>"what ", 

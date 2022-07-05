@@ -17,7 +17,7 @@ end
 
 
 "给前缀树增加单词"
-function add_node!(node::PrefixTree, word::String)::Nothing
+function add_node!(node::PrefixTree, word::AbstractString)::Nothing
     for c in word
         children = node.children
         haskey(children, c) || (children[c] = PrefixTree())
@@ -28,7 +28,7 @@ function add_node!(node::PrefixTree, word::String)::Nothing
 end
 
 "在字符串里匹配字典单词"
-function search_valid_word(node::PrefixTree, word::String)
+function search_valid_word(node::PrefixTree, word::AbstractString)
     res, n, word = String[], length(word), collect(word)
     for i in 1:n
         # 检索 word[i:end]

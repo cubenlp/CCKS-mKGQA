@@ -19,7 +19,7 @@ function line2triple(line; en=true)
 end
 
 # 处理问题错位
-lg, rg, substr = "([A-Z])", raw"([\w ,'()/–\-\.]+)", s"\g<1>\g<2>"
+lg, rg, substr = "([A-Z0-9])", raw"([\w ,'()/–\-\.]+)", s"\g<1>\g<2>"
 ill_reg(rep) = Regex(lg * rep * rg) => SubstitutionString(substr * rep)
 ill_pattern = ill_reg.([
         "'s name", # 211
@@ -28,8 +28,13 @@ ill_pattern = ill_reg.([
         "'s famous works", # 140
         "-related products", # 101
         "'s related products", # 63
-        " related events", # 35
-        "-related event related persons"
+        "[ -]related events", # 35
+        "-related event related persons",
+        "'s season",
+        " related data",
+        "'s head coach",
+        "'s data source",
+        " related event"
 ]);
 push!(ill_pattern,
     r"([^A-Za-z0-9])-held parliament([^A-Za-z0-9]+)(?<![ ?])" => s"\g<1>\g<2>-held parliament", # 21
