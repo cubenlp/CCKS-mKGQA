@@ -26,6 +26,6 @@ end
 # 只针对一维数据。。。
 function read_xlsx(filename)
     data = XLSX.readxlsx(filename)[1][:]
-    m, n = size(data)
+    _, n = size(data)
     string.(n == 1 ? data[:] : data) # 单行返回向量，多行返回矩阵
 end

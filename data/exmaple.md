@@ -56,3 +56,131 @@ zh	海德公园_(犹他州)	subdivisionType	美國行政區劃
 <http://dbpedia.org/resource/Longsheng_Various_Nationalities_Autonomous_County> <http://zh.dbpedia.org/property/東> <http://dbpedia.org/resource/Xing'an_County>
 
 <a href="https://en.wikipedia.org/wiki/Longsheng_Various_Nationalities_Autonomous_County" title="Longsheng Various Nationalities Autonomous County – 英文" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a>
+
+who **directed** the **theme** of NER?	the_lion_king_celebration	**theme**	**director**
+who is the **predecessor** of the **coach** of NER	houston_rockets	**coach**	**before**
+who is **before** the **coach** of NER?	portugal_national_football_team	**coach**	**before**
+which **country** does the **notable work** of NER belong to?	philip_eisner	**notableworks**	**country**
+who is **before** the **coach** of NER?	portugal_national_football_team	**coach**	**before**
+who is the **predecessor** of the **coach** of NER?	danish_football_association	**coach**	**before**
+which **country** does the **notable work** of NER belong to?	philip_eisner	**notableworks**	**country**
+
+
+President of **Next to** NER	|	alongside	president
+
+who will be next **Next to** NER	|	naomi_tokashiki	alongside	after
+President of **Next to** NER	|	leonard_wilcox	alongside	president
+president of **Beside** NER	|	john_henderson_(mississippi_politician)	alongside	president
+Premier of **Next to** NER	|	naomi_tokashiki	alongside	primeminister
+who was the **Next to** NER before	|	naomi_tokashiki	alongside	before
+
+
+to  series belongs the Notable Works of NER	|	paul_barnett_(video_game_designer)	notableworks	series
+where Election after NER	|	8th_national_people's_congress	afterelection	constituency
+what are the products responsible for NER	|	world_teamtennis	sponsor	products
+series the head of NER belongs to	|	royal_rumble_(2002)	sponsor	series
+mother of The father of NER	|	princess_nittabe	father	mother
+what are NER's Responsible Products	|	vengeance_(2005)	sponsor	products
+father of NER Client	|	mariyinsky_palace	client	father
+developer of The NER thing	|	nexus_6p	related	developer
+profession of NER Chronology	|	duality_(lisa_gerrard_&_pieter_bourke_album)	chronology	profession
+party belongs to Next to NER	|	john_henderson_(mississippi_politician)	alongside	party
+what eponymous domain of NER belongs to	|	von_behring_(crater)	eponym	field
+
+
+可能的识别错误
+what language do the creators of Amy Skye, Beth Nelson Chapman, Olivia Newton John's album NER speak	liv_on	chronology	language
+
+NER, British architect, where is his famous work
+NER, British architect, his famous work	|	notableworks	location
+
+Proxy change
+
+sub1 rel1 obj1
+obj1' rel2 xxx
+
+sub1 rel1 obj1
+obj1' rel3 xxx
+
+import requests
+from concurrent.futures import ThreadPoolExecutor
+import threading
+import time
+import os 
+from tqdm import trange, tqdm
+os.environ['HTTP_PROXY']="socks5://127.0.0.1:7890"
+os.environ['HTTPS_PROXY']="socks5://127.0.0.1:7890"
+
+proxy={
+  "http": "socks5://127.0.0.1:7890",
+  "https": "socks5://127.0.0.1:7890"
+}
+
+def download_file(url,file_path):
+    # NOTE the stream=True parameter below
+    with requests.get(url, stream=True,proxies=proxy) as r:
+        try:
+            r.raise_for_status()
+        except:
+            print(url)
+            return 
+        with open(file_path, 'wb') as f:
+            for chunk in r.iter_content(chunk_size=8192): 
+                # If you have chunk encoded response uncomment if
+                # and set chunk_size parameter to None.
+                #if chunk: 
+                f.write(chunk)
+
+def read_qids():
+    R = []
+    with open("/Users/qing/workspace_local/projects/wikidata/resource/entities_covered", 'r') as f:
+        for i,line in enumerate(f):
+            if i==0:
+                continue
+            # assert line.strip().startswith("Q"), f"{line}"
+            R.append(line.strip())
+    print(len(R), "entities!")
+    return R 
+
+
+
+def main():
+    pool = ThreadPoolExecutor(max_workers=16)
+    qids = read_qids()[10:]
+    for qid in tqdm(qids):
+        file_path=f"./lcquad/{qid}.nt"
+        if not os.path.exists(file_path):
+            pool.submit(download_file,f"https://www.wikidata.org/wiki/Special:EntityData/{qid}.nt",file_path)
+
+if __name__ == '__main__':
+    # main()
+    # download_file("https://www.wikidata.org/wiki/Special:EntityData/Q1603.nt", "./lcquad/Q1603.nt")
+    # download_file("https://www.wikidata.org/wiki/Special:EntityData/Q230448.nt", "./lcquad/Q230448.nt")
+    download_file("https://www.wikidata.org/wiki/Special:EntityData/Q3486420.nt", "./Q3486420.nt")
+    # qids = set(read_qids())
+    # files = [ file.replace('.nt', "") for file in os.listdir("./lcquad")]
+    # dqids = set(files)
+
+    # print(len(qids), len(dqids))
+    # print(qids- dqids)
+
+
+	|	issue	after
+takes place of successor of NER	|	issue	after
+rank of leader of NER	|	leader	rank
+rank of leader of NER	|	leader	rank
+
+successor of successor of NER
+
+lies in **west** of **county** NER belongs to	|	shirecounty	west
+lies in **rel2** of **rel1** NER belongs to
+
+1. 关系 => 在问题出现的形式 [rel1, rel2]
+2. 从问题提取模板，
+
+
+what is the parent of NER
+parent of NER	|	parents	occupation
+
+
+raw_en_triples[27468, 27458]
