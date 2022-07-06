@@ -16,3 +16,6 @@ end
 """元组拼接"""
 @inline tuplejoin(x::Tuple, y::Tuple) =  (x..., y...)
 @inline tuplejoin(x::Tuple, y::Tuple, z::Tuple...) = tuplejoin(tuplejoin(x, y), z...)
+
+"""判断是否包含子串"""
+containsin(st::AbstractString) = Base.Fix1(occursin, st)

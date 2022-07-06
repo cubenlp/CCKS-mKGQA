@@ -13,6 +13,7 @@ zh_subs, zh_objs = @. unique!([first(zh_triples), last(zh_triples)])
 zh_words = union(zh_subs, zh_objs)
 # 整合
 words = union(zh_words, en_words)
+wordset = Set(words)
 triples = unique!(vcat(en_triples, zh_triples))
 
 # ILLs doubles

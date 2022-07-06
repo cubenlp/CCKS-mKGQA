@@ -22,3 +22,12 @@ function ill2dict(ILLs::AbstractVector{Tuple{T, T}}) where T <: AbstractString
     end
     Dict(key=>val[1] for (key, val) in traversed)
 end
+
+function triple2dict(f::Function, raw_triples::AbstractVector)
+    elt1, elt2 = eltype(raw_triples), typeof(f(raw_triples[1]))
+    dict = DefaultDict{elt2, Vector{elt1}}(Vector{elt1})
+    for triple in raw_triples
+        push!(dict[f(triple)], triple)
+    end
+    dict
+end
