@@ -1,7 +1,5 @@
 # 关系抽取与实体对齐
 using StringDistances
-using DataStructures
-
 
 """
     dist(target, word; char=true)

@@ -1,6 +1,6 @@
 
 """从 ILLs 二元组提取字典"""
-function ill2dict(ILLs)
+function ill2dict(ILLs::AbstractVector{Tuple{T, T}}) where T <: AbstractString
     traversed = DefaultDict{String, Vector{String}}(Vector{String})
     for (en, zh) in ILLs
         if haskey(traversed, en) # 已经出现
