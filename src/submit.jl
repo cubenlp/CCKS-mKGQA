@@ -1,5 +1,4 @@
 # 路径搜索与标准格式生成
-using DataStructures
 
 # 三元组还原
 en_standard = Dict((=>).(en_triples_lower, raw_en_triples))

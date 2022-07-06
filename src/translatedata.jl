@@ -24,11 +24,6 @@ dict_words = Dict(zh=>en for (zh, en) in txts)
 triple_byMT(triple) = triple_byMT(triple...)
 triple_byMT(sub, rel, obj) = (dict_words[sub], dict_rels[rel], dict_words[obj])
 
-# # 读取三元组
-# function readtriples(path)
-#     txts = strip(read(open(path, "r"), String))
-#     [NTuple{3, String}(split(txt, '\t')) for txt in split(txts, '\n')]
-# end
 # # 翻译后的图谱
 # triples = readtriples("translate/triples.txt")
 # # en_triples = readtriples("translate/triples/en_triples.txt")

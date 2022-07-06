@@ -3,14 +3,12 @@
 cd("../data")
 # 读取三元组
 # en triples
-txts = strip(read(open("extract/triple_en.txt", "r"), String))
-en_triples = [NTuple{3, String}(split(txt, '\t')) for txt in split(txts, '\n')]
+en_triples = readtuples("extract/triple_en.txt")
 en_subs, en_objs = @. unique!([first(en_triples), last(en_triples)])
 en_words = union(en_subs, en_objs)
 
 # zh triples
-txts = strip(read(open("extract/triple_zh.txt", "r"), String))
-zh_triples = [NTuple{3, String}(split(txt, '\t')) for txt in split(txts, '\n')]
+zh_triples = readtuples("extract/triple_zh.txt")
 zh_subs, zh_objs = @. unique!([first(zh_triples), last(zh_triples)])
 zh_words = union(zh_subs, zh_objs)
 # 整合
@@ -18,12 +16,10 @@ words = union(zh_words, en_words)
 triples = unique!(vcat(en_triples, zh_triples))
 
 # ILLs doubles
-txts = strip(read(open("extract/ILLs(zh-en).txt", "r"), String))
-ILLs = [NTuple{2, String}(split(txt, '\t')) for txt in split(txts, '\n')]
+ILLs = readtuples("extract/ILLs(zh-en).txt"; size=2)
 
 # wiki ILLs
-txts = strip(read(open("extract/wiki_ills.txt", "r"), String))
-wiki_ILLs = [NTuple{2, String}(split(txt, '\t')) for txt in split(txts, '\n')]
+wiki_ILLs = readtuples("extract/wiki_ills.txt"; size=2)
 
 # 读取训练集和 NER
 train_ques_ner, train_sols = Tuple{String, String}[], Vector{NTuple{4, String}}[]

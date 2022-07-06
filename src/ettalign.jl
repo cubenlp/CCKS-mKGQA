@@ -1,4 +1,3 @@
-using DataStructures
 
 """从 ILLs 二元组提取字典"""
 function ill2dict(ILLs)
