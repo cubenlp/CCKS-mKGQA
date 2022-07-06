@@ -21,6 +21,10 @@ triples = unique!(vcat(en_triples, zh_triples))
 txts = strip(read(open("extract/ILLs(zh-en).txt", "r"), String))
 ILLs = [NTuple{2, String}(split(txt, '\t')) for txt in split(txts, '\n')]
 
+# wiki ILLs
+txts = strip(read(open("extract/wiki_ills.txt", "r"), String))
+wiki_ILLs = [NTuple{2, String}(split(txt, '\t')) for txt in split(txts, '\n')]
+
 # 读取训练集和 NER
 train_ques_ner, train_sols = Tuple{String, String}[], Vector{NTuple{4, String}}[]
 open("extract/train_data.txt", "r") do io
