@@ -184,3 +184,6 @@ parent of NER	|	parents	occupation
 
 
 raw_en_triples[27468, 27458]
+
+| ILLs | 准确率 | 缺二跳 | 缺三跳 | 完全无解 | 使用路径推理 |
+| ---- | ----- | ----- | ----- | ------ | ---- |

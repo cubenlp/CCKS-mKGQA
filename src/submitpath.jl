@@ -94,5 +94,5 @@ function find_vague_paths(ner, rels, triples; best = 2)
 end
 
 """提交模糊匹配"""
-vague_submit(ner, rels, triples, dict) = submit_format.(
-    vcat(valid_path.(find_vague_paths(ner, rels, triples), Ref(dict))...))
+vague_submit(ner, rels, triples, dict;best=2) = submit_format.(
+    vcat(valid_path.(find_vague_paths(ner, rels, triples;best=best), Ref(dict))...))

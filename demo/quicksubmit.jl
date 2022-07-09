@@ -1,13 +1,15 @@
 cd(Base.source_dir())
+sols = split(strip(read(open("predict_data.txt", "r"), String)), '\n')
 
-submit_id = parse(Int, ARGS[1])
-
+include("../src/CCKS-mKGQA.jl")
+include("../src/extractdata.jl")
 include("../src/translatedata.jl")
-include("../src/deduction.jl")
-include("../src/submit.jl")
+include("../src/ettalign.jl")
+include("../src/distance.jl")
+include("../src/submitpath.jl")
 
 # 读取预测结果
-sols = split(strip(read(open("predict_data.txt", "r"), String)), '\n')
+
 temp = submit(sols[1])
 fails = String[]
 println("正在开始提交问题答案")
