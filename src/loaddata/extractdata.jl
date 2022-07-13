@@ -19,9 +19,6 @@ triples = unique!(vcat(en_triples, zh_triples))
 # ILLs doubles
 ILLs = readtuples("extract/ILLs(zh-en).txt"; size=2)
 
-# wiki ILLs
-wiki_ILLs = readtuples("extract/wiki_ills.txt"; size=2)
-
 # 读取训练集和 NER
 train_ques_ner, train_sols = Tuple{String, String}[], Vector{NTuple{4, String}}[]
 open("extract/train_data.txt", "r") do io
