@@ -60,3 +60,5 @@ function MT_questions(ques, filename; write=true)
         MT_que.(ques)
     end
 end
+
+remove_discript(que::AbstractString) = replace(que, r", (a|an) .*?[,?]" => "")
