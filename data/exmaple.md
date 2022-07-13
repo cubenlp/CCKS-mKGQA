@@ -94,81 +94,6 @@ what language do the creators of Amy Skye, Beth Nelson Chapman, Olivia Newton Jo
 NER, British architect, where is his famous work
 NER, British architect, his famous work	|	notableworks	location
 
-Proxy change
-
-sub1 rel1 obj1
-obj1' rel2 xxx
-
-sub1 rel1 obj1
-obj1' rel3 xxx
-
-import requests
-from concurrent.futures import ThreadPoolExecutor
-import threading
-import time
-import os 
-from tqdm import trange, tqdm
-os.environ['HTTP_PROXY']="socks5://127.0.0.1:7890"
-os.environ['HTTPS_PROXY']="socks5://127.0.0.1:7890"
-
-proxy={
-  "http": "socks5://127.0.0.1:7890",
-  "https": "socks5://127.0.0.1:7890"
-}
-
-def download_file(url,file_path):
-    # NOTE the stream=True parameter below
-    with requests.get(url, stream=True,proxies=proxy) as r:
-        try:
-            r.raise_for_status()
-        except:
-            print(url)
-            return 
-        with open(file_path, 'wb') as f:
-            for chunk in r.iter_content(chunk_size=8192): 
-                # If you have chunk encoded response uncomment if
-                # and set chunk_size parameter to None.
-                #if chunk: 
-                f.write(chunk)
-
-def read_qids():
-    R = []
-    with open("/Users/qing/workspace_local/projects/wikidata/resource/entities_covered", 'r') as f:
-        for i,line in enumerate(f):
-            if i==0:
-                continue
-            # assert line.strip().startswith("Q"), f"{line}"
-            R.append(line.strip())
-    print(len(R), "entities!")
-    return R 
-
-
-
-def main():
-    pool = ThreadPoolExecutor(max_workers=16)
-    qids = read_qids()[10:]
-    for qid in tqdm(qids):
-        file_path=f"./lcquad/{qid}.nt"
-        if not os.path.exists(file_path):
-            pool.submit(download_file,f"https://www.wikidata.org/wiki/Special:EntityData/{qid}.nt",file_path)
-
-if __name__ == '__main__':
-    # main()
-    # download_file("https://www.wikidata.org/wiki/Special:EntityData/Q1603.nt", "./lcquad/Q1603.nt")
-    # download_file("https://www.wikidata.org/wiki/Special:EntityData/Q230448.nt", "./lcquad/Q230448.nt")
-    download_file("https://www.wikidata.org/wiki/Special:EntityData/Q3486420.nt", "./Q3486420.nt")
-    # qids = set(read_qids())
-    # files = [ file.replace('.nt', "") for file in os.listdir("./lcquad")]
-    # dqids = set(files)
-
-    # print(len(qids), len(dqids))
-    # print(qids- dqids)
-
-
-	|	issue	after
-takes place of successor of NER	|	issue	after
-rank of leader of NER	|	leader	rank
-rank of leader of NER	|	leader	rank
 
 successor of successor of NER
 
@@ -176,14 +101,4 @@ lies in **west** of **county** NER belongs to	|	shirecounty	west
 lies in **rel2** of **rel1** NER belongs to
 
 1. 关系 => 在问题出现的形式 [rel1, rel2]
-2. 从问题提取模板，
-
-
-what is the parent of NER
-parent of NER	|	parents	occupation
-
-
-raw_en_triples[27468, 27458]
-
-| ILLs | 准确率 | 缺二跳 | 缺三跳 | 完全无解 | 使用路径推理 |
-| ---- | ----- | ----- | ----- | ------ | ---- |
+2. 从问题提取模板
