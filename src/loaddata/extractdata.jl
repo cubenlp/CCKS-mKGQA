@@ -11,15 +11,18 @@ en_words = union(en_subs, en_objs)
 zh_triples = readtuples("extract/triple_zh.txt")
 zh_subs, zh_objs = @. unique!([first(zh_triples), last(zh_triples)])
 zh_words = union(zh_subs, zh_objs)
-# 整合
+
+# 整合三元组
 words = union(zh_words, en_words)
 wordset = Set(words)
 triples = unique!(vcat(en_triples, zh_triples))
+# 标记语言
+raw_triples = vcat(tuplejoin.(Ref(("zh",)), zh_triples), tuplejoin.(Ref(("en",)), en_triples))
 
 # ILLs doubles
 ILLs = readtuples("extract/ILLs(zh-en).txt"; size=2)
 
-# 读取训练集和 NER
+# 训练集和 NER
 train_ques_ner, train_sols = Tuple{String, String}[], Vector{NTuple{4, String}}[]
 open("extract/train_data.txt", "r") do io
     while (que = readline(io)) != ""
@@ -37,5 +40,6 @@ end
 valid_ques = Vector{String}(split(
         strip(read(open("extract/valid_data.txt", "r"), String)), '\n'))
 
+# 读取验证集和 NER
 valid_ques_ner = split.(Vector{String}(split(
         strip(read(open("extract/valid_data_ner.txt", "r"), String)), '\n')), '\t')
