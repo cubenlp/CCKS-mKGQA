@@ -57,17 +57,8 @@ function valid_path(newpath, dict)
 end
 
 """提交精确匹配"""
-precise_submit(ner, rels, edges, dict) = submit_format.(
-    vcat(valid_path.(find_paths(ner, rels, edges), Ref(dict))...))
-# function precise_submit(ner, rels, edges, dict)
-#     res = String[]
-#     for path in find_paths(ner, rels, edges)
-#         for rawpath in valid_path(path, dict)
-#             push!(res, submit_format(rawpath))
-#         end
-#     end
-#     res
-# end
+precise_submit(ner, rels, data) = submit_format.(
+    vcat(valid_path.(find_paths(ner, rels, data.ills_edges), Ref(data.triple_ills2raw))...))
 
 """
     find_vague_paths(ner, rels, triples; best=2)
