@@ -1,0 +1,425 @@
+1	where is the constituency of the one who is alongside NER from?
+7	where does the location province of NER belong to?
+8	who does the origin of NER influence's name?
+11	what is the parent mountain of the client of NER?
+15	who is the creator of the car that NER is related to?
+16	who is before the commander of NER?
+22	who wrote the singer who performed for NER?
+23	which one is known as the prime minister of the one that is after election of NER
+24	where is the team that won NER grounded?
+27	what is the title of the eponym of NER?
+30	what is the house of the commander of NER?
+35	who starred in the sponsor of NER
+38	what is involved in the important events attended by NER?
+45	what causes the people, things and things with the same name as NER?
+49	what is on the south of the people, things and things with the same name as NER?
+52	who is the regnet of the children of NER
+54	which series does the sponsor of NER belong to?
+55	where is the south of the location province of NER
+56	who appointed NER's record company?
+57	what is the title of the successor of NER?
+64	who directed the singer who performed for NER?
+66	what is the timezong of NER's southern region?
+71	what is the predecessor of the combatant of NER?
+73	who is the predecessor of the coach of NER?
+74	what does the division that NER belongs to work for?
+87	where is the birthplace of the coach of NER?
+95	who takes the place of the children of NER
+100	where is the client of NER located?
+110	who do the job after the one that is after election of NER?
+113	what is the country admin division of the person and things that shares the same name with NER?
+118	which logo is about NER's record company?
+119	what is the house of the father of NER?
+127	where is the birthplace of the father of NER?
+135	who takes the place of the father of NER?
+142	which award is the one who is alongside NER given?
+158	where is the alma mater of NER located?
+166	what is the person and things that shares the same name with NER
+170	what is the job of the singer who participated in NER?
+175	what is the nickname of the alma mater of NER?
+178	where does the event of NER take place?
+183	which title does the cause of NER belong to?
+189	who is the predecessor of the leader of NER?
+194	when is the author of NER born?
+196	who is the spouse of the parent of NER?
+201	which language does the singer who performed for NER use?
+203	who is before the father of NER?
+205	who honored the children of NER?
+206	who is the successor of the one who is alongside NER
+223	what is the location country of the client of NER?
+232	which place is called as the subdivision of the city in the south of NER?
+233	which national team does NER's coach belong to?
+237	who did a job before the person and things that shares the same name with NER?
+249	what is the map caption of the people, things and things with the same name as NER?
+255	what is the region of the person and things that shares the same name with NER?
+259	what is the religion of the man who influenced NER?
+262	who is the director of the person and things that shares the same name with NER?
+264	which one is presented before the person and things that shares the same name with NER
+271	who is the spouse of the people, things and things with the same name as NER?
+280	who is the predecessor of the one that is after election of NER?
+284	what is the club that NER's head coach belongs to?
+285	what is the style of the father of NER
+290	who commanded the name included in the NER?
+292	who is the successor of the father of NER?
+295	who is the creator of the notable work of NER?
+303	what is the nationality of the one that is after election of NER?
+313	who is the successor of the cause of NER?
+315	who is the predecessor of the one who is alongside NER?
+317	what is the region of the chief town of NER?
+318	which timezone does the city in the south of NER ponent, lleida province, spain, belong to?
+321	where is the location province of NER seated?
+322	where is the capital of the person and things that shares the same name with NER located?
+323	what is the allegiance of the one who is alongside NER to?
+326	what is the title of the car that NER is related to?
+330	what includes the event of NER
+332	who is the producer of the person and things that shares the same name with NER?
+341	who is the mother of the leader of NER?
+345	what does the leader of NER succeed?
+347	what does the chief town of NER belong to?
+351	where is the city in the south of NER seated?
+356	what is the warrior of the name included in the NER?
+368	which genre does the singer of NER belong to?
+372	where is the stadium of the important event of NER held?
+382	what is the combatant of the event of NER?
+383	where did the leader of NER study?
+385	what is the southwest of the location province of NER
+394	which place is called as the subdivision of the northwest of NER?
+396	who starred in the works that make NER known?
+397	which dynasty is the person whose name is used to name NER born?
+398	what is the title of the father of NER?
+400	which program is before NER's famous works?
+403	where did the commander of NER die?
+405	what is the origin of the author of NER?
+406	where does the leader of NER belong to?
+407	what is the status of the combatant of NER?
+409	who is the father of the leader of NER?
+420	what is the common language of the country of birth of NER
+423	what is the name included in the NER?
+427	where does the one that is after election of NER live?
+431	who is the one that is after election of NER?
+433	what is the canton of the northwest of NER?
+435	who gives the honorific suffix of the people, things and things with the same name as NER?
+449	what is the ethnicity of the people, things and things with the same name as NER?
+452	who is the director of NER's famous works?
+458	where does the leader of NER get the honorific suffix?
+464	who is the extra of the car that NER is related to?
+473	who is the parent of the children of NER?
+478	who is the director of the sponsor of NER?
+480	who starred in the singer who performed for NER?
+483	what is in the charge of the successor of the candidate of NER?
+486	what is the subdivision type of the north of the northeast of NER utah, united states?
+489	which timezone does the north of the west of NER belong to?
+490	where is the alma mater of the successor of the candidate of NER?
+491	what is the deathpalce of the successor of the descendant of NER?
+494	who is the female parent of the successor of the descendant of NER?
+496	who did a job before the predecessor of the candidate of NER?
+501	town in Dudgett County, Utah, United States, the location in the south of NER, the location in the southwest, which division belongs to
+508	who is the last of the title of NER?
+509	where was the first person with the title of NER born?
+511	what is the country region of the location in the northern part of the province where NER is located?
+514	what is the occupation of the singer who participated in NER?
+515	what is the religion of the origin of the name NER?
+518	NER, Wikimedia listing article, what team is the captain of its club location
+524	where is the location of the location in the east, where the NER is held for a season of French football clubs
+530	French politician (1885-1956) who was the predecessor of the previous generation of NER
+531	where is the address of NER related events
+533	what is the nickname of NER's alma mater?
+536	NER's location what time zone does the city in the west belong to?
+537	which city is the operator of NER's location?
+541	A town in Millard County, Utah, United States what is the time zone of the location in the southeast of NER, the location in the northeast?
+544	who is the successor of NER's election winner?
+545	what time zone is used in the southern region of NER?
+546	which district does the city in the west of the birthplace of SS officer NER belong to?
+550	NER, the early dynastic confederation of ancient Egypt (c. 3150 AD) whose leader was the last
+551	NER, Wikimedia list article, what are the titles of the leaders of the locations south of the city where they are located
+554	what is the zoning of the area to the northwest of NER Catalonia, Spain
+555	which film company does NER's related products (works) belong to?
+563	what party is the election winner for Wall NER?
+566	what is the title of the consort of the ruler of NER
+568	NER's location what time zone does the northern location belong to?
+570	what time zone is the location in the southeast of the city where the Wikimedia list article NER is located
+576	what is the common language of people, things and things that have the same name as NER?
+578	what is the zoning of the location in the southeast of NER Utah, United States?
+579	who are the generals of the people in NER?
+585	where is the location in the west of the city where NER is located?
+586	who is the predecessor of NER's election winner?
+590	what common language is used for flag events established by the location of NER?
+592	what instrument did the creator of NER use
+595	where did NER's election winner's voters come from?
+596	which dynasty does the legislature where the NER take place belong to?
+597	A city in Cage County, Utah, United States, where is the location north of NER, which time zone is the location west of?
+606	which district does the mayor of NER belong to?
+610	NER what is the constituency of the location in the east of its venue
+611	what is the constituency for the location west of a sports cricket match NER?
+612	which division does the southern part of the NER site belong to?
+624	The 38th season in franchise history; what zone does the location in the northeast of the first Super Bowl winner NER belong to
+625	what is the party affiliation of the legislature for the position of the football team for a season NER?
+627	what is the tenant of the NER's venue named?
+632	what area is the southern city of NER in?
+634	what is the region of the NER location in the west and the location in the northeast?
+637	what is the zoning of the location in the northwest where NER died?
+639	what time zone is used in the city where the NER is held?
+647	who is the successor of the successor of the descendants of NER?
+649	what is the location of NER? what is the location in the north?
+651	where is NER located in the North West
+655	who is NER's predecessor of the same name
+659	Express trains between Brussels, Belgium and Switzerland (formerly Italy). what is the dynasty to which the legislature of NER's place belongs?
+660	who is the leader of the flag event established by the location of NER
+663	what is the title of the location leader in the eastern part of the football game NER?
+664	which party does Wallner's election winner belong to?
+665	who is the successor of the descendants of Queen NER of Sweden?
+668	NER's position is named after whose predecessor
+671	NER, diplomat and statesman of Imperial Japan (1887-1957), who was the predecessor of his successor's previous generation
+672	awhere is the location of Guangzhou Evergrande Taobao 2015NER in the northeast?
+673	what is the title of the successor of NER's venue?
+678	NER where is it located in the western part of the province
+679	who is NER's successor's predecessor's next
+684	who is NER's candidate for the previous generation of kings?
+686	where does the current incumbent of the title of NER take office?
+688	NER what is the occupation of its creator
+689	what time zone is used for the location in the southern part of the NER
+691	NER, American college basketball season, what is the zoning of the location north of its home
+694	who is the spouse of the previous generation of the title of NER?
+695	The location of the Wikimedia roster NER The name of the location leader in the east is
+701	what is the predecessor of the person or thing concerned with the consequences of a battle in China in 617 AD?
+706	which region type does the location in the northwest of the region to which the NER belongs
+708	who is the predecessor of the previous generation where NER was held?
+709	what is the predecessor of the successor of NER's venue
+713	who is NER's predecessor of the same name
+715	NER's location what area does the location in the northwest belong to?
+716	who was the president of NER's previous generation
+719	NER what is the division of its southern area
+720	where are the leaders of NER installed?
+724	which party does the legislature where the NER is held belong to?
+726	what is the zoning of a city in Cage County, Utah, United States, NER, location, northeast, location, northeast, location?
+727	what is the title of the location leader in the east of where the NER is held?
+730	NER, New Zealand Rugby League football player (1995-), where is his birthplace?
+731	who is the predecessor of NER's election winner?
+732	what is the dynasty to which a football team's season NER's position is established?
+735	who is NER's father's successor?
+737	where was the person named NER born
+738	who is the mother of the leader of NER
+739	what is the previous generation of NER's election winner?
+756	who is the king of NER's election winner
+758	who is the sponsor of NER starring
+760	what time zone is the location south of NER in?
+761	which NER's client belongs to?
+767	what race is the person, thing, thing with the same name as NER?
+769	where was the creator of NER born
+774	which country is NER's customer from?
+781	where did the voters played by NER come from?
+786	where does the leader of NER belong?
+797	what type of country is NER's participating country?
+799	what is the common language spoken in the country of birth of the Congolese footballer NER?
+801	who is the director of the same name of NER?
+802	who is the leader of NER's successor?
+816	who is the author of the singer who participated in NER
+822	2013 UEFA Women's Euro 2013 Final Match NER Related Events Tag What
+825	who created the work that made American voice actor NER known?
+836	In a French state (as of March 2015) which district is the main town of NER
+837	where are NER's customers located?
+849	where is the birthplace of the coach of the Malaysian badminton player NER
+850	who was influenced by the person whose name was used to name NER?
+855	who has appeared on NER's related products (works)
+866	who is NER's father and mother's spouse
+872	where is the person or thing with the same name as NER?
+884	what is the last work of a person or thing with the same name as NER?
+886	what is the name of the country's prime minister of walner's election winner
+894	NER's election winner whose last term was
+897	where is the southern part of the person or thing with the same name as NER
+898	where was NER's father's birthplace
+900	what is the country area to which the person, thing, and thing with the same name as NER belong?
+903	Who's next show for NER's writing
+917	And NER it was made by the person or thing with the same name
+919	what region does the mayor of NER belong to in the country?
+920	what titles do the related products (works) of the TV series NER have
+924	where did the creators of NER originate from?
+930	where did Wallner's election winners live?
+934	what is the area to which the site belongs to the south of NER Catalonia, Spain
+935	what is the title of the person or thing related to the consequences of fighting NER?
+936	where is NER's team
+940	who is the singer who participated in NER's work?
+941	where do the leaders of NER work?
+942	what titles are people whose names are used to name NERs
+944	which teams are NER's coaches participating in?
+945	what is the previous generation of the coach of the men's National Football Association football team NER representing India?
+948	who is the leader of the NER to legislate?
+952	where is the address of the event involved in NER
+953	where is the capital (or provincial capital) of the person, thing, and thing with the same name as the Colony-class frigate NER
+956	where are the major events of the NER held?
+957	what is the representative of the country that uses NER, a language of the ancient Korean Baekje Kingdom
+962	Whose predecessor did NER play
+963	who is the star of NER's famous work?
+965	what city is in the southwest of NER's province
+967	who created the products or works related to NER
+970	with a floating nuclear power plant in Russia. NER what field does the person, thing, and thing with the same name belong to?
+971	where is the southern part of the province where NER is located?
+974	what caused the name of the warship NER during World War II
+976	in which state is NER's alma mater?
+977	what dynasty did NER's father belong to?
+983	where is the place of death of the successor of the descendants of NER?
+984	what area does the location in the southeast of NER's venue belong to?
+985	NER which time zone the location northeast of its location belongs to
+986	what is the previous generation of the previous generation represented by NER?
+989	what is the area of the location in the south of NER's headquarters address?
+990	what are the titles of the previous generation leaders of the position of the NER of a football team in a season?
+991	what is the name of the leader of the administrative center where NER is located?
+994	what time zone does the location in the southern part of NER's venue belong to?
+995	A town in Millard County, Utah, United States, the location in the southeast of NER, the location in the north, and which time zone does the location belong to?
+996	NER which district is the city in the west of the city where it is located
+997	who is the first king of the title of NER?
+998	what time zone does the location in the north of NER belong to?
+999	what is the provincial capital of the location in the west of the NER's venue?
+1002	who is the customer of the NER label
+1003	what is the title of The NER Related Thing
+1006	do you know what the agency headed by The head of NER is
+1008	what is the race of NER's ship name
+1014	do you know who is next to The winner of NER
+1016	do you know what awards Next to NER has won
+1020	do you know what was the last show of The notable works of NER
+1024	who are the generals participating in the NER name
+1031	do you know who is the leader of Election after NER
+1037	What's before The NER Coach
+1046	who is the heir of Next to NER
+1048	do you know where NER customer come from
+1049	who is the creator of NER's Notable Works
+1053	where is the Alma Mater of The Leader of NER
+1055	do you know where the headquarters of NER Country participant is located?
+1066	Did you know that the common languages of NER's country of origin were Congolese?
+1067	do you know who the parents of The Children of the NER are
+1068	what era did the eponym of NER come from
+1072	do you know what is the honorary suffix of The leader of NER
+1078	do you know which stadium hosts the NER South
+1091	what is the nationality of Election after NER
+1096	do You Know who Is The Mentor Of NER's Notable Works
+1098	where is the location of the NER Client
+1112	who is the creator of The NER Related Thing
+1118	do you know who is the wife of NER's ship name
+1124	do you know what religion the person who affects NER believes patriot and republican?
+1132	do you know who Next to NER is loyal to?
+1133	where is the administrative center of NER South
+1137	do you know where is the birthplace of The father of NER
+1142	what are the countries of NER's name participating?
+1145	do you know what is the description of the map of NER's ship name
+1154	do you know where the capital of NER's ship name is
+1158	What's before Generals of participating NERs
+1159	who is the predecessor of Beside NER
+1163	do you know which national team belongs to NER South
+1168	do you know where is the eponymous title of NER
+1171	do you know what is the name of the administrative district of Southern NER
+1177	do you know which domain belongs to The name of the ship from NER
+1180	where is the position of the Events in NER
+1184	who is the mother of The leader of NER
+1186	do you know what type of settlement is in the province where NER mine in mongolia is located?
+1187	do you know who is the predecessor of The name of the ship of NER
+1194	what is the status of Participating NER Country
+1197	what is the type of NER addition
+1202	do you know when the NER Timeline came from
+1205	do you know what is the country of NER Client
+1216	do you know what is the name of the administrative district of Northwest of NER
+1218	what is the time zone used by NER South
+1224	who is Next to NER's Wife
+1230	what is the house of The father of NER
+1231	do you know what is the management level of North East of NER World Day Venue
+1232	where is the city of The location of The stadium where NER was held
+1233	what is the honorific suffix of Occupied people of The title of NER
+1235	do you know what is the postcode of the south west of NER World Day Location
+1236	what dynasty does The Life of NER World Day Place belong to?
+1241	do you know who the front of NER's photo caption was before
+1243	do you know what is the name of administrative district of Capital of NER location
+1245	do you know what is the management level of The South of NER World Day Venue
+1249	do you know what time zone uses North Western NER the netherlands?
+1256	who will be the front of the NER location next
+1258	what is the house of The father of NER
+1264	what is the ZIP code for the South West location of NER
+1267	do you know who is the wife of Election after NER
+1270	what is the time zone used by NER Eastern West
+1276	do you know which national team belongs to The coach of NER's club
+1278	what is the birthplace of The Father of NER
+1282	what time zone does Northeast of The stadium where the NER took place
+1283	do you know what is the name of administrative district of Western NER location
+1284	do you know what country the NER location photo caption is
+1287	where is the city of The location of The stadium where the NER took place
+1290	do you know what time zone is West of The place of death of NER
+1292	do you know what timezone the Northeast of The stadium where NER took place
+1294	do you know what is the management level of Area covered by the NER location
+1297	what is the name of the administrative division of the southwest of NER's location
+1298	do you know who was the Front of World NER Day Venue before
+1299	do you know what currency is used in NER Location Release Event
+1303	what time zone uses North of The place of death of NER
+1308	do you know who is the leader of the South of NER site
+1313	what is the name of the administrative division of The name of the vessel of NER
+1314	what is the common language of the NER Location Release Event
+1315	do you know what time zone is in Club in which The stadium where the NER took place is part
+1324	what is the level of management at the South of The stadium where the NER took place
+1326	do you know where the birthplace of NER's Coach is?
+1328	what is the education level of The addition of NER
+1331	do you know what is the management level of Southern Place of NER
+1332	do you know where is the birthplace of the city of Captain of The club of NER
+1333	do you know who was the Your next club L'avant de NER before?
+1335	what is the national team of The coach of The club of NER
+1341	do You Know which Party Belongs to NER's Location Life
+1346	do you know who is the predecessor of Your next club L'avant de NER
+1348	who is the leader of the Northeast NER location
+1350	do you know what is the management level of The Northeast of NER Millionaires
+1352	who is the leader of the East of The stadium where the NER took place
+1353	do you know where the constituency of the West of NER's place of death is
+1355	do you know where the Northeast of NER's location is
+1359	what is the level of management in Area covered by NER Region
+1361	do you know what is the name of the administrative district of Nord-Ouest de NER Belgium?
+1363	what is the level of management at Southwest NER South utah, united states?
+1367	do you know who is the mentor of the NER addition
+1373	do you know where the constituency of the West Venue of NER is?
+1376	do you know what kind of NER addition
+1380	do You Know where Your Next Club from The NER Question Died
+1381	what language does NER addition
+1384	do you know what is the program format of The title of NER World Day Venue?
+1386	do you know who was touched by NER's eponymous
+1389	where is the title of Your next club The question of NER
+1391	what is the name of the administrative division of the southwest of The stadium where the NER took place?
+1393	do you know what is the name of the administrative district of the south-west of The stadium where the NER took place
+1394	what is the type of The name of NER
+1396	do you know what is the management level of Western NER Millionaires
+1397	do you know what is the common language of the NER Location Release Event
+1399	who is the wife of The next term of The question of NER
+1405	do you know what is the traditional shape of the forward of NER's club?
+1408	do you know who was the front of NER's location before
+1409	where are the heirs of Generals of the participating NERs
+1410	do you know what is the rank of Next to NER
+1412	who is the heir to the front of NER's title
+1415	what is the time zone used by Eastern of Southern NER
+1419	what is the traditional shape of the forward of NER's club
+1424	do You Know what Language Lyrics Of NER's Title Is Using
+1425	do you know who is the predecessor of The name of the ship of NER
+1430	who was the Predecessor of L'avant de NER before
+1433	do you know what is the district of The main city of NER
+1434	do you know what the profession of NER addition is?
+1436	what are the important positions of Beside NER
+1437	do You Know who Will Be Next The Ahead Of NER's Question
+1438	do you know what time zone uses Southeastern NER location a football team season?
+1443	do you know where is the address of the tenants of the stadium where the NER took place
+1444	do you know what is the specialty of Inaugural speech of The title of NER
+1449	do you know who is the leader of the The North West of The stadium where the NER took place
+1450	do you know where the Northeast of NER site is
+1452	what is the level of management at NER South
+1453	what is the common language of the NER Location Release Event
+1454	In what state is The name of the ship from NER
+1458	do you know what is the name of the administrative district of The Northeast of The stadium where the NER took place
+1459	do you know what is the name of the administrative district of Western NER Millionaires
+1460	in which state is the Area covered by the NER location
+1462	do you know that before the person or thing related to the result caused by NER is?
+1464	do you know who is the head of the The head of the NER
+1465	do you know where is the administrative center of the province where the NER is located
+1468	what is the level of management at NER's Southeast Site
+1471	do you know where is the address of The operator of The stadium where the NER took place
+1472	do you know who is the president of NER's ship name
+1473	do you know who is the predecessor of Inaugural speech of The title of NER
+1474	do you know what time zone is in East of NER location
+1475	what is the nationality of Election after NER
+1484	where Does the Religion of Inaugural Speech from NER's Title Come From?
+1485	which party belongs to The life of The stadium where the NER took place
+1487	what is the time zone used by the NER Southwest Site
+1489	do you know what time zone is in South of NER spain?
+1492	do you know where is the city of The location of Birthplace of NER
+1495	what is the name of the administrative division of the Southeast of NER site
+1498	what is the level of management at Country Capital to which NER belong
