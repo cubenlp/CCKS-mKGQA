@@ -16,3 +16,6 @@ end
 """元组拼接"""
 @inline tuplejoin(x::Tuple, y::Tuple) =  (x..., y...)
 @inline tuplejoin(x::Tuple, y::Tuple, z::Tuple...) = tuplejoin(tuplejoin(x, y), z...)
+
+ismatch(reg::Regex, txt) = !isnothing(match(reg, txt))
+ismatch(reg::Regex) = Base.Fix1(ismatch, reg)

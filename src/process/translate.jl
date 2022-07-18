@@ -29,6 +29,27 @@ rel_rules = (
     r"\d+下一節目" => "下一節目",
     "é" => "e");
 
+# 翻译后的少量格式转化
+mt_rules = (
+    r"^(.*) \1$" => s"\g<1>", # 重复
+    "(3rd|2nd)regionalName" => "regionalName", # 头部序号
+    r"^\d+(.*)" => s"\g<1>", # 头部数字
+    r"(^[\., ]+|[\., ]+$)" => "", # 首尾符号
+    "TV" => "Tv", # 小写处理 
+    "ゲームジャンル" => "gameGenre", # 日语
+    "ジャンル" => "genre", # 日语
+    "The father of the main room"=>"father", # 多余修饰
+    "Father of Yuan Pei"=> "father"
+)
+
+"""关系词的格式转化"""
+function standardrel(rel::AbstractString)
+    rel = replace(rel, mt_rules...)
+    rel = join(uppercasefirst.(split(rel, ' ')))
+    inds = findall(isuppercase, rel)
+    words = [rel[l:r] for (l, r) in zip(inds, push!(inds[2:end], length(rel)+1) .- 1)]
+    lowercase(join(words, '_'))
+end
 
 "问句首字母小写"
 lowerque(st) = replace(st, 
