@@ -1,0 +1,48 @@
+event|	|event
+chairman|	|president
+incident|	|event
+leader|	|leader
+client|	|client
+singer|	|extra
+northwest|	|nw
+parent|	|parents
+nickname|	|nickname
+creators|	|chronology
+manager|	|sponsor
+name|	|name
+parents|	|parents
+author|	|chronology
+currency|	|currency
+sponsors|	|sponsor
+master|	|controlledby
+chronology|	|chronology
+mayor|	|chieftown
+alongside|	|alongside
+children|	|children
+theme|	|theme
+descendants|	|issue
+next to|	|alongside
+creator|	|chronology
+sponsor|	|sponsor
+descendant|	|issue
+head|	|sponsor
+father|	|father	parent	parents
+eponym|	|eponym
+team|	|team
+division|	|division
+play|	|alongside
+battle|	|battles
+
+father:[father	parent	parents]
+238
+
+1. 问题 => 问题和关系有强关联的单词
+what is the successed of father of NER | NER father successed
+
+2. 关联单词 => 读取对应关系（字典）
+father:[father	parent	parents]
+successed:[successor after]
+
+paths
+
+问题关键词 => 对应关系的字典

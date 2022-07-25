@@ -1,0 +1,1500 @@
+where is the constituency of the one who is alongside NER from?	felix_chung	alongside	honorificsuffix
+who is the successor of the parent of NER	francis_russell,_marquess_of_tavistock	parents	successor
+who is the leader of the administrative region to which NER belongs?	governor_of_genoa	body	leader
+who preceded the parent of NER	franklin_delano_roosevelt_iii	parents	parents
+which draft team does the author of NER dj quik lord tariq and peter gunz belong to?	the_way_it's_goin'_down	chronology	position
+who is before the parent of NER statesman and writer first prime minister of india (1889-1964)?	jawaharlal_nehru	children	before
+where does the location province of NER belong to?	khuut_coal_mine	state/province	seat
+who does the origin of NER influence's name?	aryabhata_(crater)	eponym	region	west
+what is the genre of the author of NER	they_all_went_to_mexico	chronology	genre
+which title does the parent of NER belong to?	franklin_delano_roosevelt_iii	parents	title
+what is the parent mountain of the client of NER?	ira_goldstein	client
+who did a job before the parent of NER?	francis_russell,_marquess_of_tavistock	parents	predecessor
+what is the type of the people, things and things with the same name as NER?	uss_mauna_kea_(ae-22)	title	commander1label	style
+what is the profession of the one that is after election of NER?	italian_general_election,_1992	afterelection	profession
+who is the creator of the car that NER is related to?	supergirl_(tv)	related
+who is before the commander of NER?	u.s._southern_command	commander	awards
+who did a job before the one that is after election of NER?	republic_of_china_presidential_election,_1918	afterelection	predecessor
+what is spoken by the name included in the NER?	list_of_awards_and_nominations_received_by_craig_david	name	language
+who married the author of NER	christmas_together	chronology	spouse
+what is the nationality of the name included in the NER?	list_of_awards_and_nominations_received_by_craig_david	name	nationality
+where is the people, things and things with the same name as NER located?	usns_john_lewis_(t-ao-205)	shipnamesake	state
+who wrote the singer who performed for NER?	3/8_(album)	extra	studio
+which one is known as the prime minister of the one that is after election of NER	peruvian_general_election,_1985	afterelection
+where is the team that won NER grounded?	1955–56_hapoel_haifa_f.c._season	team	other
+who rules the commander of NER	battle_of_legnano	commander	successor
+where is the headquarters of the combatant of NER	civil_war_in_the_republic_of_congo	combatant
+what is the title of the eponym of NER?	haldane_(lunar_crater)	eponym	title
+who is the leader of the combatant of NER?	grief_night	combatant	leader
+what is the religion of the event happened in NER?	upper_germania	event	religion
+what is the house of the commander of NER?	battle_of_baiteng_river_(938)	commander
+where does the one that is after election of NER belong to?	german_federal_election,_1920	afterelection	before
+who is the successor of the leader of NER?	colony_of_greenland_(1950–53)	leader
+which dynasty does the leader of NER belong to?	spanish_general_election,_1869	leader	title
+what is the job of the people, things and things with the same name as NER?	type_0891a_training_ship	shipnamesake	profession
+who starred in the sponsor of NER	night_of_champions_(2012)	sponsor	format
+which religion does the country that is affected by NER belong to?	2006_yogyakarta_earthquake	countriesaffected	subdivisiontype
+what is the location of the alma mater of NER?	phil_bentley	almamater
+what is involved in the important events attended by NER?	2010–11_queens_park_rangers_f.c._season	s	team
+what does the people, things and things with the same name as NER belong to?	french_ironclad_alma	shipnamesake
+what is the succession of the commander of NER?	battle_of_legnano	commander	successor
+who published the sponsor of NER?	armageddon_(2008)	sponsor
+what belongs to the parent of NER	neleus	parents	children
+where is the author of NER born?	the_milt_jackson_big_4	chronology
+what is the region of the location province of NER?	alderley_edge_mines	state/province	region
+what causes the people, things and things with the same name as NER?	greek_destroyer_pindos	shipnamesake
+where is the people, things and things with the same name as NER buried?	french_ship_charlemagne_(1852)	shipnamesake	burialplace
+which party does the parent of NER belong to?	didit_hediprasetyo	parents
+which place is called as the subdivision of the location province of NER?	khökh-adar_mine	state/province	imagecaption
+what is on the south of the people, things and things with the same name as NER?	yongfeng-class_coastal_defense_ship	shipnamesake
+which war is included in the era of the people, things and things with the same name as NER?	hms_malaya	shipnamesake	commonlanguages
+who is the leader of NER?	house_of_assembly_of_saint_vincent_and_the_grenadines	leader	monarch
+who is the regnet of the children of NER	joseph_chamberlain	children	primeminister
+who is the descendant of the successor of NER?	leopold_iv,_duke_of_anhalt	issue	issue
+which series does the sponsor of NER belong to?	unforgiven_(2003)	sponsor
+where is the south of the location province of NER	sakhalin_coal_mine	state/province
+who appointed NER's record company?	permanent_mission_of_the_people's_republic_of_china_to_the_united_nations	label	appointer	deputy
+what is the title of the successor of NER?	christoph_(schleswig-holstein)	issue
+what is the party of the one that is after election of NER	united_states_senate_election_in_west_virginia,_2014	afterelection	party
+where does the one that is after election of NER get the honorific suffix?	rangitikei_by-election,_1880	afterelection	honorificsuffix
+which religion does the one that is after election of NER belong to?	united_states_senate_election_in_nebraska,_2002	afterelection	religion
+who did a job before NER related events?	gurjara-pratihara	event	issue
+which war is included in the era of the person whose name is used to name NER?	philolaus_(crater)	eponym	era
+who is the manager of the team that won NER?	1968–69_fdgb-pokal	team
+who directed the singer who performed for NER?	3/8_(album)	extra	studio
+what lies in the west of the county that NER belongs to?	salcombe	shirecounty	west
+what is the timezong of NER's southern region?	poboleda	s	n
+who is the prime minister of the parent of NER?	francis_russell,_marquess_of_tavistock	parents	primeminister
+what is the royal house of the person and things that shares the same name with NER?	rv_kronprins_haakon	shipnamesake	royalhouse
+what is the status of the country that is spoken NER	tokelauan	states	status
+where did the one who is alongside NER die?	gordian_i	alongside	deathplace
+what is the predecessor of the combatant of NER?	irish_civil_war	combatant	headquarters
+what is the area that the combatant of NER is located in?	civil_war_in_the_republic_of_congo	combatant
+who is the predecessor of the coach of NER?	indian_national_football_team	coach	clubs
+what does the division that NER belongs to work for?	2009–10_in_australian_soccer	division
+who is the father of NER-related event related persons?	gurjara-pratihara	event	issue
+what is the timezong of the northwest of NER?	torres_de_segre	nw	timezone
+who is the starring role of the person and things that shares the same name with NER	wet_nellie	shipnamesake	studio
+who married the client of NER?	royal_spring,_warsaw	client	issue
+who is the starring role of the theme of NER	skull_island:_reign_of_kong	theme	studio	related
+what is the parts type of the archipelago that NER belongs to?	milos	archipelago	type
+what is the northeast of the county that NER belongs to?	burgess_hill	shirecounty	southwest
+what is the origin of NER's name?	cori_(lunar_crater)	eponym
+what is the instrument that the singer who performed for NER plays?	ollusion	extra	instrument
+who leads the people, things and things with the same name as NER?	hms_malaya	shipnamesake	commonlanguages
+what is in the east of the county that NER belongs to?	burgess_hill	shirecounty	west
+what is the party of the leader of NER?	provisional_people's_committee_for_north_korea	leader
+where is the birthplace of the coach of NER?	hafez_hashim	coach
+what is the location of the person and things that shares the same name with NER?	uss_tutuila_(arg-4)	shipnamesake	location
+which country uses the singer of NER	languages_of_papua_new_guinea	extra	nation
+who gave birth to the person and things that shares the same name with NER?	hms_hecate_(1871)	shipnamesake	parents
+who is the spouse of the leader of NER?	provisional_people's_committee_for_north_korea	leader
+which royal house does the client of NER italy belong to?	royal_palace_of_ficuzza	client	house
+which dynasty does the client of NER belong to?	royal_spring,_warsaw	client	title
+where does the person and things that shares the same name with NER belong to?	uss_winnemucca_(pc-1145)	shipnamesake
+who takes the place of the children of NER	joseph_chamberlain	children	successor
+who does the person and things that shares the same name with NER influence?	ms_henrik_ibsen	shipnamesake	influenced
+what is the currency of the event of NER?	karelian_autonomous_soviet_socialist_republic	event
+which leader party does the location province of NER belong to?	sieberstollen	state/province	leaderparty
+who is the commander of the people, things and things with the same name as NER?	french_brig_lodi_(1797)	shipnamesake	commander
+where is the client of NER located?	ira_goldstein	client
+who is the successor of the car that NER is related to?	sony_xperia_z2a	related	after
+where is the person and things that shares the same name with NER born?	otto_hahn_(ship)	shipnamesake	birthplace
+what is the language that is commonly used by the combatant of NER?	battle_of_the_tisza	combatant	commonlanguages
+which religion does the successor of NER belong to?	jizen_pema	issue	religion
+who is the successor of things related to NER?	htc_desire_626	related	successor
+which region does NER belong to related events?	archduchy_of_austria	event	territory
+what happened in the era of the event of NER?	kingdom_of_galicia_and_lodomeria	event	era
+who is the most important people of the controller of NER?	brownsea_castle	controlledby	keypeople
+which label does the singer who performed for NER belong to?	ollusion	extra	label
+who do the job after the one that is after election of NER?	brazilian_presidential_election,_1960	afterelection	predecessor
+where is the person and things that shares the same name with NER buried?	uss_troup_(1812)	shipnamesake	house
+who leads the country that is affected by NER?	1857_basilicata_earthquake	countriesaffected	leader
+what is the country admin division of the person and things that shares the same name with NER?	vaygach_(1989_icebreaker)	shipnamesake	countryadmindivisions
+who is the creator of the children of NER?	susan_mayer	children
+which state does the one that is after election of NER belong to?	united_states_senate_election_in_west_virginia,_2014	afterelection	state
+what lies in the southeast of the largest city of NER?	mato_grosso	largestcity
+who takes the place of the coach of NER	indian_national_football_team	coach	clubs
+which logo is about NER's record company?	i'm__xiao_xiao	label
+what is the house of the father of NER?	princess_huaining	father	succession
+what is the occupation of the leader of NER?	french_legislative_election,_1827	leader
+where is the people, things and things with the same name as NER educated?	french_aircraft_carrier_joffre	shipnamesake	education
+who is the creator of the author of NER?	it's_a_spongebob_christmas!_album	chronology	creator
+who is the leader of the leader of NER	michael_ellis_(british_politician)	leader	leader
+which religion does the eponym of NER belong to?	born_(crater)	eponym	religion
+where is the birthplace of the commander of NER?	second_rif_damascus_offensive	commander	occupation	garrison
+which language is used in the people, things and things with the same name as NER?	mf_tysnes	shipnamesake	language
+where is the birthplace of the father of NER?	dongfu_see_ciqia	father	fatherofwife
+what is the rank of the people, things and things with the same name as NER?	german_destroyer_mölders	shipnamesake	religion
+who is before the commander of NER	battle_of_legnano	commander	predecessor
+which dynasty does the father of NER belong to?	princess_of_zhongshan_(northern_qi)	father
+which timezone does the person and things that shares the same name with NER belong to?	hmcs_wetaskiwin	shipnamesake	timezone
+where does the parent of NER belong to?	francis_russell,_marquess_of_tavistock	parents	order
+where is the alma mater of the people, things and things with the same name as NER?	uss_nitze	shipnamesake	title
+what is the occupation of the one that is after election of NER?	united_states_senate_election_in_north_carolina,_1998	afterelection	occupation
+who takes the place of the father of NER?	princess_liyang	father
+what is the start of the country that is spoken NER?	ongota	states	establishedevent
+what is the genre of the name included in the NER?	list_of_awards_and_nominations_received_by_billy_ray_cyrus	name	genre
+which title does the administrative area responsible for NER belong to?	governor_of_genoa	body	eventend
+what is children of the one that is after election of NER	south_korean_presidential_election,_1978	afterelection	predecessor
+whose ancestor is the father of NER??	gyeongjong_goryeo	father	father
+which title does the bay that NER is famous for belong to?	steven_vogt	knownfor
+which award is the one who is alongside NER given?	takashi_sakai	alongside	before
+what is the event of the event happened in NER	kingdom_of_galicia_and_lodomeria	event	country
+what is the name of the person who influenced the origin of NER's name?	sherrington_(crater)	eponym	influenced
+which branch does the person and things that shares the same name with NER belong to?	french_cruiser_foch	shipnamesake	branch
+what is the status of the cause of NER?	first_battle_of_newtonia	result	status
+which language is used in the location province of NER	navidad_mine	state/province	language
+who built the people, things and things with the same name as NER?	osterley_(1780_eic_ship)	shipnamesake	architect
+who is the monarch of the person and things that shares the same name with NER ontario?	hmcs_carleton	shipnamesake	after
+which affiliation does the alma mater of NER belong to?	ed_jackson_(tennessee_politician)	almamater
+what is the person and things that shares the same name with NER awarded?	german_cruiser_blücher	shipnamesake	birthplace
+which title does the commander of NER belong to?	northeast_autumn_1947_campaign	commander	title
+who created the bay that NER is famous for?	claude_garamond	knownfor	creator
+who leads the event happened in NER?	upper_germania	event	leader
+what is the deathpalce of the person whose name is used to name NER?	lippershey_(crater)	eponym
+what is the series of things related to NER	sony_xperia_z3+	related	series
+what is the government type of NER related events?	karelian_autonomous_soviet_socialist_republic	event
+where is the alma mater of NER located?	mark_van_ameyde	almamater
+which museum includes the caption of the country that is spoken NER	baekje	states	commonlanguages
+who is the parent of the parent of NER?	franklin_delano_roosevelt_iii	parents	parents
+what it the product of the team that won NER	thomas_pagès	team
+who has an important influence on the client of NER?	ramsay_garden	client	influences
+which country does the person and things that shares the same name with NER belong to?	uss_nitze	shipnamesake	title	department
+which region does the bay that NER is famous for belong to?	meyer_amschel_rothschild	knownfor	region
+what is the origin of NER known for's name?	boltzmann_(crater)	eponym	workinstitution
+what is the person and things that shares the same name with NER	akademik_lomonosov	shipnamesake	workplaces
+which mountain range does things related to NER belong to?	axe_(brand)	related	origin
+which battle is the people, things and things with the same name as NER involved?	russian_destroyer_marshal_shaposhnikov	shipnamesake	battles
+where is the birthplace of the one that is influenced by NER?	bernard_lewis	influenced
+what is the job of the singer who participated in NER?	aim_high_(tv_series)	extra	origin
+which religion does the people, things and things with the same name as NER belong to?	usrc_james_madison_(1807)	shipnamesake	religion
+which language is commonly used in the person and things that shares the same name with NER?	mohawk_(1781_ship)	shipnamesake	languages
+what started the person and things that shares the same name with NER?	hnoms_otra_(1939)	shipnamesake	commonlanguages
+who is the predecessor of the client of NER?	royal_spring,_warsaw	client	predecessor
+what is the nickname of the alma mater of NER?	paul_bailey_(politician)	almamater
+who is the source of the origin of NER's name?	penticton_(crater)	eponym	south
+who is the consort of the people, things and things with the same name as NER?	hms_ariadne_(1816)	shipnamesake	parents
+where does the event of NER take place?	empire_of_china_(1915–16)	event
+which type does the country that is spoken NER belong to?	jincheng_dialect	states	text
+which event establishes the country of birth of NER?	igor_cvitanovic	countryofbirth	establishedevent
+which school does the artist who sings for NER belong to?	tokyo_juliet_(tv_series)	extra	typeofmusic
+who created the theme of NER?	skull_island:_reign_of_kong	theme	studio	related
+which title does the cause of NER belong to?	battle_of_bedriacum	result	placeofdeath
+who is the female parent of the person and things that shares the same name with NER?	mv_prins_harald	shipnamesake
+what is the format of the notable work of NER	aleks_krotoski	notableworks	format
+what is the legislature of the country of birth of NER?	igor_cvitanovic	countryofbirth	legislature
+which house does the event of NER belong to?	gurjara-pratihara	event	issue
+what is the work place of the people who influence NER?	alexander_rich	influences	workplaces
+who is the predecessor of the leader of NER?	united_kingdom_general_election,_1886_(ireland)	leader	honorificprefix
+what is the instrument that the name included in the NER plays?	list_of_awards_and_nominations_received_by_jessica_simpson	name	instrument
+who is the director of the theme of NER?	skull_island:_reign_of_kong	theme	studio
+which label does NER belong to related events?	uefa_women's_euro_2013_final	event	label
+what is the cause of the event involved in NER?	archduchy_of_austria	event	result
+when is the author of NER born?	can_i_borrow_a_dollar%3f	chronology	format	owner
+which league does the team that won NER belong to?	1923–24_atromitos_f.c._season	team
+who is the spouse of the parent of NER?	buhe_(politician)	parents	predecessor
+which team takes part in the author of NER dj quik lord tariq and peter gunz?	the_way_it's_goin'_down	chronology	position
+where did the combatant of NER die?	battle_of_que_mountain	combatant	birthplace
+who directed the team that won NER?	red_bull_rb12	team	owner
+which title does the client of NER own?	royal_spring,_warsaw	client	title
+which language does the singer who performed for NER use?	boysitter	extra
+who makes the law of the cause of NER	first_battle_of_newtonia	result	legislature
+who is before the father of NER?	princess_of_qingdu	father
+who is the successor of the people, things and things with the same name as NER?	warren_hastings_(1802_eic_ship)	shipnamesake	successor
+who honored the children of NER?	anwar	children
+who is the successor of the one who is alongside NER	decius	alongside	title
+what is the occupation of the author of NER?	lovers_(cannonball_adderley_album)	chronology
+where does the one that is after election of NER belong to?	united_states_presidential_election_in_minnesota,_1968	afterelection	state
+what is the title of the children of NER?	women's_day	children	title
+who is the predecessor of the people, things and things with the same name as NER?	uss_charles_f._hughes_(dd-428)	shipnamesake	after
+who married the eponym of NER?	cori_(lunar_crater)	eponym
+what is the subdivision name of the people, things and things with the same name as NER?	hmcs_kamloops	shipnamesake	subdivisiontype
+who is the chairman of the sponsor of NER?	summerslam_(1994)	sponsor	chairman
+where is the combatant of NER born?	battle_of_que_mountain	combatant	birthplace
+where did the origin of NER study's name?	nagaoka_(crater)	eponym
+which affiliation does the alma mater of NER belong to?	frank_darling_(architect)	almamater
+who is the spouse of the one that is after election of NER?	german_presidential_election,_1994	afterelection	spouse
+what is the author of NER?	unbreakable_(janet_jackson_album)	chronology	profession
+what is the branch that the parent of NER belongs to?	didit_hediprasetyo	parents
+which timezone does the team that won NER belong to?	liset_herrera	team	timezone
+which dynasty is the leader of NER born?	dervish_state	leader
+what is the timezong of the people, things and things with the same name as NER?	hmcs_parry_sound	shipnamesake	blankname
+what is the location country of the client of NER?	warner_elevator_row	client
+who is issued by NER related events?	gurjara-pratihara	event	issue
+what is the warrior of the person and things that shares the same name with NER?	sas_isandlwana_(f146)	shipnamesake
+which is the capital of the location province of NER?	salinas_grandes_mine	state/province	capital
+who is the successor of the successor of NER?	ferdinand_philippe,_duke_of_orléans	issue
+which house does the person and things that shares the same name with NER belong to?	hms_black_prince_(81)	shipnamesake	issue	house
+what is the electoral district of the sponsor of NER?	stafford_150	sponsor	shirecounty
+where does the people, things and things with the same name as NER take place?	french_ship_rivoli_(1810)	shipnamesake	place
+which party does the people, things and things with the same name as NER belong to?	usrc_bibb_(1843)	shipnamesake	party
+which place is called as the subdivision of the city in the south of NER?	vall-llobrega	s
+which national team does NER's coach belong to?	seattle_sounders_fc_2	s
+who is influenced by the name included in the NER?	empedocles_(volcano)	name	influenced
+which title does the nickname of NER belong to?	si_xi	nickname	title
+which team won the coach of NER	brooklyn_nets	coach	team
+who did a job before the person and things that shares the same name with NER?	uss_windom_(1896)	shipnamesake	after
+which religion does the leader of NER believe?	united_states_of_indonesia	leader	religion
+what is the address of the person whose name is used to name NER	cori_(lunar_crater)	eponym
+which country does the person whose name is used to name NER belong to?	mendes_pinto_(crater)	eponym
+who is the founder of the person and things that shares the same name with NER?	soviet_cruiser_komintern	shipnamesake	founder
+where did the one that is after election of NER study?	united_states_senate_election_in_north_carolina,_1998	afterelection	almamater
+which country does the theme of NER belong to?	the_wizarding_world_of_harry_potter_(universal_studios_japan)	theme	country
+what is the largest city of the person and things that shares the same name with NER	brazilian_monitor_alagoas	shipnamesake	subdivisiontype
+what kind of company is the sponsor of NER?	vodacom_cup	sponsor	companytype
+who is issued by the people, things and things with the same name as NER?	rms_queen_mary_2	shipnamesake	issue
+which province does the alma mater of NER belong to?	amy_jephta	almamater	provinceprovince
+what does the status of the people, things and things with the same name as NER belong to?	hms_montserrat_(k586)	shipnamesake	status
+what is the map caption of the people, things and things with the same name as NER?	french_ship_polyphème_(1815)	shipnamesake	subdivisiontype
+what is the type of NER's related products?	kinder_joy	related	type
+which country does the alma mater of NER belong to?	shin_chang-jae	almamater
+what is the alma mater of the one that is influenced by NER?	alain_badiou	influenced
+which label does the author of NER work for?	the_milt_jackson_big_4	chronology
+what is the leader title of the location province of NER	panguna_mine	state/province	demographics1title
+what is the region of the person and things that shares the same name with NER?	uss_platte_(ao-186)	shipnamesake
+what is the office of the one that is after election of NER?	northern_cyprus_presidential_election,_2015	afterelection
+which currency is used in the person and things that shares the same name with NER	hms_nyasaland_(k587)	shipnamesake	currency
+who makes the law of the location country of NER?	bled_castle	locationcountry	legislature
+what is the religion of the man who influenced NER?	giuseppe_garibaldi	influenced
+which country does the one that is after election of NER belong to?	united_states_senate_election_in_north_carolina,_1990	afterelection	after
+who founded the controller of NER?	brownsea_castle	controlledby	founder
+who is the director of the person and things that shares the same name with NER?	wet_nellie	shipnamesake	studio
+which type of government does the person and things that shares the same name with NER belong to?	hmcs_sherbrooke	shipnamesake	settlementtype
+which one is presented before the person and things that shares the same name with NER	wet_nellie	shipnamesake	studio
+who gives the honorific suffix of the parent of NER	francis_russell,_marquess_of_tavistock	parents	honorificprefix
+what is the person whose name is used to name NER?	cavendish_(crater)	eponym	workinstitutions
+what is the title of the leader of NER	spanish_general_election,_1869	leader	title
+who did a job before the author of NER?	the_way_it's_goin'_down	chronology	after
+where is the birthplace of the leader of NER?	classical_athens	leader	birthplace
+what is originated from the people, things and things with the same name as NER, an abdiel-class minelayer?	hms_apollo_(m01)	shipnamesake	children
+who is the spouse of the people, things and things with the same name as NER?	french_ship_alexandre_(1857)	shipnamesake	succession
+who takes the place of the commander of NER	battle_of_long_point	commander	monarch
+what is the constituency of the person and things that shares the same name with NER?	usns_harvey_milk_(t-ao-206)	shipnamesake	constituency
+which religion does the administrative area responsible for NER belong to?	governor_of_genoa	body	religion
+who is before the nickname of NER?	si_xi	nickname	before
+who does the people, things and things with the same name as NER, a historical french ship, influence?	french_frigate_descartes	shipnamesake	almamater
+what is the era of the cause of NER?	first_battle_of_newtonia	result	era
+what is the genre of the theme of NER	the_wizarding_world_of_harry_potter_(universal_studios_japan)	theme	genre
+who is the predecessor of the car that NER is related to?	htc_one_x9	related	predecessor
+who is the predecessor of the one that is after election of NER?	italian_general_election,_1874	afterelection	after
+who is the predecessor of the client of NER italy?	royal_palace_of_ficuzza	client	issue
+who is the predecessor of the leader of NER an eleccions generals d'espanya?	spanish_general_election,_1869	leader	before
+what is spoken by the leader of NER?	dervish_state	leader
+what is the club that NER's head coach belongs to?	seattle_sounders_fc_2	s
+what is the style of the father of NER	wong_fei_hung	father
+what is the title leader of the cause of NER?	first_battle_of_newtonia	result	titleleader
+which type of subdivision does the people, things and things with the same name as NER, a ship of the royal canadian navy, belong to?	hmcs_peterborough	shipnamesake	subdivisiontype
+which office does the leader of NER belong to?	miguel_primo_de_rivera_y_sáenz_de_heredia	leader	title
+who is the next the father of NER?	heshuo_hehui_princess	father
+who commanded the name included in the NER?	germanic_wars	name
+who is the male parent of the client of NER?	royal_spring,_warsaw	client	issue
+who is the successor of the father of NER?	princess_of_qingdu	father
+who is the successor of the parent of NER	franklin_delano_roosevelt_iii	parents	after
+who is the successor of the leader of NER?	duchy_of_anhalt	leader	issue
+who is the creator of the notable work of NER?	sarah_natochenny	notableworks	creator
+where is the constituency of the one that is after election of NER from?	taiwan_legislative_election,_1995	afterelection	honorificsuffix
+who takes the place of the cause of NER	battle_of_tanshebrai	result	successor
+who is the deputy of the combatant of NER?	grief_night	combatant	deputy
+who takes the place of the war that happened in the era of NER?	united_netherlands_sovereign_duchy	era
+which country does the one that is after election of NER belong to?	colombian_presidential_election,_1986	afterelection	predecessor	after
+what is the common language of the area of NER related events?	kingdom_of_galicia_and_lodomeria	event	governmenttype
+what is the leader name of the person and things that shares the same name with NER?	hms_montserrat_(k586)	shipnamesake	leadername
+what is the nationality of the one that is after election of NER?	civic_democratic_party_leadership_election,_1997	afterelection	title
+where is the people, things and things with the same name as NER located?	french_battleship_carnot	shipnamesake	after
+which event happened in the person and things that shares the same name with NER?	hms_malaya	shipnamesake	commonlanguages
+who is the mother of the client of NER?	royal_palace_of_ficuzza	client	issue
+what is the type of the archipelago that NER belongs to?	milos	archipelago	type
+which battle does the controller of NER take part in?	ins_trata	controlledby	battles
+which label does the country that is spoken NER have?	ongota	states	label
+what is the event of the cause of NER?	first_battle_of_newtonia	result	event
+what is the allegiance of the person and things that shares the same name with NER to?	css_stonewall_jackson	shipnamesake	allegiance
+which dynasty does the successor of NER live in?	belengalia_(castile)	issue	successor
+who is the successor of the cause of NER?	battle_of_bedriacum	result	placeofdeath
+what is the type of the bay that NER is famous for?	john_pemberton	knownfor	type
+who is the predecessor of the one who is alongside NER?	felix_chung	alongside	before
+who is the predecessor of the children of NER	joseph_chamberlain	children	predecessor
+what is the region of the chief town of NER?	canton_of_liévin-sud	chieftown
+which timezone does the city in the south of NER ponent lleida province spain belong to?	montgai	s	w
+what is the rank of the one that is after election of NER?	guatemalan_general_election,_2011	afterelection	title
+who did a job before NER-related products+?	sony_xperia_z3	related	before
+where is the location province of NER seated?	falémé_mine	state/province	seattype
+where is the capital of the person and things that shares the same name with NER located?	hms_st._helena_(k590)	shipnamesake	establishedevent
+what is the allegiance of the one who is alongside NER to?	takashi_sakai	alongside	alongside
+where did the leader of NER die?	government_of_national_salvation	leader	after
+which bay lies in the southwest of the country of birth of NER?	igor_cvitanovic	countryofbirth	southwest
+what is the title of the car that NER is related to?	invincible_intelligence_agent	related	previousshow
+which branch does the one that is after election of NER belong to?	thai_general_election,_1996	afterelection	successor	honorificsuffix
+what is the title of the war that happened in the era of NER?	united_netherlands_sovereign_duchy	era
+who owns the sponsor of NER?	old_newton_cup	sponsor	owner
+what includes the event of NER	tanukhids	event	partof
+which type does the location province of NER belong to?	kallazhagar_temple	state/province	type
+who is the producer of the person and things that shares the same name with NER?	wet_nellie	shipnamesake	studio
+which battle is the one that is after election of NER involved?	south_korean_presidential_election,_1980	afterelection	battles
+which type of post code does the people, things and things with the same name as NER belong to?	uss_winnemucca_(pc-1145)	shipnamesake
+what is the office of the one who is alongside NER?	hyon_yong-chol	alongside	1namedata	branch
+where did the people, things and things with the same name as NER die?	french_cruiser_foch	shipnamesake	deathplace
+who founded the sponsor of NER	adopted_daughter	sponsor	hqlocationcity
+what is the origin of the name included in the NER?	list_of_awards_and_nominations_received_by_bunga_citra_lestari	name	origin
+when is the one that is after election of NER born?	belizean_general_election,_1984	afterelection	honorificprefix
+who is earlier than the author of NER?	the_way_it's_goin'_down	chronology	before
+who is the mother of the leader of NER?	albanian_kingdom_(1928–39)	leader	issue
+which place is called as the subdivision of the chief town of NER	canton_of_nemours	chieftown	subdivisiontype
+who makes the law of the location province of NER?	pyrkakay_mine	state/province	federaldistrict	seat
+what is the title leader of NER related events?	kingdom_of_galicia_and_lodomeria	event	governmenttype
+what does the leader of NER succeed?	albanian_kingdom_(1928–39)	leader	issue
+who gives the honorific suffix of the commander of NER?	battle_of_long_point	commander	awards
+what does the chief town of NER belong to?	canton_of_montreuil	chieftown
+who is the predecessor of the successor of NER?	belengalia_(castile)	issue	successor
+who takes the place of the successor of NER?	ügyek	issue
+which timezone does the location province of NER belong to?	selkirk_mine	state/province	seat
+where is the city in the south of NER seated?	garrigues_(comarca)	s	postalcodetype
+who is the most important people of the sponsor of NER?	telstra_phonewords_stakes	sponsor	keypeople
+which timezone does the northwest of NER belong to?	tornabous	nw	timezone
+who is the leader of the parliament of seats held by NER?	indonesian_militant_democratic_party	seats1title
+who takes the place of the commander of NER?	battle_of_legnano	commander	successor
+what is the warrior of the name included in the NER?	germanic_wars	name
+who manufactured things related to NER?	nokia_e5-00	related	successor
+what is the title of the person and things that shares the same name with NER	greek_ironclad_vasilefs_georgios	shipnamesake	issue
+what is the allegiance of the leader of NER to?	classical_athens	leader	allegiance
+what is the type of the alma mater of NER?	greg_gard	name	sitecityst
+who is the incumbent of the leader of NER?	community_of_saint_anselm	leader	incumbent
+what is the succession of the successor of NER?	ferdinand_philippe,_duke_of_orléans	issue
+what is the singer who participated in NER	ollusion	extra	occupation
+what does the country admin division of the archipelago that NER belongs to belong to?	new_britain_island	archipelago
+what is the alma mater of the man who influenced NER?	giuseppe_garibaldi	influenced
+who is the premier of the commander of NER?	northeast_autumn_1947_campaign	commander	premier
+who is the coach of the team that won NER	2006–07_orlando_magic_season	team	coach
+which genre does the singer of NER belong to?	i'm_so_sorry	extra	before
+what does the person and things that shares the same name with NER end up in?	hms_malaya	shipnamesake	commonlanguages
+who is the prime minister of the leader of NER	house_of_assembly_of_saint_vincent_and_the_grenadines	leader	primeminister
+what is the profession of the leader of NER?	french_regional_elections,_2015	leader	profession
+where is the stadium of the important event of NER held?	2010–11_queens_park_rangers_f.c._season	s	team
+which instrument does the author of NER play?	identity_(zee_album)	chronology	instrument
+what is the nationality of the people, things and things with the same name as NER?	type_0891a_training_ship	shipnamesake	nationality
+who is the predecessor of the one that is after election of NER?	french_legislative_election,_1893	afterelection	title	first
+which dynasty does the cause of NER live in?	battle_of_tanshebrai	result	successor	house
+what lies in the northwest of the county that NER belongs to?	burgess_hill	shirecounty	northwest
+who makes the law of the person and things that shares the same name with NER?	hms_montserrat_(k586)	shipnamesake	legislature
+which party does the NER-held parliament belong to?	indonesian_militant_democratic_party	seats1title
+what is the person and things that shares the same name with NER known for?	french_submarine_joule	shipnamesake	almamater
+which office does the person and things that shares the same name with NER belong to?	sms_hindenburg	shipnamesake	office
+what is the combatant of the event of NER?	fețele_albe_dacian_fortress	event
+where did the leader of NER study?	united_kingdom_general_election,_1886_(ireland)	leader	honorificprefix
+how to address the commander of NER?	battle_of_varese	commander	honorificprefix
+what is the southwest of the location province of NER	sakhalin_coal_mine	state/province
+which country does the country that is affected by NER belong to?	1857_basilicata_earthquake	countriesaffected	country
+who is the predecessor of the leader of NER	michael_ellis_(british_politician)	leader	before
+who is the successor of the client of NER?	royal_palace_of_ficuzza	client	issue	succession
+who is the descendant of the commander of NER?	the_battle_of_dingtao_(eastern_han_dynasty)	commander	issue
+which genre does the person and things that shares the same name with NER belong to?	ms_henrik_ibsen	shipnamesake	genre
+who takes the place of the car that NER is related to?	sony_xperia_t	related	after
+what it the product of the sponsor of NER	black_opal_stakes	sponsor	products
+where is the birthplace of the one that is after election of NER	colombian_presidential_election,_1998	afterelection	after
+which place is called as the subdivision of the northwest of NER?	arbúcies	nw	subdivisiontype
+which city does the people, things and things with the same name as NER belong to?	uss_platte_(ao-186)	shipnamesake
+who starred in the works that make NER known?	khalid_siddiqui	notableworks	extra
+which dynasty is the person whose name is used to name NER born?	haldane_(lunar_crater)	eponym	education
+what is the title of the father of NER?	princess_yongan_(tang_xianzong)	father
+who is the predecessor of the children of NER?	joseph_chamberlain	children	predecessor
+which program is before NER's famous works?	hiro_fujiwara	notableworks	studio
+what is connected with the person and things that shares the same name with NER?	uss_hopi_(at-71)	shipnamesake	related
+what is the name of the one that is after election of NER?	united_malays_national_organisation_leadership_election,_2009	afterelection	honorificsuffix
+where did the commander of NER die?	siege_of_khartoum	commander
+which award is the person whose name is used to name NER given?	meitner_(venusian_crater)	eponym	workplaces
+what is the origin of the author of NER?	parachilna_(album)	chronology
+where does the leader of NER belong to?	united_kingdom_general_election,_1886_(ireland)	leader	honorificprefix
+what is the status of the combatant of NER?	battle_of_chiayi	combatant	status
+what is the type of the sponsor of NER?	waterstones_11	sponsor
+who is the father of the leader of NER?	yue_(state)	leader
+who married the author of NER	someone_put_your_hand_out_(michael_jackson_song)	chronology	spouse
+what is the postal code type of the country that is spoken NER?	jincheng_dialect	states	imagecaption
+where did the one that is after election of NER die?	haitian_presidential_referendum,_1961	afterelection	title
+which dynasty is the person and things that shares the same name with NER born?	uss_schley_(dd-103)	shipnamesake
+what is the source of information of the combatant of NER?	battle_of_bangorach	combatant
+what is the southwest of the location country of NER?	bled_castle	locationcountry	southwest
+which industry is the team that won NER from?	natosha_rogers	team	industry
+which national team does the name included in the NER belong to?	brunei_national_under-21_football_team	name	nationalteam
+which sport does NER's coach play?	2014–15_sc_freiburg_season	s	position
+what is the province of the client of NER?	ludvika_town_hall	client	subdivisiontype
+what is the common language of the country of birth of NER	gabriel_sacuiani	countryofbirth	eventend
+who is the owner of the team that won NER?	red_bull_rb12	team	owner
+what is in the charge of the person and things that shares the same name with NER?	uss_carl_m._levin	shipnamesake	order
+what is the name included in the NER?	list_of_awards_and_nominations_received_by_billy_ray_cyrus	name	before
+what is the profession of the person and things that shares the same name with NER	uss_carl_m._levin	shipnamesake	profession
+which war is included in the era of the name included in the NER?	empedocles_(volcano)	name	era
+which genre does the sponsor of NER belong to?	wwe_breaking_point	sponsor	genre
+where does the one that is after election of NER live?	peruvian_general_election,_1985	afterelection
+what is the subdivision rank of the person and things that shares the same name with NER?	marsouin_(1788_ship)	shipnamesake	subdivisionranks
+who is the leader of the country that is spoken NER	baekje	leader
+where is the eponym of NER born?	hevelius_(crater)	eponym	religion
+who is the one that is after election of NER?	romanian_general_election,_1922	afterelection	predecessor
+who is the last of the commander of NER?	the_battle_of_dingtao_(eastern_han_dynasty)	commander	last
+what is the canton of the northwest of NER?	amiens	nw
+which language is commonly used in the people, things and things with the same name as NER, a 1915 queen elizabeth-class battleship of the royal navy?	hms_malaya	shipnamesake	commonlanguages
+who gives the honorific suffix of the people, things and things with the same name as NER?	hms_bligh_(k467)	shipnamesake	title
+where does the bay that NER is famous for come from?	meyer_amschel_rothschild	knownfor	origin
+what kind of company is NER-related products?	wingnut_films	related	companytype
+where is the people, things and things with the same name as NER?	uss_tutuila_(arg-4)	shipnamesake	location
+who is the consort of the name included in the NER?	hades_in_popular_culture	name	parents
+what is the type of the origin of NER's name?	bolsena_lacus	eponym	type
+who is the founder of NER's record company?	destiny_(game)	label	founders
+what is the name included in the NER	list_of_awards_and_nominations_received_by_craig_david	name	profession
+which title does the event happened in NER belong to?	kingdom_of_galicia_and_lodomeria	event	governmenttype
+where is the archipelago that NER belongs to located?	fairy_shoal	archipelago	location
+which event establishes the location country of NER?	bled_castle	locationcountry	establishedevent
+who is the descendant of the cause of NER?	battle_of_tanshebrai	result	successor
+who married the father of NER?	goryeo_kwangjong	father
+which country does the person and things that shares the same name with NER belong to?	french_battleship_danton	shipnamesake	title
+what is the ethnicity of the people, things and things with the same name as NER?	mv_yulius_fuchik	shipnamesake
+which religion does the father of NER belong to?	elihia	father	religion
+which religion does the country of birth of NER belong to?	rhones_garvay	countryofbirth	religion
+who is the director of NER's famous works?	khalid_siddiqui	notableworks	extra
+which industry is the sponsor of NER from?	telstra_phonewords_stakes	sponsor	industry
+who is the predecessor of the client of NER?/ who is the father of the client of NER?	royal_palace_of_ficuzza	client	issue
+what is the typical subdivision of the northwest of NER spain?	gurb	nw
+what is the province of the people, things and things with the same name as NER?	italian_cruiser_vittorio_veneto	shipnamesake	provinceprovince
+what is birth place of the successor of NER?	ramiro_i_of_asturias	issue	burialplace
+where does the leader of NER get the honorific suffix?	london_local_elections,_2018	leader	title
+who is the next the cause of NER?	battle_of_tanshebrai	result	successor
+who is earlier than the person and things that shares the same name with NER?	cornwallis_(1787_ship)	shipnamesake	honorificprefix
+which country does the alma mater of NER belong to?	edward_mcalexander	almamater	country
+which company lies in the east of the largest city of NER?	mato_grosso	largestcity
+what does the people, things and things with the same name as NER succeed?	leopoldus_primus	shipnamesake	succession
+who is the extra of the car that NER is related to?	happy_family	related	opentheme
+what is the burial place of the client of NER?	royal_spring,_warsaw	client	title
+which religion does the combatant of NER belong to?	grief_night	combatant	religion
+what is the nationality of the leader of NER?	french_national_convention_election,_1792	leader	nationality
+who is the spouse of the one who is alongside NER?	dong_biwu	alongside	spouse
+what is the deathpalce of the person and things that shares the same name with NER?	sas_president_kruger_(f150)	shipnamesake	placeofbirth
+who is the father of the people, things and things with the same name as NER?	maud_(ship)	shipnamesake	father
+who does the sponsor of NER work for?	palm_of_jerusalem	sponsor	author
+which mountain range does the sponsor of NER belong to?	2011_penrith_panthers_season	sponsor
+who is the parent of the children of NER?	anwar	children
+where did the eponym of NER die?	eijkman_(crater)	eponym
+which city does the alma mater of NER belong to?	cleo_baldon	almamater	city
+who is the commander of the controller of NER?	ins_trata	controlledby	commander
+where is the event of NER located?	kingdom_of_galicia_and_lodomeria	event	capital
+who is the director of the sponsor of NER?	night_of_champions_(2012)	sponsor	format	owner
+where is the capital of the location of NER located related events?	first_hungarian_republic	event	capital
+who starred in the singer who performed for NER?	3/8_(album)	extra	studio
+which place is called as the subdivision of the southeast of the south of NER?	new_harmony,_utah	south	southeast
+what is the name of the chairman of the incumbent of the title of NER?	khamtai_siphandon	title	incumbent
+what is in the charge of the successor of the candidate of NER?	constituency_election_results_in_the_united_kingdom_general_election,_1923	candidate	title
+what is the start of the location of the national team that NER belongs to?	rad_bogdanovic	nationalteam	location
+what is the religion of the location of the national team that NER belongs to?	peng_zijian	nationalteam	location
+what is the subdivision type of the north of the northeast of NER utah united states?	antimony,_utah	northeast	northwest
+what is the timezong of the east of the south of NER?	wales,_utah	east	timezone
+what is the timezong of the east of the south of NER utah united states?	wales,_utah	east	timezone
+which timezone does the north of the west of NER belong to?	oude_ijsselstreek	west	north
+where is the alma mater of the successor of the candidate of NER?	french_regional_elections,_2010	candidate
+what is the deathpalce of the successor of the descendant of NER?	mary_of_hungary,_queen_of_naples	issue	succession
+what is the subdivision name of the northeast of the southeast of NER?	fillmore,_utah	southwest	southeast
+which country does the predecessor of the premier of NER former president of the republic of china belong to?	ma_ying-jeou	premier	president	predecessor
+who is the female parent of the successor of the descendant of NER?	bonne_of_bohemia	issue	regent
+which type of subdivision does the southeast of the southwest of NER utah united states belong to?	kamas,_utah	southwest	southeast
+who did a job before the predecessor of the candidate of NER?	neath_(uk_parliament_constituency)	candidate	predecessor
+what is the timezong of the west of the location of NER?	2013–14_copa_catalunya	location	timezone
+who do the job after the successor of the children of NER?	sobekemsaf_ii	children	successor
+which dynasty does the legislature of the state party of NER belong to?	prehistoric_pile_dwellings_around_lake_zurich	stateparty	legislature
+who did a job before the first the title of NER?	duncan_mcnabb	title	first	after
+town in Dudgett County, Utah, United States, the location in the south of NER, the location in the southwest, which division belongs to	manila,_utah	south	southeast
+what type of person or thing with the same name as NER	uss_mauna_kea_(ae-22)	title	commander1label	style
+who is affected by the person, thing, or thing with the same name as NER?	french_frigate_descartes	shipnamesake	almamater
+what is the zoning of the location in the south of the city where NER is located?	national_register_of_historic_places_listings_in_montana	city	subdivisiontype
+what is the area of the location in the northwest of the city where NER is located?	national_register_of_historic_places_listings_in_minnehaha_county,_south_dakota	city	northwest
+who is the successor of NER's election winner?	italian_general_election,_1992	afterelection	successor
+what is the zoning of the location in the north of NER?	france_at_the_2015_world_speed_skating_championships	location	north
+who is the last of the title of NER?	zhu_de	title	inaugural
+where was the first person with the title of NER born?	shahabuddin_ahmed	title	residence
+A town in Pinnacle County, Utah, USA, what is the area of NER, the location in the southwest, and the location in the north?	francis,_utah	southwest	south
+what is the country region of the location in the northern part of the province where NER is located?	list_of_cultural_properties_of_the_philippines_in_cagayan_valley	province	east
+NER, the 1991 edition of the FIFA Women's World Cup, what is the title of the venue leader in the northeast of its host	1991_fifa_women's_world_cup	stadium	northwest
+what event is the person or thing with the same name as NER	french_ship_wagram_(1854)	shipnamesake	partof
+what is the occupation of the singer who participated in NER?	that_winter,_the_wind_blows	extra	title
+what is the religion of the origin of the name NER?	aryabhata_(crater)	eponym	region	capital
+where the person whose name is used to name NER was born	fabry_(crater)	eponym	birthplace
+who is the predecessor of the person, thing, and thing with the same name as the Hamburg escort NER?	leopoldus_primus	shipnamesake	predecessor
+NER, Wikimedia listing article, what team is the captain of its club location	2009_fifa_u-17_world_cup_squads	club	captain
+what time zone does the location in the east of NER belong to?	huntington,_utah	east	southwest
+what is the division of the location in the southwest of NER's city?	list_of_closed_railway_stations_in_ireland	county	northwest
+what is the title of NER's election winner	brazilian_presidential_election,_1969	afterelection	before
+what party does NER's namesake belong to?	usrc_ingham_(1832)	shipnamesake	party
+what area does NER's southern region belong to?	prat_de_comte	s	subdivisiontype
+where is the location of the location in the east, where the NER is held for a season of French football clubs	2009–10_olympique_de_marseille_season	stadium
+and NER what is the area to which the person or thing with the same name belongs	sms_zenta	shipnamesake	subdivisiontype
+what state is NER's alma mater in?	joanne_grant	almamater	state
+who led the legislature where NER died	vasili_yanchenko	deathplace	west
+what type of company is the owner of a NER club location?	2009_world_baseball_classic_rosters	club	owner
+who is the current incumbent of the title of NER?	wen_jiabao	title	incumbent
+French politician (1885-1956) who was the predecessor of the previous generation of NER	yvon_delbos	before	before
+where is the address of NER related events	empire_of_china_(1915–16)	event
+what is the name of the mother of the ruler of the descendants of NER?	princess_maria_pia_of_bourbon-two_sicilies_(1849–1882)	issue	mother
+what is the nickname of NER's alma mater?	mark_van_ameyde	almamater
+who leads the legislature where NER is used	renault_ft	usedby	legislature
+what products do NER's sponsors have	telstra_phonewords_stakes	sponsor	products
+NER's location what time zone does the city in the west belong to?	2013–14_gimnàstic_de_tarragona_season	location	w
+which city is the operator of NER's location?	2008–09_torquay_united_f.c._season	team
+what is the origin of the name of NER?	hmcs_vimy	shipnamesake	result
+The name of the location leader of the Eastern location of the NER location for a season of the football team is	2015_beijing_guoan_f.c._season	location	northwest
+NER, British politician (born 1967) who is its leader	michael_ellis_(british_politician)	leader	successor
+A town in Millard County, Utah, United States what is the time zone of the location in the southeast of NER, the location in the northeast?	meadow,_utah	southeast	northwest
+what is the famous work of the person named NER?	maclaurin_(crater)	eponym	workplaces
+NER's election winner who's successor	united_states_senate_election_in_vermont,_1980	afterelection	alongside
+who is the successor of NER's election winner?	democratic_party_(hk)_leadership_election,_2002	afterelection
+what time zone is used in the southern region of NER?	massalcoreig	s	w
+which district does the city in the west of the birthplace of SS officer NER belong to?	adolf_ax	birthplace	legislature
+where are NER related events held?	uefa_euro_1980_final	event	stadium
+where is the birthplace of people, things and things with the same name as NER?	president_el_hadj_omar_bongo_(ship,_1978)	shipnamesake	predecessor
+who is the leader of the legislature where the French light tank NER of 1936 was used	hotchkiss_h35	usedby	legislature
+NER, the early dynastic confederation of ancient Egypt (c. 3150 AD) whose leader was the last	thinite_confederacy	leader	successor
+NER, Wikimedia list article, what are the titles of the leaders of the locations south of the city where they are located	national_register_of_historic_places_listings_in_snohomish_county,_washington	city	southeast
+NER's election winner who's successor	german_presidential_election,_2009	afterelection
+what classification level does the person or thing with the same name as NER belong to?	uscgc_clover_(wlb-292)	shipnamesake	imagecaption
+what is the zoning of the area to the northwest of NER Catalonia Spain	arbúcies	nw	subdivisiontype
+which film company does NER's related products (works) belong to?	shark_(2013_tv_series)	related
+who are the people influenced by the people in NER?	empedocles_(volcano)	name	influenced
+what dynasty does NER's name belong to?	spanish_frigate_reina_sofía	shipnamesake	house
+NER, Vancouver Whitecaps football season, what is the zoning of the location west of its location	2005_vancouver_whitecaps_fc_season	location	west
+what is the division of the administrative center of the father of NER	pogórze_bukowskie	parent	seat
+what is the time zone of the location north of the international football match NER?	2015_international_champions_cup	stadium	tenants
+who is NER's child with the same name	hms_apollo_(m01)	shipnamesake	parents
+Who's the previous election winner for Wall NER?	united_states_senate_election_in_north_carolina,_1990	afterelection	after
+what party is the election winner for Wall NER?	south_african_general_election,_1977	afterelection	predecessor
+where NER's election winner was born	lithuanian_parliamentary_election,_2000	afterelection	title
+NER what is the name of the leader of its province	dhua_kund	state/province	subdivisiontype
+what is the title of the consort of the ruler of NER	saliha_dilaşub_sultan	regent	issue
+Wikimedia listing article NER location what is the title of the location leader in the west	major_national_historical_and_cultural_sites_(guangdong)	location	seat
+NER's location what time zone does the northern location belong to?	south_carolina_highway_151	location	north
+In a French state (as of March 2015) which district is the main town of NER	canton_of_neuilly-saint-front	chieftown
+what time zone is the location in the southeast of the city where the Wikimedia list article NER is located	national_register_of_historic_places_listings_in_sanpete_county,_utah	city	southeast
+what is the predecessor of NER's election winner?	united_states_senate_election_in_north_carolina,_1990	afterelection	after
+what is the zoning of the location in the southern part of the international football match NER?	2015_international_champions_cup	stadium	tenants
+NER to which dynasty the legislature of its country belongs	research_institute_of_organic_agriculture	country	legislature
+what is the religion of NER's clients?	egelund_house	client	issue
+NER Catalonia Spain where is its northwest area	gurb	nw
+what is the common language of people, things and things that have the same name as NER?	french_destroyer_tonkinois	shipnamesake
+who is the leader of NER's successor?	colony_of_greenland_(1950–53)	leader
+what is the zoning of the location in the southeast of NER Utah United States?	new_harmony,_utah	south	northwest
+who are the generals of the people in NER?	germanic_wars	name
+who is the father of NER's name	uss_john_rodgers_(dd-574)	shipnamesake	title
+town in Box Elder County, Utah, United States, what is the area of NER, the location in the east, and the location in the south?	howell,_utah	east	north
+what time zone does the administrative center of the birthplace of the Malaysian hockey player NER belong to?	kuhan_shanmuganathan	birthplace	capital
+which division does the location in the east of NER's city belong to?	national_register_of_historic_places_listings_in_box_elder_county,_utah	city	west
+which state is the NER election winner in?	united_states_senate_election_in_vermont,_1980	afterelection	state
+where is the location in the west of the city where NER is located?	canyon_mountains	city	west
+who is the predecessor of NER's election winner?	romanian_general_election,_1922	afterelection	predecessor
+who is the father of NER's client	egelund_house	client	issue
+who is the successor of the descendants of NER?	leopold_iv,_duke_of_anhalt	issue	issue	successor
+The field the person whose name is used to name the NER belongs to	boltzmann_(crater)	eponym	field
+what common language is used for flag events established by the location of NER?	colombia_national_football_team_results_(1980–99)	location	establishedevent
+NER's location what area is the east location in?	south_carolina_highway_151	location	north
+what instrument did the creator of NER use	etta_james_(1973_album)	chronology
+The royal family of the person, thing, and thing with the same name as NER	ss_prinses_astrid	shipnamesake	issue
+what is the famous work of the person named NER?	harden_(crater)	eponym	almamater
+where did NER's election winner's voters come from?	election_committee_(legislative_council_constituency)_by-election,_2001	afterelection	district
+which dynasty does the legislature where the NER take place belong to?	2007_davis_cup_world_group	venue
+A city in Cage County, Utah, United States, where is the location north of NER, which time zone is the location west of?	logan,_utah	north	northwest
+what war did the person or thing with the same name as NER participate in?	hms_bramham_(l51)	shipnamesake	battles
+what is the common language spoken in the administrative region to which NER belongs?	governor_of_genoa	body	eventend
+NER, the US college basketball season, which time zone is its home eastern location in	2015–16_idaho_vandals_men's_basketball_team	home	east
+what is the industry of NER's sponsor?	summerslam_(1994)	sponsor	industry
+what is the previous generation of the election winner of the convention NER that elects the U.S. senator?	united_states_senate_election_in_ohio,_1898	afterelection	before
+NER's election winner whose last term was	thai_general_election,_1996	afterelection	successor
+what is the name of the alma mater of NER's election winner	labour_party_(uk)_deputy_leadership_election,_2015	afterelection	honorificsuffix
+in which city is NER's alma mater?	albert_camus	almamater	city
+which district does the mayor of NER belong to?	canton_of_remiremont	chieftown
+what titles do people, things and things with the same name as NER have?	french_ship_charlemagne_(1852)	shipnamesake	title
+A city in Garfield County, Utah, United States, where is the location in the north of NER, in which area is the location in the east?	escalante,_utah	north	east
+NER, Earl of Limburg and Morse (1545-1589), to which division the birthplace of the previous generation belonged	adolf_van_nieuwenaar	before	birthplace
+NER what is the constituency of the location in the east of its venue	2013–14_isthmian_league	stadium	south
+what is the constituency for the location west of a sports cricket match NER?	1993_women's_cricket_world_cup	venue	source
+which division does the southern part of the NER site belong to?	2012_toulon_tournament	stadium
+who is the successor of NER's election winner?	israeli_legislative_election,_1992	afterelection	predecessor
+town in Uinta County, Utah, USA, what is the area of NER, the location east of the location, and the location in the northwest?	ballard,_utah	east	northwest
+what dynasty belongs to a person or thing with the same name as NER?	rms_queen_mary_2	shipnamesake	issue
+who is the leader of the legislature for the position of NER	bhutan_national_football_team_results	location	legislature
+what is the zoning of the location in the southwest of NER's place of residence?	pim_fortuyn	residence	northwest
+in which area is the same name of NER?	hmcs_amherst	shipnamesake	postalcodetype
+who is the emperor of the person or thing related to the result of NER	kalmar_war	result	country	establishedevent
+what team is the head coach of NER on?	2014–15_sc_freiburg_season	s	position
+A town in Wayne County, Utah, U.S.A. what is the area of NER?	loa,_utah	north	east
+what is the predecessor of the previous generation of the descendants of NER	adad-nirari_iii	issue	before
+Wikimedia lists the location of the article NER what region does the location in the east belong to?	list_of_sigma_pi_chapters	location	east
+The 38th season in franchise history; what zone does the location in the northeast of the first Super Bowl winner NER belong to	2013_seattle_seahawks_season	stadium	ethnicgroups
+what is the party affiliation of the legislature for the position of the football team for a season NER?	1980–81_eintracht_frankfurt_season	location	subdivisiontype
+Whose predecessor was the place where the NER label was held?	atp_world_tour_masters_1000	label	city
+what is the tenant of the NER's venue named?	2001_kyoto_purple_sanga_season	stadium	tenants
+which dynasty does the spouse of a descendant of NER belong to?	sigebert_iii	issue	spouse	house
+which president does the NER's election winner serve?	israeli_legislative_election,_1992	afterelection	predecessor	party
+where is the location in the southeast of NER's venue?	1968–69_inter-cities_fairs_cup	stadium	imagecaption
+where is the district where the election winner of the Wall NER is located?	united_states_senate_election_in_wyoming,_2000	afterelection	district
+what area is the southern city of NER in?	massalcoreig	s	w
+who is the predecessor of NER's election winner?	french_legislative_election,_1914	afterelection	predecessor
+what is the region of the NER location in the west and the location in the northeast?	pé_de_plátano	southeast	southwest
+what is the zip code of the location in the northeast of NER?	list_of_former_maryland_state_highways_(200–399)	location	west
+what is the rank of Wallner's election winner?	united_states_senate_election_in_wyoming,_2000	afterelection	rank
+what is the zoning of the location in the northwest where NER died?	willis_h._downs	deathplace	legislature
+what awards have people or things with the same name as NER won?	usns_lewis_b._puller_(t-esb-3)	shipnamesake	awards
+what time zone is used in the city where the NER is held?	1996–97_uefa_cup	stadium	region
+what is the religion of NER's election winner?	labour_party_(uk)_deputy_leadership_election,_2015	afterelection	honorificsuffix
+who is the successor of NER's election winner?	nigerien_general_election,_2016	afterelection	before	after
+what area does the location in the north of NER belong to?	hurricane,_utah	north	southeast
+which empire does NER's father belong to?	elihia	father	dynasty
+what is NER's famous work of the same name?	spanish_cruiser_don_antonio_de_ulloa	shipnamesake
+NER's election winner whose last term was	united_states_senate_election_in_ohio,_1898	afterelection	candidate
+who is the king of NER's father (mother)	francis_russell,_marquess_of_tavistock	parents	monarch
+who is the successor of the successor of the descendants of NER?	élisabeth_charlotte_d'orléans	issue	before	succession
+what is the country of NER's election winner?	manila_local_elections,_2016	afterelection	country
+what is the location of NER? what is the location in the north?	2012–13_leicester_city_f.c._season	location	subdivisionname
+what is the time zone of the location in the NER Northwest and the location in the Southwest	scofield,_utah	northwest	southwest
+where is NER located in the North West	2012_jiangsu_sainty_f.c._season	location	northeast
+what is the zip code of the person, thing, thing with the same name as NER	hmcs_levis_(k400)	shipnamesake	south
+what is the time zone of the location in the south of the NER and the location in the southwest	provo,_utah	south	northwest
+in which area is the location south of NER Anoia Catalonia Spain	carme,_barcelona	s	subdivisiontype
+who is NER's predecessor of the same name	fortitude_(1780_eic_ship)	shipnamesake	after
+where do voters with the same name as NER come from?	usns_harvey_milk_(t-ao-206)	shipnamesake	constituency
+NER, submachine gun, which national system is used to mark events established where it is used	mp_34	usedby	eventend
+what is the state of the election winner of NER, the convention that elects the U.S. senator?	united_states_senate_election_in_ohio,_1898	afterelection	state
+Express trains between Brussels, Belgium and Switzerland (formerly Italy). what is the dynasty to which the legislature of NER's place belongs?	vauban_(train)	locale	legislature
+who is the leader of the flag event established by the location of NER	2008_in_american_soccer	location	establishedevent
+who is the general of the person or thing with the same name as NER?	chilean_corvette_chacabuco_(1815)	shipnamesake	commander
+NER, Wikimedia listing article, what time zone is used for its location south of the city	national_register_of_historic_places_listings_in_larimer_county,_colorado	city	timezone
+what is the title of the location leader in the eastern part of the football game NER?	2015_afc_champions_league_final	city	east
+which party does Wallner's election winner belong to?	united_states_senate_election_in_south_dakota,_2014	afterelection
+who is the successor of the descendants of Queen NER of Sweden?	josephine_of_leuchtenberg	issue
+what is the flag event established by the location of the National Team of the Football Players Association NER?	lin_xiaocheng	nationalteam	location
+which event determines the establishment of the area to which NER's nationality belongs	luo_ji	nationality	region
+NER's position is named after whose predecessor	state_highways_serving_virginia_state_institutions	location	northeast
+what are the titles of the location leaders in the northwest of the NER's location?	2012_chinese_fa_cup	stadium	seat
+NER Catalonia Spain to which division its northwest location belongs	osor,_girona	nw	subdivisiontype
+NER, diplomat and statesman of Imperial Japan (1887-1957), who was the predecessor of his successor's previous generation	mamoru_shigemitsu	after	before
+awhere is the location of Guangzhou Evergrande Taobao 2015NER in the northeast?	2015_guangzhou_evergrande_taobao_f.c._season	location	east
+what is the title of the successor of NER's venue?	uzbekistan_national_under-23_football_team_results	location	capital
+what is the zoning of the location in the southeast of NER's home field?	2014–15_byu_cougars_women's_basketball_team	home	northeast
+what is the name of NER, the leader of the location of the Northeast location of the football team for a season	2012_shanghai_shenxin_f.c._season	location	before
+who is the successor of the successor of the descendants of NER?	louis_the_german	issue
+what is the previous generation of the founding emperor of NER's dynasty	norodom_kanviman_norleak_tevi	issue	after
+NER where is it located in the western part of the province	sakhalin_coal_mine	state/province
+who is NER's successor's predecessor's next	louis_the_younger	issue
+what is the religion of the country (city) affected by NER	1857_basilicata_earthquake	countriesaffected	religion
+who is the successor of NER's election winner?	tunisian_constituent_assembly_election,_2011	afterelection	title
+NER, 1880, who was the electoral winner of the New Zealand by-election	rangitikei_by-election,_1880	afterelection	honorificsuffix
+who are the producers of NER-related products	nokia_lumia_625	related	manufacturer
+who is NER's candidate for the previous generation of kings?	eden_(new_zealand_electorate)	candidate	predecessor
+who is NER's namesake loyal to?	russian_destroyer_marshal_shaposhnikov	shipnamesake	allegiance
+where does the current incumbent of the title of NER take office?	ho_chi_minh	title	incumbent
+which party does the person, thing, or thing with the same name as NER belong to?	uscgc_duane	shipnamesake	after
+NER what is the occupation of its creator	ragga_bomb	chronology
+what time zone is used for the location in the southern part of the NER	2012_afc_challenge_cup_qualification	stadium	round
+what is the previous generation of NER's generals?	battle_of_legnano	commander	predecessor
+NER, American college basketball season, what is the zoning of the location north of its home	2014–15_utah_utes_men's_basketball_team	home	north
+NER, where did the election winner of the New Zealand by-election in 1880 die	rangitikei_by-election,_1880	afterelection	honorificsuffix
+NER's election winner who's successor	persian_legislative_election,_1906	afterelection
+who is the spouse of the previous generation of the title of NER?	list_of_wtf_with_marc_maron_episodes	title
+The location of the Wikimedia roster NER The name of the location leader in the east is	macedonia_national_football_team_results	location	legislature
+NER which league does the tenant of its host play in	2012_f.c._tokyo_season	stadium	tenants
+what is the division of the southern city of NER?	tortellà	s
+who is the successor of the place where NER is held?	2011–12_lekhwiya_sc_season	stadium	founder	after
+what is the form of the title of the venue of NER?	football_at_the_1990_asian_games_–_men	stadium	tenants	league
+who is the successor of the person, thing, thing with the same name as NER?	uss_hancock_(1776)	shipnamesake	successor
+what is the predecessor of the person or thing concerned with the consequences of a battle in China in 617 AD?	battle_of_huoyi	result	succession
+NER, the US college basketball season, what is the time zone of the location north of its home field	2014–15_utah_state_aggies_men's_basketball_team	home	west
+who is the successor of the descendants of NER's spouse	ptolemy_x_alexander_i	issue	successor
+what is the title of NER's election winner	cape_verdean_parliamentary_election,_2016	afterelection	title
+what is the title of the previous generation of the descendants of the Austrian Duchess NER	viridis_visconti	issue	before
+which region type does the location in the northwest of the region to which the NER belongs	phu_phan_mountains	region	southwest
+what are the titles of NER's generals?	battle_of_durbey	commander	before	title
+who is the predecessor of the previous generation where NER was held?	2016_chinese_fa_cup	stadium	tenants
+what is the predecessor of the successor of NER's venue	2014_fifa_world_cup_qualification_–_afc_third_round	stadium	politicalsystem
+which president does the NER's election winner serve?	bosnian_general_election,_2014	afterelection
+who is the predecessor of NER's election winner?	wisconsin_gubernatorial_election,_1986	afterelection	predecessor
+where the person or thing with the same name as NER happened	french_fluyt_égyptienne_(1812)	shipnamesake	place
+who is NER's predecessor of the same name	russian_cruiser_gerzog_edinburgski	shipnamesake	after
+what is the type of product or work related to NER	sony_xperia_z2a	related	type
+NER's location what area does the location in the northwest belong to?	list_of_lambda_chi_alpha_chapters	location	northeast
+who was the president of NER's previous generation	pierre_pflimlin	before
+where does the source of the NER name belong?	cézanne_(crater)	eponym
+A battle during the Mongol invasion of Hungary in the 13th century which religion did the participating nations of NER believe in?	battle_of_the_tisza	combatant	event
+NER what is the division of its southern area	sant_esteve_de_la_sarga	s	n
+where are the leaders of NER installed?	london_local_elections,_2018	leader	title
+which religion does NER's election winner belong to?	united_states_senate_election_in_north_carolina,_1998	afterelection	religion
+who is the name used to name the person influenced by the NER?	donne_(crater)	eponym	influenced
+what was the previous generation of the leaders of the NER	monarchy_of_the_north	leader	before
+which party does the legislature where the NER is held belong to?	1974_davis_cup_europe_zone	venue
+who is the leader of the administrative area to which NER belongs?	governor_of_genoa	body	leader
+what is the zoning of a city in Cage County, Utah, United States, NER, location, northeast, location, northeast, location?	mendon,_utah	northeast	northwest
+what is the title of the location leader in the east of where the NER is held?	2012_afc_champions_league_knockout_stage	stadium	southeast
+who is the predecessor of the current incumbent of the title of former general secretary of the Lao People's Revolutionary Party NER?	choummaly_sayasone	title	incumbent
+NER	drugs,_inc.	title	northwest
+NER, New Zealand Rugby League football player (1995-), where is his birthplace?	taane_milne	birthplace	legislature	party
+who is the predecessor of NER's election winner?	election_committee_(legislative_council_constituency)_by-election,_2001	afterelection	district
+what is the dynasty to which a football team's season NER's position is established?	2010–11_c.d._motagua_season	location	seat
+who is the leader of the parliament in which NER holds a seat	indonesian_militant_democratic_party	seats1title
+which religion is the NER event?	upper_germania	event	religion
+who is NER's father's successor?	princess_of_qingdu	father
+what is the rank of NER's election winner?	guatemalan_general_election,_2011	afterelection	title
+where was the person named NER born	haldane_(lunar_crater)	eponym	education
+who is the mother of the leader of NER	albanian_kingdom_(1928–39)	leader	issue
+what is the previous generation of NER's election winner?	italian_general_election,_1874	afterelection	after	before
+NER, in 1869, what titles were the leaders elected by the Spanish generals	spanish_general_election,_1869	leader	title
+who is the architect of the same name of NER	osterley_(1780_eic_ship)	shipnamesake	architect
+who leads the administrative area to which NER belongs	governor_of_genoa	body	leader
+A country dominated by Durbar Khant, located in the region of Hatumo, where the leader against the imperialist NER that existed from 1896 to 1921 was born	dervish_state	leader
+what is the parent class of NER's related products	axe_(brand)	related	origin
+what is the offshoot of the person or thing with the same name as Francia's House Hotel NER?	french_cruiser_foch	shipnamesake	battles
+who is the general who is the actual controller of NER?	ins_trata	controlledby	commander
+what wars happened in the era of named characters named as NER	empedocles_(volcano)	name	era
+who are the children of Wallner's election winner?	south_korean_presidential_election,_1978	afterelection	predecessor
+where is the birthplace of the person whose name is in NER	list_of_awards_and_nominations_received_by_bunga_citra_lestari	name	origin
+who is the president of NER's team?	red_bull_rb12	team	director
+which sea area does NER's name belong to?	uss_tutuila_(arg-4)	shipnamesake	archipelago
+which dynasty the person or thing related to the consequences of NER belongs to	battle_of_tanshebrai	result	successor	house
+what is the honorific prefix for NER generals?	battle_of_varese	commander	honorificprefix
+where are the people, things and things with the same name as NER	uss_tutuila_(arg-4)	shipnamesake	location
+what party does the leader of NER belong to?	provisional_people's_committee_for_north_korea	leader
+who is the king of NER's election winner	romanian_general_election,_1922	afterelection	predecessor
+what is the title of the leader of the administrative area for which NER is responsible?	governor_of_genoa	body	eventend
+who is the sponsor of NER starring	night_of_champions_(2012)	sponsor	format	owner
+who is the publisher of NER's sponsor?	armageddon_(2008)	sponsor
+what time zone is the location south of NER in?	poboleda	s	n
+which NER's client belongs to?	ira_goldstein	client
+where does NER's famous work belong to?	meyer_amschel_rothschild	knownfor	origin
+who is the creator of NER?	it's_a_spongebob_christmas!_album	chronology	creator
+what type of archipelago does NER belong to?	milos	archipelago	type
+who is the successor of NER's general	battle_of_long_point	commander	monarch
+what war did the man in charge of NER fight in?	ins_trata	controlledby	battles
+what race is the person, thing, thing with the same name as NER?	mv_yulius_fuchik	shipnamesake
+And NER where does the person thing thing with the same name belong	uss_carl_m._levin	shipnamesake	order
+where was the creator of NER born	can_i_borrow_a_dollar%3f	chronology	format
+which event determined the birth country of the Croatian footballer NER?	igor_cvitanovic	countryofbirth	establishedevent
+what type of NER's famous works belong to?	john_pemberton	knownfor	type
+who is the client of the NER Italy?	royal_palace_of_ficuzza	client	issue
+what is the name of the place east of the largest city in NER	mato_grosso	largestcity
+which country is NER's customer from?	warner_elevator_row	client
+who is the coach of NER's team?	2006–07_orlando_magic_season	team	manager
+what labels are there for countries that use NER	ongota	states	label
+what is the fame of the person whose name was used to name NER?	boltzmann_(crater)	eponym	workinstitution
+where did the name NER come from?	eijkman_(crater)	eponym
+what school did the singer of the NER song graduate from?	tokyo_juliet_(tv_series)	extra	typeofmusic
+what is the common language used in the relevant area of NER related events?	kingdom_of_galicia_and_lodomeria	event	governmenttype
+where did the voters played by NER come from?	felix_chung	alongside	honorificsuffix
+what are the descendants of the person or thing with the same name as NER?	rms_queen_mary_2	shipnamesake	issue
+what is the religion of the same name of NER?	usrc_james_madison_(1807)	shipnamesake	religion
+what is the name of the place in the southwest of the country where NER is located?	bled_castle	locationcountry	southwest
+which national team is the person in the national football team NER?	brunei_national_under-21_football_team	name	nationalteam
+where does the leader of NER belong?	united_kingdom_general_election,_1886_(ireland)	leader	honorificprefix
+what is the award of the same name of NER?	german_cruiser_blücher	shipnamesake	birthplace
+what is the headquarters address of the participating countries of the Civil War NER?	civil_war_in_the_republic_of_congo	commander	office
+who is the successor of the person or thing concerned with the consequences of the Battle of NER in 1106 during the invasion of Normandy by Henry I	battle_of_tanshebrai	result	successor
+who is the successor of NER's client?	royal_spring,_warsaw	client	predecessor
+where did NER's namesake graduate from?	french_aircraft_carrier_joffre	shipnamesake	education
+which is the branch of the election winner of the Wall NER?	thai_general_election,_1996	afterelection	successor	honorificsuffix
+what area does the mayor of NER belong to?	canton_of_nemours	chieftown	subdivisiontype
+what are the affiliations of NER's alma mater	ed_jackson_(tennessee_politician)	almamater
+what are the descendants of NER's descendants?	leopold_iv,_duke_of_anhalt	issue	issue
+what type of creators are NER	they_all_went_to_mexico	chronology	genre
+what type of country is NER's participating country?	battle_of_chiayi	combatant	status
+where did NER's namesake die?	sas_president_kruger_(f150)	shipnamesake	placeofbirth
+what is the common language spoken in the country of birth of the Congolese footballer NER?	gabriel_sacuiani	countryofbirth	eventend
+what is the origin of the person whose name is used to name NER?	penticton_(crater)	eponym	subdivisionname
+who is the director of the same name of NER?	wet_nellie	shipnamesake	studio
+who is the leader of NER's successor?	united_kingdom_general_election,_1886_(ireland)	leader	honorificprefix
+1998 single, what is the ex-creator of NER by Shaquille O'Neal, dj Quick, Lord Tariq and Peter Gunz	the_way_it's_goin'_down	chronology	position
+what type of school is NER's alma mater?	greg_gard	name	sitecityst
+what are the countries with the same name participating in NER	sas_isandlwana_(f146)	shipnamesake
+who is the ruler of the children of the British statesman (1836-1914) NER	joseph_chamberlain	children	primeminister
+which province is the client of NER in?	ludvika_town_hall	client	subdivisiontype
+who is the successor of NER's related products?	sony_xperia_z3+	related	before
+what type of people are in NER	list_of_awards_and_nominations_received_by_billy_ray_cyrus	name	genre
+who founded the record company NER belongs to?	destiny_(game)	label	founders
+what is the predecessor of the leader of NER	spanish_general_election,_1869	leader	before
+who does the information about the participating countries of Middle-earth NER come from?	battle_of_bangorach	combatant
+who is the next general of NER?	battle_of_legnano	commander	successor
+which dynasty did the descendants of NER belong to?	belengalia_(castile)	issue	issue
+who is the current incumbent of the leader of NER?	community_of_saint_anselm	leader	incumbent
+who is the author of the singer who participated in NER	3/8_(album)	extra	studio
+who is the Prime Minister of Irish politician NER's father and mother	francis_russell,_marquess_of_tavistock	parents	monarch
+who is the successor of the general of the medieval war NER?	battle_of_legnano	commander	successor
+who is the predecessor of NER's parents?	francis_russell,_marquess_of_tavistock	parents	predecessor
+who is the president of NER's sponsor	old_newton_cup	sponsor	owner
+NER what caused the events associated with it	archduchy_of_austria	event	result
+2013 UEFA Women's Euro 2013 Final Match NER Related Events Tag What	uefa_women's_euro_2013_final	event	stadium
+what time zone does the volleyball player NER's team use?	liset_herrera	team	timezone
+where NER's election winner takes office	northern_cyprus_presidential_election,_2015	afterelection
+who created the work that made American voice actor NER known?	sarah_natochenny	notableworks	creator
+who is the founder of the actual controller of NER?	brownsea_castle	controlledby	founder
+what is the language of the people in NER	list_of_awards_and_nominations_received_by_craig_david	name	language
+what is the profession of the singer who performed for omarion's album NER	ollusion	extra	occupation
+who legislates in the country where NER is located?	bled_castle	locationcountry	legislature
+what is the religion of Wallner's election winner?	united_states_senate_election_in_nebraska,_2002	afterelection	religion
+where was the creator of NER born	the_milt_jackson_big_4	chronology
+where are the descendants of NER buried	ramiro_i_of_asturias	issue	birthplace
+which institution does NER's alma mater belong to?	frank_darling_(architect)	almamater
+what is the legislature of NER's country of birth	igor_cvitanovic	countryofbirth	legislature
+what is the identity of NER's namesake	hms_montserrat_(k586)	shipnamesake	leadername
+In a French state (as of March 2015) which district is the main town of NER	canton_of_montreuil	chieftown
+where are NER's customers located?	ira_goldstein	client
+what is the name of the election winner for NER	united_malays_national_organisation_leadership_election,_2009	afterelection	honorificsuffix
+what war happened in the era of NER's events	kingdom_of_galicia_and_lodomeria	event	era
+who is NER's father next?	heshuo_hehui_princess	father
+who are the participating teams of the creators of NER?	the_way_it's_goin'_down	chronology	position
+where is the address of NER's namesake	french_ship_rivoli_(1810)	shipnamesake	place
+NER, the first prime minister of India (1889-1964), whose parents were his successors	jawaharlal_nehru	children	parents
+what is the title of the NER and its relevant event leader	kingdom_of_galicia_and_lodomeria	event	governmenttype
+what is the alma mater of someone affected by NER	alain_badiou	influenced
+NER what is the legislature of its province	pyrkakay_mine	state/province	federaldistrict	seat
+who did NER's clients influence	ramsay_garden	client	influences
+which sponsor of NER belongs to?	2011_penrith_panthers_season	sponsor
+where is the birthplace of the coach of the Malaysian badminton player NER	hafez_hashim	coach
+who was influenced by the person whose name was used to name NER?	aryabhata_(crater)	eponym	region	west
+who leads the countries and regions affected by NER	1857_basilicata_earthquake	countriesaffected	leader
+what type of country is the country using NER	tokelauan	states	status
+what is the name of the alma mater of the person named NER?	nagaoka_(crater)	eponym
+what is the ex of the client of NER Italy	royal_palace_of_ficuzza	client	issue
+who has appeared on NER's related products (works)	happy_family	related	opentheme
+To whom do NER's sponsors pledge their allegiance	palm_of_jerusalem	sponsor	author
+what is the honorific suffix of NER's generals?	battle_of_long_point	commander	awards
+what is the industry of NER's sponsor?	telstra_phonewords_stakes	sponsor	industry
+what religion is the country of birth of the Algerian footballer NER?	rhones_garvay	countryofbirth	religion
+To whom did the leader of an ancient Greek city-state NER owe allegiance	classical_athens	leader	allegiance
+who led the participating countries of the NER	grief_night	combatant	leader
+which is the branch of NER's parent (mother)	didit_hediprasetyo	parents
+who are the parents of the American economist NER's parents?	franklin_delano_roosevelt_iii	parents	parents
+what region does NER's province belong to in the country?	alderley_edge_mines	state/province	region
+what religion does NER's father belong to?	elihia	father	religion
+who is NER's father and mother's spouse	buhe_(politician)	parents	predecessor
+what country does NER's name belong to?	french_battleship_carnot	shipnamesake	after
+what is NER's eponymous legislature	leopoldus_primus	shipnamesake	succession
+what is the part of the archipelago that NER belongs to?	milos	archipelago	partstype
+which event determines the formation of a country using NER?	ongota	states	establishedevent
+where is the birthplace of NER's election winner	belizean_general_election,_1984	afterelection	honorificprefix
+where is the person or thing with the same name as NER?	hms_bligh_(k467)	shipnamesake	title	residence
+what time zone is used in the province where NER is located?	selkirk_mine	state/province	seat
+who is the spouse of the election winner who elected NER?	german_presidential_election,_1994	afterelection	spouse
+what is the company type of NER's sponsor?	vodacom_cup	sponsor	companytype
+what is the next generation of NER's parents	neleus	parents	children
+what wars were there in the era of people who were named NER	philolaus_(crater)	eponym	era
+where did the person named NER die	lippershey_(crater)	eponym
+what language is used by people, things and things with the same name as NER	mohawk_(1781_ship)	shipnamesake	languages
+what type of products are related to NER?	kinder_joy	related	type
+The fuse created by people, things, and things with the same name as NER	hnoms_otra_(1939)	shipnamesake	commonlanguages
+who are the descendants of NER's generals?	the_battle_of_dingtao_(eastern_han_dynasty)	commander	issue
+who are NER's parents before?	franklin_delano_roosevelt_iii	parents	after
+what is the last work of a person or thing with the same name as NER?	wet_nellie	shipnamesake	studio
+what is the country of the subject of NER?	the_wizarding_world_of_harry_potter_(universal_studios_japan)	theme	country
+what is the name of the country's prime minister of walner's election winner	peruvian_general_election,_1985	afterelection
+who is the ruler of the generals of the medieval war NER	battle_of_legnano	commander	issue
+what is the religion of the person whose name was used to name the lunar crater NER?	born_(crater)	eponym	religion
+what is the political type of person or thing about the outcome of a battle NER in the American Civil War?	first_battle_of_newtonia	result	status
+who are the successors of NER's parents?	franklin_delano_roosevelt_iii	parents	after
+who did NER's namesake influence?	french_frigate_descartes	shipnamesake	almamater
+which president does Wallner's election winner serve?	united_states_senate_election_in_north_carolina,_1990	afterelection	after
+who is the leader of the person or thing with the same name as the 1915 Royal Navy Queen Elizabeth class warship NER	hms_malaya	shipnamesake	commonlanguages
+NER's election winner whose last term was	brazilian_presidential_election,_1960	afterelection	predecessor
+what is the country of the country (city) affected by NER?	1857_basilicata_earthquake	countriesaffected	country
+who is the leader of NER's event	upper_germania	event	leader
+where is the southern part of the person or thing with the same name as NER	yongfeng-class_coastal_defense_ship	shipnamesake
+where was NER's father's birthplace	dongfu_see_ciqia	father	fatherofwife
+where did NER play die	gordian_i	issue	deathplace
+what is the country area to which the person, thing, and thing with the same name as NER belong?	uss_platte_(ao-186)	shipnamesake
+what are the labels of singers who participated in NER?	ollusion	extra	label
+who did the origin of the NER name affect?	sherrington_(crater)	eponym	influenced
+Who's next show for NER's writing	hiro_fujiwara	notableworks	studio
+what is the name of the prime minister of the country of the leader of NER?	house_of_assembly_of_saint_vincent_and_the_grenadines	leader	primeminister
+what type of company is NER related to	wingnut_films	related	companytype
+which empire does NER's father belong to?	princess_of_zhongshan_(northern_qi)	father
+who starred in the theme of the 2016 Universal's Islands of Adventure NER	skull_island:_reign_of_kong	theme	studio	related
+NER which country is it named after	french_battleship_danton	shipnamesake	title
+in which area is the election winner of the NER election in Minnesota?	united_states_presidential_election_in_minnesota,_1968	afterelection	battles
+which dynasty does NER-related events belong to?	gurjara-pratihara	event	issue
+what is the previous generation of the children of the British statesman (1836-1914) NER	joseph_chamberlain	children	predecessor
+what does the creator of NER do?	lovers_(cannonball_adderley_album)	chronology
+where is the capital (or provincial capital) of the location involved in the NER-related incident	first_hungarian_republic	event	capital
+what era is the person or thing related to the consequences of NER?	first_battle_of_newtonia	result	era
+who are the descendants of NER's clients?	royal_palace_of_ficuzza	client	issue
+where is NER's namesake buried	uss_troup_(1812)	shipnamesake	house
+And NER it was made by the person or thing with the same name	wet_nellie	shipnamesake	studio
+who are the descendants of NER's father	gyeongjong_goryeo	father	father
+what region does the mayor of NER belong to in the country?	canton_of_liévin-sud	chieftown
+what titles do the related products (works) of the TV series NER have	invincible_intelligence_agent	related	previousshow
+what is the administrative region of the archipelago where NER is located?	new_britain_island	archipelago
+what is the name of the leader of a person, thing, or thing with the same name as NER?	hms_montserrat_(k586)	shipnamesake	leadername
+which country is the leader of NER from?	french_national_convention_election,_1792	leader	nationality
+where did the creators of NER originate from?	parachilna_(album)	chronology
+NER, the fief of the Holy Roman Empire, which region is the event involved in	archduchy_of_austria	event	result
+what is the name of the place in the southwest of the country where the Croatian footballer NER was born?	igor_cvitanovic	countryofbirth	southwest
+NER who founded its sponsor	adopted_daughter	sponsor	hqlocationcity
+who is the successor of the leader of NER?	michael_ellis_(british_politician)	leader	after
+The consequences of a battle in the American Civil War NER related to whom or who legislated	first_battle_of_newtonia	result	leader
+where did Wallner's election winners live?	peruvian_general_election,_1985	afterelection
+what is the nationality of the person whose name is used to name the NER?	mendes_pinto_(crater)	eponym
+what is the title of the person, thing, thing with the same name as NER?	greek_ironclad_vasilefs_georgios	shipnamesake	issue
+who is the successor of Irish politician NER's father (mother)	francis_russell,_marquess_of_tavistock	parents	successor
+what is the area to which the site belongs to the south of NER Catalonia Spain	vall-llobrega	s
+what is the title of the person or thing related to the consequences of fighting NER?	battle_of_bedriacum	result	placeofdeath
+where is NER's team	1955–56_hapoel_haifa_f.c._season	team	other
+Whose name is NER's predecessor?	warren_hastings_(1802_eic_ship)	shipnamesake	monarch
+who is the father of NER's client	royal_spring,_warsaw	client	issue
+who is the spouse of the person named NER?	cori_(lunar_crater)	eponym
+who is the singer who participated in NER's work?	3/8_(album)	extra	studio
+where do the leaders of NER work?	london_local_elections,_2018	leader	title
+what titles are people whose names are used to name NERs	haldane_(lunar_crater)	eponym	title
+where is the archipelago of NER?	fairy_shoal	archipelago	location
+which teams are NER's coaches participating in?	brooklyn_nets	coach	league
+what is the previous generation of the coach of the men's National Football Association football team NER representing India?	indian_national_football_team	coach	clubs	city
+what is the rank of the person or thing with the same name as NER?	german_destroyer_mölders	shipnamesake	religion
+who is NER's team that directed the work?	red_bull_rb12	team	owner
+who is the leader of the NER to legislate?	albanian_kingdom_(1928–39)	leader	successor
+WHAT PRODUCTS FROM THE TEAM OF FRENCH MOTOCROSS NER NER	thomas_pagès	team
+which event determines the establishment of the country in which NER is located?	bled_castle	locationcountry	establishedevent
+what is the nationality of the person whose name is in NER?	list_of_awards_and_nominations_received_by_craig_david	name	nationality
+where is the address of the event involved in NER	empire_of_china_(1915–16)	event
+where is the capital (or provincial capital) of the person, thing, and thing with the same name as the Colony-class frigate NER	hms_st._helena_(k590)	shipnamesake	establishedevent
+what is the common language of the 1915 Royal Navy Queen Elizabeth class battleship NER of the same name	hms_malaya	shipnamesake	commonlanguages
+who has the name in NER influenced by?	empedocles_(volcano)	name	influenced
+where are the major events of the NER held?	2010–11_queens_park_rangers_f.c._season	s	team
+what is the representative of the country that uses NER	baekje	states	country
+what is the occupation of the same name of NER?	type_0891a_training_ship	shipnamesake	profession
+what is the religion of the leaders of NER?	united_states_of_indonesia	leader	religion
+what is the type of the same name of NER	uss_mauna_kea_(ae-22)	title	commander1label	style
+where are people, things and things with the same name as NER buried?	french_ship_charlemagne_(1852)	shipnamesake	burialplace
+Whose predecessor did NER play	decius	alongside	title
+who is the star of NER's famous work?	khalid_siddiqui	notableworks	extra
+where are the birthplaces of those affected by NER	bernard_lewis	influenced
+what city is in the southwest of NER's province	sakhalin_coal_mine	state/province
+who is the artist who posted the theme of NER	skull_island:_reign_of_kong	theme	studio
+who created the products or works related to NER	supergirl_(tv)	related
+what do the creators of NER do?	unbreakable_(janet_jackson_album)	chronology	profession
+what are the types of sponsors for NER	wwe_breaking_point	sponsor	genre
+with a floating nuclear power plant in Russia. NER what field does the person, thing, and thing with the same name belong to?	akademik_lomonosov	shipnamesake	workplaces
+where is the southern part of the province where NER is located?	sakhalin_coal_mine	state/province
+what religion do the descendants of NER believe in?	jizen_pema	issue	religion
+what dynasty does NER's client belong to?	royal_spring,_warsaw	client	title
+what caused the name of the warship NER during World War II	greek_destroyer_pindos	shipnamesake
+in which province is NER's alma mater?	amy_jephta	almamater	provinceprovince
+in which state is NER's alma mater?	mark_van_ameyde	almamater
+what dynasty did NER's father belong to?	princess_huaining	father	succession
+what is the type of person whose name is used to name the NER	bolsena_lacus	eponym	type
+what tag does Brunei football player NER's national team place on	charanchan_said	nationalteam	location
+what area does the location in the southeast of NER's home ground belong to?	2015–16_kentucky_wildcats_men's_basketball_team	home	legislature
+Taiwanese politician, for which president did the predecessor of the former president of the Republic of China NER's provincial premier serve	ma_ying-jeou	premier	successor
+which dynasty belongs to the legislature of the NER's home during the college basketball season?	2015–16_iona_gaels_men's_basketball_team	sitecityst	districttype
+where is the place of death of the successor of the descendants of NER?	mary_of_hungary,_queen_of_naples	issue	after
+what area does the location in the southeast of NER's venue belong to?	2013_rugby_league_world_cup	stadium	southeast
+NER which time zone the location northeast of its location belongs to	2015_ncaa_division_i_men's_soccer_championship	location	southwest
+what is the previous generation of the previous generation represented by NER?	boston	imagecaption
+who is the father of the ruler of the descendants of NER	albert_i_of_belgium	issue	monarch
+what is the type of successor to the creator of NER	grammy_nominees	music
+what is the area of the location in the south of NER's headquarters address?	scouting_in_colorado	headquarters
+what are the titles of the previous generation leaders of the position of the NER of a football team in a season?	2015_beijing_guoan_f.c._season	location	northwest
+what is the name of the leader of the administrative center where NER is located?	nzr_p_class_(1885)	locale
+what is the time zone of the location in the south of NER Utah United States?	wales,_utah	southeast	east
+what are the last descendants of the descendants of NER, the Dukes of Parma and Piacenza from 1854 to 1859	robert_i,_duke_of_parma	issue
+what time zone does the location in the southern part of NER's venue belong to?	2003_iwcc_trophy	venue	northeast
+A town in Millard County, Utah, United States, the location in the southeast of NER, the location in the north, and which time zone does the location belong to?	holden,_utah	southeast	northwest
+NER which district is the city in the west of the city where it is located	2001_women's_hockey_world_cup_qualifier	city	w
+who is the first king of the title of NER?	fernándo_norzagaray_y_escudero	title	first
+what time zone does the location in the north of NER belong to?	uintah,_utah	north	south
+what is the provincial capital of the location in the west of the NER's venue?	lincoln_county_war	place	legislature
+what is the previous generation of the successor of NER's venue	thailand_national_football_team_non-international_results	stadium	after	before
+do you know who was hit by The name of the ship of NER	french_frigate_descartes	shipnamesake	almamater
+who is the customer of the NER label	permanent_mission_of_the_people's_republic_of_china_to_the_united_nations	label	appointer	deputy
+what is the title of The NER Related Thing	invincible_intelligence_agent	related	previousshow
+who was the NER leader before	spanish_general_election,_1869	leader	before
+what is the dynasty of The father of NER	princess_of_zhongshan_(northern_qi)	father
+do you know what the agency headed by The head of NER is	united_kingdom_general_election,_1886_(ireland)	leader	honorificprefix
+what is the successor to The winner of NER	battle_of_tanshebrai	result	successor
+what is the race of NER's ship name	mv_yulius_fuchik	shipnamesake
+what religion does NER's descendant believe in?	jizen_pema	issue	religion
+do you know what is the agency headed by NER's ship name	uss_carl_m._levin	shipnamesake	state
+who is the wife of NER Timeline	christmas_together	chronology	spouse
+what dynasty belongs to Events in NER	gurjara-pratihara	event	issue
+who is the predecessor of The Children of the NER	joseph_chamberlain	children	predecessor
+do you know who is next to The winner of NER	battle_of_bedriacum	result	placeofdeath
+do you know what is the organizational model of the municipal management of the events in NER Bavarian?	karelian_autonomous_soviet_socialist_republic	event
+do you know what awards Next to NER has won	takashi_sakai	alongside	before
+do you know what is the house of The winner of NER	battle_of_tanshebrai	result	successor	house
+do you know what is the famous work of The name of the ship of NER	french_submarine_joule	shipnamesake	almamater
+what is the battle of Election after NER	south_korean_presidential_election,_1980	afterelection	battles
+do you know what was the last show of The notable works of NER	hiro_fujiwara	notableworks	studio
+what is the education of NER's ship name?	french_aircraft_carrier_joffre	shipnamesake	education
+do you know what happened in NER's ship's name	hms_malaya	shipnamesake	commonlanguages
+what is the type of manager of NER	waterstones_11	sponsor
+who are the generals participating in the NER name	germanic_wars	name
+do you know what is the estate of NER's ship name	leopoldus_primus	shipnamesake	succession
+do you know who is the partner of NER's ship name	hms_ariadne_(1816)	shipnamesake	parents
+do you know where is the birthplace of The leader of NER	classical_athens	leader	birthplace
+where is the death place of NER's ship name	sas_president_kruger_(f150)	shipnamesake	placeofbirth
+do you know what is the nationality of the head of NER	french_national_convention_election,_1792	leader	nationality
+do you know what timezone the province where NER is located in	selkirk_mine	state/province	seat
+do you know who is the leader of Election after NER	romanian_general_election,_1922	afterelection	predecessor
+who are the founders of Le label de NER	destiny_(game)	label	founders
+what are the countries of people, things and things with the same name as participating NER	sas_isandlwana_(f146)	shipnamesake
+To whom responsible for NER is loyal	palm_of_jerusalem	sponsor	author
+do you know what is the type of The sea around the NER	milos	archipelago	type
+what is the organization run by The Parents of NER	francis_russell,_marquess_of_tavistock	parents	order
+What's before The NER Coach	indian_national_football_team	coach	clubs
+what eponymous domain of NER belongs to	cavendish_(crater)	eponym	field
+do you know who is the wife of Election after NER	german_presidential_election,_1994	afterelection	spouse
+do you know who are the descendants of Client of NER italy?	royal_palace_of_ficuzza	client	issue
+do you know what time zone is using NER ship name	hmcs_parry_sound	shipnamesake	timezone
+do you know who is the founder of the The name of the ship of NER	soviet_cruiser_komintern	shipnamesake	founder
+in which country is the The name of the ship of NER	french_battleship_carnot	shipnamesake	after
+what is related to NER's ship name	uss_hopi_(at-71)	shipnamesake	related
+do you know what kind of NER ship name	ms_henrik_ibsen	shipnamesake	genre
+who is the heir of Next to NER	decius	alongside	title
+who is the heir to NER's parents	francis_russell,_marquess_of_tavistock	parents	successor
+do you know where NER customer come from	ira_goldstein	client
+who is the creator of NER's Notable Works	sarah_natochenny	notableworks	creator
+do you know what is the specialty of Election after NER	italian_general_election,_1992	afterelection	profession
+what is the profession of The name of the vessel of NER	type_0891a_training_ship	shipnamesake	profession
+which party is the NER leader	indonesian_militant_democratic_party	chairman	party
+where is the Alma Mater of The Leader of NER	united_kingdom_general_election,_1886_(ireland)	leader	honorificprefix
+what is the type of The name of NER	list_of_awards_and_nominations_received_by_billy_ray_cyrus	name	genre
+do you know where the headquarters of NER Country participant is located?	civil_war_in_the_republic_of_congo	commander	office
+what was the last term of the Country of NER participant?	irish_civil_war	result	commonlanguages
+do you know what ethnicity belongs to NER's ship name?	type_0891a_training_ship	shipnamesake	nationality
+what are the important positions of The name of the ship of NER	sms_hindenburg	shipnamesake	office
+what state is Election after NER	united_states_senate_election_in_west_virginia,_2014	afterelection	state
+who is the actor in The Name of NER's Ship	wet_nellie	shipnamesake	studio
+do you know what is the name of the administrative district of The main city of NER	canton_of_nemours	chieftown	subdivisiontype
+do you know what is the postalCodeType of the area where NER is used	jincheng_dialect	states	imagecaption
+who was the last of Parents of NER	franklin_delano_roosevelt_iii	parents	before
+do you know who is next to the NER coach	indian_national_football_team	coach	clubs
+do You Know who Is NER's Timeline Wife	someone_put_your_hand_out_(michael_jackson_song)	chronology	spouse
+Did you know that the common languages of NER's country of origin were Congolese?	gabriel_sacuiani	countryofbirth	eventend
+do you know who the parents of The Children of the NER are	anwar	children
+what era did the eponym of NER come from	haldane_(lunar_crater)	eponym	education
+do you know what the southwest of NER country is	bled_castle	locationcountry	southwest
+do you know who the NER timeline was before	the_way_it's_goin'_down	chronology	before
+who is the president of Election after NER	united_states_senate_election_in_north_carolina,_1990	afterelection	after
+do you know what is the honorary suffix of The leader of NER	london_local_elections,_2018	leader	title
+do you know what NER's eponymous job is	cori_(lunar_crater)	eponym
+what is the currency used in Events in NER	karelian_autonomous_soviet_socialist_republic	event
+where is the province of The name of the ship from NER	italian_cruiser_vittorio_veneto	shipnamesake	region
+do you know what is west in NER County united kingdom?	salcombe	shirecounty	east
+do you know who the parents of NER's ship name are	hms_hecate_(1871)	shipnamesake	parents
+do you know which stadium hosts the NER South	2010–11_queens_park_rangers_f.c._season	s	team
+who are the descendants of Events in NER	gurjara-pratihara	event	issue
+what is the final event of NER's name ship	hms_malaya	shipnamesake	commonlanguages
+where is the Alma Mater from NER's ship name	uss_nitze	shipnamesake	title
+do you know what the profession of Election is after NER	united_states_senate_election_in_north_carolina,_1998	afterelection	occupation
+what is the honorary suffix of Generals of the participating NERs	battle_of_long_point	commander	awards
+what is the era of the NER name	empedocles_(volcano)	name	era
+do you know who NER's Client was before	royal_palace_of_ficuzza	client	issue
+do you know who will be the next NER's ship's name	uss_charles_f._hughes_(dd-428)	shipnamesake	after
+where is the alma mater of Persons Affected by an NER	alain_badiou	influenced
+what is the next term of the NER era	united_netherlands_sovereign_duchy	era
+do you know NER manager business type	vodacom_cup	sponsor	companytype
+who is the Prime Minister of NER's parents	francis_russell,_marquess_of_tavistock	parents	monarch
+what is the nationality of Election after NER	civic_democratic_party_leadership_election,_1997	afterelection	title
+what is the rank of people, things and things with the same name as NER?	german_destroyer_mölders	shipnamesake	religion
+what party belongs to NER's parents	didit_hediprasetyo	parents
+do you know what is the southeast of the largest city in NER	mato_grosso	largestcity
+do you know what happened during the NER ship name	french_ironclad_alma	shipnamesake
+do You Know who Is The Mentor Of NER's Notable Works	khalid_siddiqui	notableworks	extra
+where is the title of The leader of NER	spanish_general_election,_1869	leader	title
+where is the location of the NER Client	ira_goldstein	client
+who is the predecessors of Election after NER	republic_of_china_presidential_election,_1918	afterelection	predecessor
+who is the monarch whose leader is The name of the ship of NER	hmcs_carleton	shipnamesake	after
+what is the Royal Family of NER Client Italy?	royal_palace_of_ficuzza	client	house
+what is the organizational model of the municipal management of the The name of the ship of NER	hmcs_sherbrooke	shipnamesake	settlementtype
+what is the honorary prefix of Generals of the participating NERs	battle_of_varese	commander	honorificprefix
+do you know what is establishedEvent in NER country	bled_castle	locationcountry	legislature
+in which country is the Alma mater of NER	edward_mcalexander	almamater	country
+do you know which league NER team one season football team will play in?	1923–24_atromitos_f.c._season	team
+what are the important positions of Election after NER	northern_cyprus_presidential_election,_2015	afterelection
+do you know who is the responsible editor of NER	armageddon_(2008)	sponsor
+what is the era of The Winner of NER, A Battle of the American Civil War?	first_battle_of_newtonia	result	era
+what is the profession of NER's name	list_of_awards_and_nominations_received_by_craig_david	name	profession
+From what era did the The leader of NER come	dervish_state	leader
+who is the creator of The NER Related Thing	supergirl_(tv)	related
+do you know where the head of NER died?	government_of_national_salvation	leader	after
+do you know what is establishedEvent in NER Homelands	igor_cvitanovic	countryofbirth	south
+do you know where the origin of the name of the NERdied	lippershey_(crater)	eponym
+what is the house of The descendant of NER	belengalia_(castile)	issue	successor
+what is the time zone used by Northwest of NER	torres_de_segre	nw	timezone
+do you know who is the wife of NER's ship name	french_ship_alexandre_(1857)	shipnamesake	succession
+who is the predecessor of Events in NER	gurjara-pratihara	event	issue
+what happened in The Winner of NER, A Battle of the American Civil War?	first_battle_of_newtonia	result	event
+where is the location of NER's Alma mater	phil_bentley	almamater
+what is the time zone used by NER ship name	hmcs_wetaskiwin	shipnamesake	timezone
+do you know who is the leader of the The leader of NER	michael_ellis_(british_politician)	leader	leader
+do you know what religion the person who affects NER believes patriot and republican?	giuseppe_garibaldi	influenced
+what are the children of NER Parents	neleus	parents	children
+what is the type of The province where the NER is located	kallazhagar_temple	state/province	type
+do you know what the royal family belonged to NER's ship name	rv_kronprins_haakon	shipnamesake	royalhouse
+who is the president of the head of NER	summerslam_(1994)	sponsor	chairman
+what is the famous eponymous work of NER	boltzmann_(crater)	eponym	workinstitution
+do you know who is the heir of The leader of NER	colony_of_greenland_(1950–53)	leader
+do you know who is the father of Events in NER	gurjara-pratihara	event	issue
+do you know who Next to NER is loyal to?	takashi_sakai	alongside	before
+where is the administrative center of NER South	garrigues_(comarca)	s	postalcodetype
+where does the religion of Election after NER come from	united_states_senate_election_in_nebraska,_2002	afterelection	religion
+do you know who will be the next Customer of NER	royal_spring,_warsaw	client	issue
+do you know where is the birthplace of NER's ship name	otto_hahn_(ship)	shipnamesake	birthplace
+do you know where is the birthplace of The father of NER	dongfu_see_ciqia	father	fatherofwife
+do You Know where NER Related Things Come From	axe_(brand)	related	origin
+what is the type of Theme of NER	the_wizarding_world_of_harry_potter_(universal_studios_japan)	theme	genre
+do you know who is the regent of Les enfants du NER	joseph_chamberlain	children	successor
+do you know what language is used in NER's ship name	mf_tysnes	shipnamesake	language
+what are the countries of NER's name participating?	germanic_wars	name
+do you know who is the president of Alma mater of NER	shin_chang-jae	almamater
+do you know who is the NER Theme Mentor	skull_island:_reign_of_kong	theme	studio
+do you know what is the description of the map of NER's ship name	french_ship_polyphème_(1815)	shipnamesake	subdivisiontype
+do you know what is the title of Nickname of NER	si_xi	nickname	title
+what is the predecessor of Parents of NER	jawaharlal_nehru	children	before
+do you know what is the battle of The name of the ship of NER	russian_destroyer_marshal_shaposhnikov	shipnamesake	battles
+do you know what is the eponymous type of NER	bolsena_lacus	eponym	type
+what is the type of parts of The sea around the NER	milos	archipelago	type
+who was the person or things that share the same name with NERavant	cornwallis_(1787_ship)	shipnamesake	honorificprefix
+who is the cast member of NER's Theme	skull_island:_reign_of_kong	theme	studio
+do you know where is the heir of Generals of the participating NERs	battle_of_legnano	commander	successor
+do you know where the capital of NER's ship name is	hms_st._helena_(k590)	shipnamesake	establishedevent
+do you know what is the problem of Generals of the participating NERs	the_battle_of_dingtao_(eastern_han_dynasty)	commander	issue
+what is the origin of Famous Works of NER	meyer_amschel_rothschild	knownfor	region
+where is the description of The area where NER is used?	baekje	states	country
+What's before Generals of participating NERs	u.s._southern_command	commander	awards
+who is the predecessor of Beside NER	felix_chung	alongside	before
+do you know who is the mentor of the NER team	red_bull_rb12	team	director
+what are the important positions of Beside NER	hyon_yong-chol	alongside	1namedata	branch
+do you know what is the maker of NER-related things	nokia_e5-00	related	series
+do you know which national team belongs to NER South	seattle_sounders_fc_2	s
+where did Election die after NER	haitian_presidential_referendum,_1961	afterelection	title
+who is the source of NER's eponymous information?	penticton_(crater)	eponym	source
+do you know who are the generals involved in the Master of NER	ins_trata	controlledby	commander
+what is the predecessor of The Descendant of NER	belengalia_(castile)	issue	issue
+do you know where is the eponymous title of NER	haldane_(lunar_crater)	eponym	title
+who influenced Client de NER scotland uk?	ramsay_garden	client	influences
+where is the NER Client title	royal_spring,_warsaw	client	title
+do you know what is the name of the administrative district of Southern NER	vall-llobrega	s
+what is the level of management in Northwest of NER spain?	gurb	nw
+do you know where is the eponymous address of NER	cori_(lunar_crater)	eponym
+where does the religion of Cities affected by NER come from?	2006_yogyakarta_earthquake	countriesaffected	subdivisiontype
+do you know where the artist who sings for NER is spoken	languages_of_papua_new_guinea	extra	nation
+do you know who is next to the NER children	joseph_chamberlain	children	successor
+do you know which domain belongs to The name of the ship from NER	akademik_lomonosov	shipnamesake	workplaces
+what is the name of the administrative division of the province where the NER is located	khökh-adar_mine	state/province	imagecaption
+do you know where is the region of The province where the NER is located	alderley_edge_mines	state/province	region
+where is the position of the Events in NER	empire_of_china_(1915–16)	event
+do you know what religion believes in The main organ of NER chiefs	governor_of_genoa	body	religion
+do you know what the problem of The Descendant of NER is	leopold_iv,_duke_of_anhalt	issue	issue
+what is the rank of Election after NER?	guatemalan_general_election,_2011	afterelection	title
+who is the mother of The leader of NER	albanian_kingdom_(1928–39)	leader	issue
+what religion Does NER come from?	rhones_garvay	countryofbirth	religion
+do you know what type of settlement is in the province where NER mine in mongolia is located?	khuut_coal_mine	state/province	west
+do you know who is the predecessor of The name of the ship of NER	uss_windom_(1896)	shipnamesake	before
+do you know what the program format of Notable Works of NER is?	aleks_krotoski	notableworks	format
+what is the birthplace of Generals of participating NERs	second_rif_damascus_offensive	commander	occupation
+do you know where the birthplace of Persons affected by an NER is?	bernard_lewis	influenced
+what is the honorific suffix of Election after NER	rangitikei_by-election,_1880	afterelection	honorificsuffix
+where is the burial Place of NER's descendant	ramiro_i_of_asturias	issue	birthplace
+do you know who is the chief of the area where NER is used?	baekje	states	leader
+what is the status of Participating NER Country	battle_of_chiayi	combatant	status
+do you know what is the source of the Country of NER participant?	battle_of_bangorach	combatant
+who Influenced NER's Ship Name	ms_henrik_ibsen	shipnamesake	influences
+what is the type of NER addition	i'm_so_sorry	extra	before
+do you know what Election run agency is after NER	german_federal_election,_1920	afterelection	after
+do you know which party belongs to NER ship name	usrc_bibb_(1843)	shipnamesake	party
+do you know who will be the next Election after NER	french_legislative_election,_1893	afterelection	title	first
+who is the architect of the The name of the ship of NER	osterley_(1780_eic_ship)	shipnamesake	architect
+do you know when the NER Timeline came from	can_i_borrow_a_dollar%3f	chronology	format
+do you know what is setEvent to the area where NER is used?	ongota	states	legislature
+do you know where the alma mater of Election is after NER	united_states_senate_election_in_north_carolina,_1998	afterelection	almamater
+do you know what is the country of NER Client	warner_elevator_row	client
+do you know what is the problem of The winner of NER	battle_of_tanshebrai	result	successor	mother
+what are the awards won by eponym from NER	meitner_(venusian_crater)	eponym	ethnicity
+do you know where is the capital of Events in NER	first_hungarian_republic	event	capital
+where is NER's eponymous birthplace	hevelius_(crater)	eponym	religion
+do you know who is the head of the The main organ of the heads of NER	governor_of_genoa	body	eventend
+who is the founder of the Master of NER	brownsea_castle	controlledby	founder
+what is the label of the area where NER is used?	ongota	states	label
+who is the successor of Generals of the participating NERs	the_battle_of_dingtao_(eastern_han_dynasty)	commander	successor
+who are the children of the Election after NER	south_korean_presidential_election,_1978	afterelection	predecessor
+what is the era of the Events in NER	kingdom_of_galicia_and_lodomeria	event	era
+do you know what is the name of the administrative district of Northwest of NER	arbúcies	nw	subdivisiontype
+do you know what the sea is around the NER ship name	uss_tutuila_(arg-4)	shipnamesake	archipelago
+what is the time zone used by NER South	poboleda	s	n
+do you know who is the creator of NER Timeline	it's_a_spongebob_christmas!_album	chronology	creator
+what is the subdivisionRanks of The name of the vessel of NER	marsouin_(1788_ship)	shipnamesake	subdivisionranks
+what is the label of L'addition de NER	ollusion	extra	label
+do you know who is the father of NER's ship name	maud_(ship)	shipnamesake	father
+who is the NER team manager for fall 2016-2017?	1968–69_fdgb-pokal	team
+who is Next to NER's Wife	dong_biwu	alongside	spouse
+do you know who the successor to The NER Related Thing is	sony_xperia_z2a	related	after
+what is the level of management at NER's vessel name	hmcs_peterborough	shipnamesake	subdivisiontype
+which party belongs Election after NER	united_states_senate_election_in_west_virginia,_2014	afterelection	party
+what is the name of the administrative division of The name of the vessel of NER	hmcs_kamloops	shipnamesake	subdivisiontype
+do you know what is the region of Famous works of NER	meyer_amschel_rothschild	knownfor	region
+what is the house of The father of NER	princess_huaining	father	succession
+do you know what is the management level of North East of NER World Day Venue	1993_nba_playoffs	place	capital
+where is the city of The location of The stadium where NER was held	2006–07_a-league	stadium	before
+what is the honorific suffix of Occupied people of The title of NER	peter_mandelson	title	appointer
+who is the head of the Front of NER location	2015_beijing_guoan_f.c._season	location	west
+do you know what is the postcode of the south west of NER World Day Location	seattle_arctic_drilling_protests	place	south
+what dynasty does The Life of NER World Day Place belong to?	2015–16_fc_barcelona_bàsquet_season	club	owner
+what is the level of management in Northeast of NER's title	drugs,_inc.	title	subdivisiontype
+what is the time zone used by NER's North of Millionaires	national_register_of_historic_places_listings_in_davis_county,_utah	city	timezone
+what time zone does Northeast of Southeast of NER use?	scofield,_utah	north	timezone
+what are the important positions of Name of the leader of The party of NER	perlis_state_legislative_assembly	party	position
+do you know who the front of NER's photo caption was before	boston	imagecaption
+what is the language used in Area covered by the NER location	2016_beijing_guoan_f.c._season	location	caption
+do you know what is the name of administrative district of Capital of NER location	abu_simbel_temples	location	establishedevent
+what is the timezone used by Northeast Stadium where NER	1994_seattle_seahawks_season	stadium	timezone
+do you know what is the management level of The South of NER World Day Venue	2013_abl_playoffs	place	west	subdivisiontype
+what dynasty belongs to The Life of NER Site	2015–16_iona_gaels_men's_basketball_team	sitecityst	districttype
+do you know what is the name of the administrative district of South East of NER site	2015–16_kentucky_wildcats_men's_basketball_team	home	establishedevent
+do you know what is the management level of Western NER location	sabah_international_convention_centre	location	capital
+do you know what time zone uses North Western NER the netherlands?	oude_ijsselstreek	west	timezone
+do you know what is the name of the administrative district of the South of the West of NER	bicknell,_utah	east	subdivisiontype
+what is the level of management West of South of NER	marysvale,_utah	south	southwest
+do you know what is the management level of Northern Headquarters of NER	canadian_baptists_of_western_canada	headquarters	capital
+what is the name of the administrative division of South of Southeastern NER utah united states?	fillmore,_utah	southeast	subdivisiontype
+who is the leader of the Northern NER location	netherlands_at_the_2015_world_speed_skating_championships	location	legislature
+do you know the language family of the common languages of The stage where the NER took place	1972_african_cup_of_nations_qualification	stadium	countrycapitalname
+who will be the front of the NER location next	2012_jiangsu_sainty_f.c._season	location	before
+what is the name of the administrative division of Le sud de NER, un municipality in baix llobregat, catalonia, spain?	begues	s	subdivisiontype
+what is the house of The father of NER	trịnh_tráng	issue	house
+do you know what is the name of the administrative district of The Northwest Site of NER	2014–15_utah_state_aggies_men's_basketball_team	home	subdivisiontype
+which party belongs to Election after NER	mongolian_legislative_election,_2008	afterelection	1namedata
+who is the father of Regent from The question of NER	princess_maria_pia_of_bourbon-two_sicilies_(1849–1882)	issue	father
+do you know where NER leader died	french_national_convention_election,_1792	leader	deathplace
+do you know what is the succession of L'avant de La question de NER	maria_theresa_of_naples_and_sicily	issue	religion
+what is the ZIP code for the South West location of NER	2015_lamar_hunt_u.s._open_cup	location	east
+what is the Typical Settlement of Western NER Region	cordillera_central_(luzon)	region	south
+do you know what are the subdivision ratings of the NER ship name	uss_torchwood_(an-55)	shipnamesake	subdivisionranks
+do you know who is the wife of Election after NER	united_states_presidential_election_in_wisconsin,_1880	afterelection
+do you know where is the title of Election after NER	united_states_senate_election_in_georgia,_2014	afterelection	title
+what is the name of the administrative division of NER Site West	2014–15_south_dakota_state_jackrabbits_men's_basketball_team	home	upperhouse
+what is the time zone used by NER Eastern West	administrative_divisions_of_ilocos_sur	east	southwest
+what is the level of management in the Northwest of the Southwest of NER	laketown,_utah	postalcodetype
+do you know what is the management level of The northeast of NER's place of death	john_james_joseph_monaghan	deathplace	capital
+who is the head of the Area covered by the The stadium where the NER took place	2014_malaysia_premier_league	stadium	west
+do you know what is the name of the administrative district of Eastern Site of NER	2013–14_uc_santa_barbara_gauchos_men's_basketball_team	home	east
+do you know who is next to the Generals of the participating NERs	battle_of_long_point	commander	monarch
+do you know which national team belongs to The coach of NER's club	uefa_euro_2016_squads	club	coach	nationalteam
+What's wrong with The Father of NER	princess_hongnong	father	issue
+what is the birthplace of The Father of NER	dongfu_see_ciqia	father	fatherofwife
+do you know who was the forward of The NER location before?	2014_shanghai_greenland_shenhua_f.c._season	location	seat
+where is the title of Election after NER	united_states_senate_election_in_south_dakota,_2014	afterelection
+what are the important positions of NER's ship name, un barku den noruega?	ms_thorbjørn	shipnamesake	office
+what time zone does Northeast of The stadium where the NER took place	2008_seattle_seahawks_season	stadium	legislature
+do you know what is the name of administrative district of Western NER location	2013–14_gimnàstic_de_tarragona_season	location	w
+do you know what country the NER location photo caption is	2016–17_huddersfield_town_a.f.c._season	location	legislature
+do you know what type of The thing related to NER	sony_xperia_z2a	related	type
+where is the position of the Vessel name of NER	italian_battleship_vittorio_veneto	shipnamesake	place
+where is the city of The location of The stadium where the NER took place	new_zealand_at_the_rugby_world_cup	stadium	before
+do you know where is the city of The operator of The stadium where the NER took place	2009–10_ergotelis_f.c._season	stadium	operator	city
+who will be Election after NER next	bulgarian_parliamentary_election,_1986	afterelection
+do you know what time zone is West of The place of death of NER	hans-ulrich_rudel	deathplace	currency
+do you know who is the wife of Election after NER	south_korean_presidential_election,_1978	afterelection	predecessor	after
+do you know what timezone the Northeast of The stadium where NER took place	2013_seattle_seahawks_season	stadium	legislature
+who is the predecessors of The leader of NER	mongolian_legislative_election,_2016	leader	predecessor
+do you know what is the management level of Area covered by the NER location	1994–95_wolverhampton_wanderers_f.c._season	location	establishedevent
+What's before Generals of participating NERs	boundary_river_battle_(anti-japanese_war)	commander	before
+do you know what time zone uses The province where the NER is located	dhua_kund	state/province	timezone
+what is the name of the administrative division of the southwest of NER's location	2011–12_az_alkmaar_season	location	north
+do you know who was the Front of World NER Day Venue before	2016_cba_playoffs	team	location
+do you know what currency is used in NER Location Release Event	2014_davis_cup_americas_zone_group_i	venue	legislature
+what Happened in the Time of NER's Ship's Name	russian_ship_of_the_line_gangut_(1825)	shipnamesake	partof
+what is the name of the administrative division of Southern Eastern NER utah united states?	kanosh,_utah	east	subdivisiontype
+do you know who is the heir of Occupied people of The title of NER	margaret_beckett	title
+what time zone uses North of The place of death of NER	henderson_c._howard	deathplace	sport
+do you know what time zone uses West of Southwest of NER	rotterdam	north	south
+what is the time zone used by South of Southeastern NER utah united states?	fillmore,_utah	southeast	timezone
+what is the name of the administrative division of the southwest of the northwest of NER	scofield,_utah	northwest	southwest
+who is the heir to NER's ship name	alfa_nero	shipnamesake	successor
+do you know who is the leader of the South of NER site	2014–15_santa_clara_broncos_women's_basketball_team	home	east
+what condition is NER's ship name an arleigh burke class destroyer in?	uss_carl_m._levin	shipnamesake	order
+what musical instrument did NER's name use	list_of_awards_and_nominations_received_by_billy_ray_cyrus	name	instrument
+do you know what is the management level of North of Northwestern NER utah united states?	koosharem,_utah	north	subdivisiontype
+what is the Famous Work of NER Client	heathfield_hall	client	workplaces
+what is the name of the administrative division of The name of the vessel of NER	ins_kavaratti	shipnamesake	countryadmindivisions
+what is the common language of the NER Location Release Event	eastern_tepuis	location	legislature
+do you know what time zone is in Club in which The stadium where the NER took place is part	2006_uefa_european_under-17_championship	stadium	se
+what is the name of the southwestern administrative division of NER Millionaires	national_register_of_historic_places_listings_in_utah_county,_utah	county
+what is related to NER's ship name, un barku den estadonan uni di merka?	chilean_brigantine_araucano	shipnamesake	related
+do you know where is the province of the southwestern Administration of NER	lakawon	countryadmindivisions	southwest
+where does the religion of NER's ship name come from?	usns_john_lewis_(t-ao-205)	shipnamesake	state
+do you know where is the title of The name of the ship of NER	cornwallis_(1787_ship)	shipnamesake	honorificprefix
+do you know who is the predecessor of The busy people of The title of NER	soong_ching-ling	alongside	premier	predecessor
+do you know who is the leader of the NER's ship name	hmcs_lachine_(j266)	shipnamesake	west
+who is the manager of Tenants of The stadium where the NER took place for the fall of 2016-2017?	2012_montedio_yamagata_season	stadium	tenants
+what is the level of management at the South of The stadium where the NER took place	2008_houston_dynamo_season	stadium	capital
+do you know who was the people, things and things with the same name as NER before	spanish_cruiser_don_antonio_de_ulloa	shipnamesake
+do you know where the birthplace of NER's Coach is?	hafez_hashim	coach
+do you know who is the predecessor of The name of the ship of NER	usrc_mclane_(1832)	shipnamesake	title
+what is the education level of The addition of NER	that_winter,_the_wind_blows	extra	title
+do you know who is the Premier agent of NER Predecessor	yu_shyi-kun	premier	deputy
+do you know what is the name of the administrative district of the south of the south-west of NER	clarkston,_utah	southwest	north
+do you know what is the management level of Southern Place of NER	2003_iwcc_trophy	venue	postalcodetype
+do you know where is the birthplace of the city of Captain of The club of NER	2005_fifa_world_youth_championship_squads	name
+do you know who was the Your next club L'avant de NER before?	yvon_delbos	before	after
+what is the royal family of The name of the ship of NER	ss_prinses_astrid	shipnamesake	issue	house
+what is the national team of The coach of The club of NER	2015_fifa_u-17_world_cup_squads	club
+who are the children of NER's name	hades_in_popular_culture	name	parents
+who is the mother of Your next club The question of NER	juan_carlos_i_of_spain	issue
+do you know who is the predecessor of Election after NER	italian_general_election,_1992	afterelection	predecessor
+do you know who is the leader of the Publication event of NER location	2012–13_in_argentine_football	location	legislature
+do you know what is the occupation of Chronology of NER	themes_from_calmi_cuori_appassionati	chronology	profession
+do You Know which Party Belongs to NER's Location Life	polonia_(train)	operator	products
+who was the person or things that share the same name with NERavant	hms_tarleton_(1782)	shipnamesake	before
+do you know what is the management level of The Northeast Site of NER	2016–17_idaho_vandals_men's_basketball_team	home	subdivisiontype
+do you know what are the subdivision ratings of the NER ship name	hms_falcon_(1820)	shipnamesake	imagecaption
+do you know what state is East of NER location	2011–12_tsw_pegasus_fc_season	location	east
+do you know who is the predecessor of Your next club L'avant de NER	yvon_delbos	before	before
+do you know what is the management level of The South of NER location	list_of_cultural_properties_of_the_philippines_in_calabarzon	location	south	areacodetype
+who is the leader of the Northeast NER location	2013_kashiwa_reysol_season	location	legislature
+what is the title of The Descendant of NER	jizen_pema	issue	title
+do you know what is the management level of The Northeast of NER Millionaires	national_register_of_historic_places_listings_in_los_angeles_county,_california	city	northwest
+which party belongs to Election after NER	national_liberation_party_presidential_primary,_2009	afterelection	party
+who is the leader of the East of The stadium where the NER took place	2013_afc_champions_league_knockout_stage	stadium	after
+do you know where the constituency of the West of NER's place of death is	joost_de_blank	deathplace	establishedevent
+In what condition is NER's Alma mater	peter_bramley_(biochemist)	almamater	state
+do you know where the Northeast of NER's location is	2013–14_south_china_aa_season	location	capital
+do you know where is the constituency of the North of NER location	2011–12_portsmouth_f.c._season	location	subdivisiontype
+where is the city of The operator of The stadium where the NER took place	2008–09_coventry_city_f.c._season	stadium	operator	city
+do you know what is the management level of NER south	garrigues_(comarca)	s	postalcodetype
+what is the level of management in Area covered by NER Region	sudan_revolutionary_front	area	seat
+do you know where is the city of Alma mater de NER	bob_padilla	almamater
+do you know what is the name of the administrative district of Nord-Ouest de NER Belgium?	pepingen	nw	n
+do you know what important positions Election has after NER	lithuanian_parliamentary_election,_2000	afterelection	title
+what is the level of management at Southwest NER South utah united states?	marysvale,_utah	south	southwest
+what is the next term of the NER national team club	sebastian_meyer	nationalteam	club	other
+who are the parents of NER's ship name	uss_joseph_p._kennedy_jr._(dd-850)	shipnamesake	parents
+what is the western national team location of NER	peng_zijian	nationalteam	location
+do you know who is the mentor of the NER addition	3/8_(album)	extra	studio
+do you know what is the management level of NER ship name	hmcs_parry_sound	shipnamesake	blankname
+do you know what time zone Southwest of North NER utah united states uses?	goshen,_utah	north	timezone
+who is the heir of Election after NER	iranian_legislative_election,_1956	afterelection	predecessor
+where is the address of the NER team	1986_paraguayan_primera_división_season	team
+do you know who is the leader of the NER's ship name	russian_submarine_severodvinsk_(k-329)	shipnamesake	federalsubject
+do you know where the constituency of the West Venue of NER is?	1993_women's_cricket_world_cup	venue	source
+do you know what timezone uses Southwest from NER West	loa,_utah	north	timezone
+what is the NER Location Release Event	2015_la_galaxy_season	location	east
+do you know what kind of NER addition	i'm_so_sorry	extra	before
+what is the ideology of NER's ship name	soviet_cruiser_komintern	shipnamesake	ideology
+what is the level of management West of NER's place of death	john_wainwright_(medal_of_honor)	deathplace	capital
+do you know what is the name of the administrative district of NER Millionaires South united states?	pavant_range	city	subdivisiontype
+do You Know where Your Next Club from The NER Question Died	blanche_of_namur	issue	regent
+what language does NER addition	that_winter,_the_wind_blows	extra	title
+do you know what time zone uses NER South	osor,_girona	s	e
+what musical instrument did NER use?	heart_&_soul_(ron_carter_and_cedar_walton_album)	chronology
+do you know what is the program format of The title of NER World Day Venue?	2016_cba_playoffs	team	location	title
+what is the type of division of The North of City of birth of NER	robino	cityofbirth	north
+do you know who was touched by NER's eponymous	mach_(crater)	eponym	workplaces
+what is the name of the administrative division of the North of The stadium where the NER took place	2013_st_helens_season	stadium	imagecaption
+what is the name of the administrative division of Eastern NER Millionaires	national_register_of_historic_places_listings_in_wasatch_county,_utah	city	subdivisiontype
+where is the title of Your next club The question of NER	mary_of_hungary,_queen_of_naples	issue	title
+do you know what is the name of administrative district of West of NER site	2014–15_utah_state_aggies_men's_basketball_team	home	subdivisiontype
+what is the name of the administrative division of the southwest of The stadium where the NER took place?	2009–10_al_ain_fc_season	stadium	southwest
+do you know who is the president of the Tenants of The stadium where the NER took place	2011_emperor's_cup	stadium	autonomousbody	capital
+do you know what is the name of the administrative district of the south-west of The stadium where the NER took place	2011–12_in_french_football	stadium	title
+what is the type of The name of NER	list_of_awards_and_nominations_received_by_lorde	name
+who is the president of Alma mater de NER	deng_jiajia	almamater	president
+do you know what is the management level of Western NER Millionaires	cbu-fm	city	west
+do you know what is the common language of the NER Location Release Event	colombia_national_football_team_results_(2000–19)	location	establishedevent
+do you know what is the name of the administrative district of The Northwest of NER Millionaires	national_register_of_historic_places_listings_in_king_county,_washington	city	settlementtype
+who is the wife of The next term of The question of NER	charles_louis,_hereditary_prince_of_baden	issue	after
+do you know what time zone uses Club in which NER location is part?	2011–12_lleida_esportiu_season	location	e
+do you know who is the predecessor of The name of the ship of NER	french_cruiser_georges_leygues	shipnamesake	before
+do you know who was the Election after NER before	spanish_general_election,_1931	afterelection	before
+who is the heir to NER's ship name	egyptian_sloop_el_amir_farouq	shipnamesake	issue	after
+what is the northeast location of NER's national team	lin_xiaocheng	nationalteam	location
+do you know what is the traditional shape of the forward of NER's club?	2016_afc_u-23_championship_squads	name
+who is the leader of the East of The stadium where the NER took place?	2002_fifa_world_cup_qualification_–_afc_first_round	stadium	west
+what eponymous domain of NER belongs to	d'alembert_(crater)	eponym
+do you know who was the front of NER's location before	australia_women's_national_soccer_team_results_(2000–09)	location
+where are the heirs of Generals of the participating NERs	battle_of_baiteng_river_(938)	commander
+do you know what is the rank of Next to NER	takashi_sakai	alongside	before
+do you know where is the city of Alma mater from NER	wayne_chabre	almamater	city
+who is the heir to the front of NER's title	the_complete_guide_to_everything	title	publisher
+do you know who the generals involved in the NER ship name are	french_ironclad_marengo	shipnamesake	commander
+do you know where is the city of Alma mater from NER	ed_jackson_(tennessee_politician)	almamater
+what is the time zone used by Eastern of Southern NER	molenwaard	north	subdivisiontype
+what is the famous eponymous work of NER	viviani_(crater)	eponym	knownfor
+who are the people affected by NER's ship name	cma_cgm_alexander_von_humboldt	shipnamesake	influenced
+what are the awards won by The first of The title of NER	john_m._loh	title	incumbent
+what is the traditional shape of the forward of NER's club	2016_afc_u-23_championship_squads	name
+what is EstablishedEvent at NER Country	international_association_of_inventions'_unions	locationcountry	establishedevent
+do you know what are the subdivision ratings of the NER ship name	hms_jaseur_(1807)	shipnamesake	subdivisionranks
+who is the leader of the Northwest NER location	2015–16_in_hong_kong_football	location	west
+do you know where the religion of The name of the ship of NER comes from?	ms_giulio_cesare	shipnamesake	religion
+do You Know what Language Lyrics Of NER's Title Is Using	the_beat_goes_on_(super_junior_d&e_album)	music
+do you know who is the predecessor of The name of the ship of NER	french_ship_alexandre_(1857)	shipnamesake	religion
+do you know what awards the person or things that share the same name with NER ontario won?	hmcs_carleton	shipnamesake	honorificprefix
+what are the eponymous prizes won by NER	fermi_(crater)	eponym	awards
+what is the next term of the father of NER	prince_weicheng	father	after
+do you know what is the title of the seats of the location of the National team of NER	heinrich_schmidtgar	nationalteam	location	title
+who was the Predecessor of L'avant de NER before	pierre_pflimlin	before
+what is the name of the administrative division of Southern NER	vilallonga_de_ter	s	subdivisiontype
+who is the predecessors of The Parents of NER	francis_russell,_marquess_of_tavistock	parents	predecessor
+do you know what is the district of The main city of NER	canton_of_moreuil	chieftown
+do you know what the profession of NER addition is?	boysitter	extra
+what is the level of management at NER South	la_nou_de_gaià	s
+what are the important positions of Beside NER	felix_chung	alongside	before	office
+do You Know who Will Be Next The Ahead Of NER's Question	archduchess_maria_beatrix_of_austria-este	issue	before
+do you know what time zone uses Southeastern NER location a football team season?	2012_santos_fc_season	location	legislature
+where does the religion of Election after NER come from	labour_party_(uk)_deputy_leadership_election,_2015	afterelection	honorificsuffix
+do you know where NER's The Name of the Ship takes place?	russian_ship_of_the_line_gangut_(1825)	shipnamesake	place
+do you know who is the leader of the Eastern NER location	2014–15_bengaluru_fc_season	location	legislature
+what is the name of the administrative division of Southern NER County	list_of_national_historic_landmarks_in_massachusetts	county	largestcity
+do you know where is the address of the tenants of the stadium where the NER took place	2015–16_atlético_madrid_season	stadium	before
+do you know what is the specialty of Inaugural speech of The title of NER	bounnhang_vorachith	title	incumbent
+what are the important positions of Election after NER	united_states_senate_election_in_north_carolina,_1998	afterelection	office
+what is the name of the administrative division of Southern Site of NER	2014–15_washington_huskies_women's_basketball_team	home	east
+do you know where the religion of NER's ship's name comes from	french_ship_charlemagne_(1852)	shipnamesake	religion
+where is the Alma Mater of Election after NER	united_states_senate_election_in_west_virginia,_2014	afterelection	state
+do you know who is the leader of the The North West of The stadium where the NER took place	2013_afc_champions_league_group_stage	stadium	blank2infosec
+do you know where the Northeast of NER site is	2016–17_houston_cougars_women's_basketball_team	home	northwest
+do you know who is the leader of The life of The stadium where the NER took place	2013–14_nfl_playoffs	stadium	legislature
+what is the level of management at NER South	puiggròs	s	subdivisiontype
+what is the common language of the NER Location Release Event	2010–11_c.d._motagua_season	location	seat	blankinfo
+In what state is The name of the ship from NER	japanese_cruiser_mogami_(1934)	shipnamesake
+where is NER's eponymous death place	barringer_(lunar_crater)	eponym
+what is the name of the administrative division of Birthplace of L'avant de NER	karl_kesel	before	birthplace
+do you know what is the famous work of NER's eponymous	eijkman_(crater)	eponym
+do you know what is the name of the administrative district of The Northeast of The stadium where the NER took place	2017_world_men's_handball_championship_–_european_qualification	stadium	imagecaption
+do you know what is the name of the administrative district of Western NER Millionaires	national_register_of_historic_places_listings_in_cache_county,_utah	city	subdivisiontype
+in which state is the Area covered by the NER location	2014_shanghai_greenland_shenhua_f.c._season	location	seat
+do you know who is the mother of NER's ship name	french_frigate_cléopâtre_(1781)	shipnamesake	regent
+do you know that before the person or thing related to the result caused by NER is?	battle_of_huoyi	result	succession
+do you know where is the title of Inaugural Speech of The title of NER	margaret_beckett	title
+do you know who is the head of the The head of the NER	scottish_conservative_party	leader
+do you know where is the administrative center of the province where the NER is located	chandgana_tal	state/province	seat
+do you know what is the title of The winner of NER	battle_of_tanshebrai	result	successor	title
+what is the time zone used by The North West of the South West of NER	emery,_utah	northwest	timezone
+what is the level of management at NER's Southeast Site	2011–12_byu_cougars_women's_basketball_team	home	east	namedfor
+what Happened in the Time of NER's Ship's Name	french_ship_rivoli_(1810)	shipnamesake	partof
+what is the Model Regulation of The province where the NER is located	koksay	state/province	subdivisiontype
+do you know where is the address of The operator of The stadium where the NER took place	2012–13_paok_fc_season	stadium	tenants
+do you know who is the president of NER's ship name	uss_windom_(1896)	shipnamesake	after
+do you know who is the predecessor of Inaugural speech of The title of NER	milton_obote	title	inaugural
+do you know what time zone is in East of NER location	2010–11_valencia_cf_season	location	imagecaption
+what is the nationality of Election after NER	brazilian_presidential_election,_1960	afterelection	predecessor
+what are the products of The owner of NER's club	baseball_at_the_2008_summer_olympics_–_team_squads	club	manager
+what is related to responsible for NER	coca-cola_topnotchers	sponsor	type
+do you know what is the name of the administrative district of The North of NER Millionaires	national_register_of_historic_places_listings_in_davis_county,_utah	city	blankname
+where is NER's eponymous Alma Mater	harden_(crater)	eponym	almamater
+where is the administrative center of Western NER County	hurricane_rita_tornado_outbreak	county	namedfor
+who are the descendants of NER's ship name	french_frigate_cléopâtre_(1781)	shipnamesake	issue
+do you know who the person or things that share the same name with NER were before?	french_cruiser_georges_leygues	shipnamesake	before
+do you know where is the title of Election after NER	cape_verdean_parliamentary_election,_2016	afterelection	title
+where Does the Religion of Inaugural Speech from NER's Title Come From?	josé_luis_rodríguez_zapatero	title	founder
+which party belongs to The life of The stadium where the NER took place	2010–11_in_australian_soccer	stadium	after
+do you know which party belongs to NER ship name	usrc_mclane_(1832)	shipnamesake	title
+what is the time zone used by the NER Southwest Site	2014–15_byu_cougars_men's_basketball_team	home	south
+do you know who was the Election after NER before	french_legislative_election,_1914	afterelection	predecessor
+do you know what time zone is in South of NER spain?	vall-llobrega	s
+To which party belongs The name of the ship of NER	uscgc_dallas_(whec-716)	shipnamesake	party
+do you know what type of zoning is at the National team location of NER	ragnar_kravan	nationalteam	location
+do you know where is the city of The location of Birthplace of NER	junior_paulo_(rugby_league,_born_1993)	birthplace	legislature	party
+what is the level of management at West of NER's location	list_of_national_cultural_treasures_in_the_philippines	province	southwest
+who are the NER eponymous affected people	protagoras_(crater)	eponym	influenced
+what is the name of the administrative division of the Southeast of NER site	2014–15_gonzaga_bulldogs_women's_basketball_team	home	subdivisiontype
+do you know what is the name of the administrative district of The Northwest Site of NER	2015–16_utah_state_aggies_men's_basketball_team	home	subdivisiontype
+who is the predecessors of The leader of NER	dokumacılar	leader	predecessor
+what is the level of management at Country Capital to which NER belong	trujillo_state_anthem	country	northeast
+what is the level of management at NER's West of Photo Caption	tanaecia	imagecaption	title
+what is the level of management at NER's North West Site	2011–12_ucla_bruins_men's_basketball_team	sitecityst

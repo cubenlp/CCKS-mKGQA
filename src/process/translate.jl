@@ -48,7 +48,8 @@ function standardrel(rel::AbstractString)
     rel = join(uppercasefirst.(split(rel, ' ')))
     inds = findall(isuppercase, rel)
     words = [rel[l:r] for (l, r) in zip(inds, push!(inds[2:end], length(rel)+1) .- 1)]
-    lowercase(join(words, '_'))
+    rel = lowercase(join(words, '_'))
+    replace(rel, r"(.*)_of_(.*)" => s"\g<2>_\g<1>")
 end
 
 "问句首字母小写"
