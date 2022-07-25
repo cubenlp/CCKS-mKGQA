@@ -9,7 +9,8 @@ end
 """前缀树的初始化"""
 function PrefixTree(words)
     dict = PrefixTree()
-    for word in _2space.(unique(words))
+    # for word in _2space.(unique(words)) # 预赛阶段，去掉下划线
+    for word in unique(words) # 决赛阶段，不需要去掉下划线
         add_node!(dict, word)
     end
     dict
@@ -57,8 +58,11 @@ end
 _2space(st::AbstractString) = replace(st, '_' => ' ')
 
 # 读入字典
-zh_words = _2space.(unique!(first.(zh_triples)))
-en_words = _2space.(unique!(first.(en_triples)))
+# 预赛阶段
+# zh_words = _2space.(unique!(first.(zh_triples)))
+# en_words = _2space.(unique!(first.(en_triples)))
+zh_words = unique!(first.(zh_triples))
+en_words = unique!(first.(en_triples))
 words = unique!(vcat(en_words, zh_words))
 
 # 构建字典树
