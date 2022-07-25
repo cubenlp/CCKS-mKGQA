@@ -1,3 +1,5 @@
+import Base.Iterators:partition
+
 # 正则语法，匹配实体关系
 en_obj_reg = r"<http://dbpedia.org/resource/(.*)>"
 en_rel_reg = r"<http://dbpedia.org/property/(.*)>"
@@ -16,6 +18,14 @@ function line2triple(line; en=true)
     txts = split(line, ' ')
     rel, obj = en ? (en_rel_reg, en_obj_reg) : (zh_rel_reg, zh_obj_reg)
     Tuple(get_txt.([obj, rel, obj], txts))
+end
+
+"""获取三元组信息"""
+function triple_info(triple)
+    s1 = match(en_obj_reg, first(triple))
+    isnothing(s1) ? "zh\t" * join(get_txt.(
+            [zh_obj_reg, zh_rel_reg, zh_obj_reg], triple),'\t') : "en\t" * join(get_txt.(
+            [en_obj_reg, en_rel_reg, en_obj_reg], triple),'\t')
 end
 
 # 处理问题错位
@@ -41,3 +51,4 @@ push!(ill_pattern,
     r"which ([^A-Za-z0-9]) belongs([^A-Za-z0-9]+)(?<![ ?])" => s"\g<1>\g<2> belongs", # 16
 )
 rectify_que(que::AbstractString) = replace(que, ill_pattern...)
+

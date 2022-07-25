@@ -1,0 +1,37 @@
+event|	|event
+chairman|	|president
+incident|	|event
+leader|	|leader
+client|	|client
+singer|	|extra
+northwest|	|nw
+parent|	|parents
+nickname|	|nickname
+key people|	|key_people
+people|	|name
+creators|	|chronology
+manager|	|sponsor
+name|	|name
+parents|	|parents
+author|	|chronology
+currency|	|currency
+sponsors|	|sponsor
+master|	|controlledby
+chronology|	|chronology
+important people|	|key_people
+mayor|	|chieftown
+alongside|	|alongside
+children|	|children
+theme|	|theme
+descendants|	|issue
+next to|	|alongside
+creator|	|chronology
+sponsor|	|sponsor
+descendant|	|issue
+head|	|sponsor
+father|	|father	parent	parents
+eponym|	|eponym
+team|	|team
+division|	|division
+play|	|alongside
+battle|	|battles

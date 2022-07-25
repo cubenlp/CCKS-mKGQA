@@ -17,5 +17,6 @@ end
 @inline tuplejoin(x::Tuple, y::Tuple) =  (x..., y...)
 @inline tuplejoin(x::Tuple, y::Tuple, z::Tuple...) = tuplejoin(tuplejoin(x, y), z...)
 
-ismatch(reg::Regex, txt) = !isnothing(match(reg, txt))
-ismatch(reg::Regex) = Base.Fix1(ismatch, reg)
+ismatch(reg::Regex, txt::String) = !isnothing(match(reg, txt))
+ismatch(reg) = Base.Fix1(ismatch, reg)
+ismatch(reg::String, txt::String) = ismatch(Regex(reg), txt)

@@ -42,5 +42,5 @@ valid_ques = Vector{String}(split(
 
 # 读取验证集和 NER
 # **提取 NER 前应注释这段代码**
-valid_ques_ner = split.(Vector{String}(split(
-        strip(read(open("extract/valid_data_ner.txt", "r"), String)), '\n')), '\t')
+# valid_ques_ner = split.(Vector{String}(split(
+#         strip(read(open("extract/valid_data_ner.txt", "r"), String)), '\n')), '\t')
