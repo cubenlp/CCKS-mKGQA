@@ -10,6 +10,7 @@ mt_valid_ques = String.(first.(mt_valid_ques_ner))
 txts = split(strip(read(open("translate/train_ques.txt", "r"), String)), '\n')
 mt_train_ques_rels = [split(txt, '\t') for txt in txts]
 mt_train_ques = String.(first.(mt_train_ques_rels))
+mt_train_rels = [String.(querel[3:end]) for querel in mt_train_ques_rels]
 
 # 三元组
 ## 翻译关系

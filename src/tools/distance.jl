@@ -2,28 +2,22 @@
 using StringDistances
 
 """
-    dist(target, word; char=true)
+    dist(target::AbstractString, word::AbstractString)
 
-计算 target 和 word 的距离:
- - char 指定匹配方式，字符匹配适用于问题，单词匹配适用于实体
+返回字串 target 和 word 的距离:
 """
-function dist(target, word; char=true)
-    char || (target = split(target, '_'); word = split(word, '_'))
-    all(∉(Set(target)), word) && return typemax(Int)
-    evaluate(Levenshtein(), target, word)
+function dist(target::AbstractString, word::AbstractString)
+     # 单词作为整体
+    target, word = split(target, '_'), split(word, '_')
+    all(∉(Set(target)), word) && return typemax(Int) # 没有交集，返回无穷大
+    evaluate(Levenshtein(), target, word) # 计算距离
 end
-findbest(words::AbstractVector, target; char=true) = argmin(i -> dist(target, i; char=char), words)
 
 """
-    nearby(words::AbstractVector, target; best=10, char=true)
+    dist(targets::AbstractVector, words::AbstractVector; char=false)
 
-在 words 中匹配与 target 最近的前 best 个结果
+返回字串集合 target 和 word 的距离
 """
-nearby(words::AbstractVector) = Base.Fix1(nearby, words)
-function nearby(words::AbstractVector, target; best=10, char=true, index=false)
-    worddists = [dist(target, word; char=char) for word in words]
-    n = length(words)
-    inds = sort(1:n, by = i->worddists[i])[1:min(best, n)]
-    filter!(i->worddists[i] != typemax(Int), inds)
-    index ? inds : words[inds]
+function dist(targets::AbstractVector, words::AbstractVector; char=false)
+    minimum(dist(target, word) for target in targets for word in words)
 end
