@@ -37,20 +37,4 @@
 | 评测论文提交时间 | 8月12日 |
 | CCKS会议日期(评测报告及颁奖) | 8月25日—28日 |
 
-## 当前安排
-### 机器翻译
-1. 相关链接：
-   - [52 NLP Machine Translation Projects for Inspiration](https://naturalingual.com/trends/nlp-machine-translation-projects-for-inspiration)
-   - [Best 131 Machine Translation Open Source Projects](https://www.opensourceagenda.com/tags/machine-translation)
-
-2. 阅读列表（尝试顺序，可能一两个就够了）
-   - [seq2seq](https://google.github.io/seq2seq/getting_started/)
-   - [tensor2tensor](https://github.com/tensorflow/tensor2tensor)
-   - [opennmt](https://opennmt.net/)
-   - [Helsinki](https://aclanthology.org/2020.eamt-1.61.pdf)
-   - [NLP Progress](https://nlpprogress.com/)
-
-
-
-[Yandex](https://yandex.com/dev/translate/doc/dg/concepts/about.html),[Google](https://cloud.google.com/translate)
-[google-translate-api](https://github.com/vitalets/google-translate-api)
+比赛代码参见 `dataprocess` 的 jupyter-notebook 文件。

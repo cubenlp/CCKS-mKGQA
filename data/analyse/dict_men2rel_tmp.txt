@@ -1,0 +1,404 @@
+era	era
+east	east
+name	name
+type	type
+rank	rank
+city	city
+logo	logo
+west	west
+team	team
+last	last
+house	house
+theme	theme
+label	label
+party	party
+event	event
+title	title
+state	state
+owner	owner
+genre	genre
+coach	coach
+venue	venue
+south	south
+eponym	eponym
+spouse	spouse
+family	family
+leader	leader
+office	office
+branch	branch
+client	client
+region	region
+father	father
+mother	mother
+status	status
+deputy	deputy
+source	source
+artist	artist
+target	target
+league	league
+series	series
+format	format
+regent	regent
+writer	writer
+origin	origin
+author	author
+canton	canton
+sponsor	sponsor
+related	related
+monarch	monarch
+founder	founder
+parents	parents
+caption	caption
+dynasty	dynasty
+country	country
+network	network
+creator	creator
+location	location
+religion	religion
+nickname	nickname
+children	children
+director	director
+chairman	chairman
+language	language
+producer	producer
+currency	currency
+province	province
+garrison	garrison
+division	division
+industry	industry
+ideology	ideology
+timezone	timezone
+commander	commander
+northwest	northwest
+ethnicity	ethnicity
+combatant	combatant
+candidate	candidate
+successor	successor
+president	president
+northeast	northeast
+developer	developer
+publisher	publisher
+residence	residence
+southwest	southwest
+appointer	appointer
+architect	architect
+succession	succession
+occupation	occupation
+profession	profession
+archipelago	archipelago
+subdivision	subdivision
+legislature	legislature
+predecessor	predecessor
+affiliation	affiliation
+nationality	nationality
+constituency	constituency
+manufacturer	manufacturer
+headquarters	headquarters
+arrondissement	arrondissement
+ex	prev
+job	profession
+led	leader
+head	leader
+made	producer
+race	ethnicity
+head	sponsor
+wife	spouse
+type	genre
+seat	headquarters
+king	monarch
+area	region
+heir	succession
+heir	successor
+type	subdivision_type
+owns	owner
+name	subdivision_name
+tomb	burial_place
+wife	issue
+west	w
+wife	successor
+type	company_type
+seat	seats2_title
+agent	deputy
+mayor	chieftown
+ruler	regent
+cause	result
+rules	regent
+leads	leader
+wrote	writer
+title	title_leader
+ruler	leader
+south	s
+basis	based_on
+title	issue
+level	rank
+leads	leader_name
+title	seats1_title
+works	notable_works
+author	chronology
+county	shire_county
+parent	parents
+master	controlledby
+regnet	regent
+battle	battles
+events	event
+gender	genre
+leader	title_leader
+school	education_level
+cradle	origin
+married	spouse
+address	residence
+leaders	leader
+created	creator
+dynasty	house
+country	location_country
+creator	chronology
+founded	founder
+capital	country_capital_name
+country	nationality
+country	president
+created	artist
+honored	honorific_suffix
+general	commander
+partner	issue
+manager	sponsor
+leading	event_start
+borough	canton
+sponsor	event
+warrior	combatant
+district	arrondissement
+district	subdivision_type
+addition	extra
+question	issue
+division	subdivision_type
+location	northwest
+position	place
+ruled by	regent
+timezong	timezone1_dst
+currency	currency_unit
+sponsors	sponsor
+zip code	northwest
+directed	director
+location	southeast
+produced	producer
+timezong	timezone
+generals	commander
+creators	chronology
+customer	appointer
+timezone	timezone1_dst
+chairman	premier
+location	seat
+location	state
+position	status
+movement	sport
+designed	designer
+main city	chieftown
+is before	predecessor
+successor	issue
+commanded	commander
+time zone	timezone
+is before	before
+ship name	ship_namesake
+successor	after
+successor	succession
+northwest	nw
+next film	last
+principal	client
+president	chairman
+published	publisher
+developed	developer
+successor	next
+will rule	regent
+specialty	profession
+the title	title
+next term	after
+appointee	appointer
+time zone	timezone1_dst
+next term	next
+successor	host
+published	children
+president	premier
+descendant	issue
+chief town	chieftown
+birthplace	birth_place
+controller	controlledby
+deathpalce	death_place
+alma mater	alma_mater
+key people	key_people
+represents	deputy
+starred in	starring
+is next to	after
+legislates	legislature
+birthplace	origin
+department	title
+occupation	profession
+the winner	result
+work place	workplaces
+seat title	seats2_title
+profession	occupation
+is leading	leader
+birthplace	issue
+predecessor	before
+institution	affiliation
+male parent	father
+descendants	issue
+predecessor	after
+affiliation	affiliations
+next father	next
+is the next	succession
+death place	death_place
+predecessor	successor
+predecessor	prev
+royal house	royal_house
+description	caption
+positioning	position
+final event	event_end
+last source	last
+predecessor	issue
+next leader	leader
+data source	s
+predecessor	first
+leader name	leader_name
+works before	prev
+title spouse	spouse
+notable work	notable_works
+predecessors	predecessor
+predecessors	issue
+largest city	largest_city
+spouse title	spouse
+eastern part	east
+burial place	burial_place
+leader title	leader_title
+title leader	title_leader
+famous works	known_for
+capital name	country_capital_name
+is issued by	issue
+home country	countryofbirth
+is the first	first
+leader party	leader_party
+the actor in	starring
+company type	company_type
+next mandate	after
+royal family	mother
+location city	location_city
+starring role	starring
+national team	nationalteam
+client region	appointer
+leading title	leader_title
+gave birth to	parents
+notable works	notable_works
+monetary unit	currency_unit
+title of host	host
+female parent	mother
+official text	official_text
+man in charge	controlledby
+currency unit	currency_unit
+admin division	country_admin_divisions
+mountain range	parent
+northwest part	nw
+mother of name	named_for
+prime minister	premier
+post code type	postal_code_type
+parent moutain	parent
+area northwest	nw
+first governor	first
+governing body	order
+the descendant	issue
+northern place	venue
+location south	s
+arrondissement	canton
+northwest site	home
+representative	caption
+area code type	area_code_type
+prime minister	primeminister
+program format	title
+is earlier than	before
+common language	common_languages
+parent mountain	parent
+next generation	children
+honorary suffix	honorific_suffix
+language family	common_languages
+education level	education_level
+graduate school	education_level
+first the title	title
+type settlement	northwest
+next predecessor	predecessor
+management level	southwest
+country of birth	countryofbirth
+location country	location_country
+management level	subdivision_type
+subdivision name	subdivision_name
+honorific suffix	honorific_prefix
+branch of client	appointer
+political system	political_system
+eastern location	location
+region of client	appointer
+subdivision type	subdivision_type
+premier minister	premier
+is influenced by	influenced
+estate of spouse	spouse
+person in charge	controlledby
+western location	location
+southeastern part	southeast
+location province	state/province
+northern location	location
+country of origin	countryofbirth
+southeastern site	home
+northwestern site	home
+type of nominator	nominator
+address of deputy	deputy
+last burial place	last
+country of origin	country
+biggest city name	largest_city_name
+publication event	established_event
+official language	official_text
+actual controller	controlledby
+mother of husband	spouse
+current incumbent	incumbent
+regent's question	regent
+type of government	government_type
+northwest location	nw
+typical settlement	southwest
+northwest location	location
+southeast location	location
+latest performance	previous_show
+question of regent	regent
+children's question	children
+level of management	southeast
+next the descendant	issue
+south of birthplace	birth_place
+type of subdivision	subdivision_type
+south east location	venue
+question of husband	spouse
+previous generation	before
+battle of successor	last
+standard settlement	northwest
+previous generation	predecessor
+forward predecessor	predecessor
+title of birthplace	birth_place
+succession of regent	regent
+partition (division)	division
+southwest birthplace	birth_place
+successor of subject	subject
+question of children	children
+first of predecessor	predecessor
+title of predecessor	predecessor
+most important people	key_people
+common user languages	used_by
+southeastern location	location
+successor of children	children
+participating country	combatant
+administrative region	country_admin_divisions
+founder of explanation	caption
+national team location	nationalteam
+south west headquarters	headquarters
+administrative district	arrondissement
+representative operator	caption
+participating countries	combatant
+predecessors of husband	spouse
+related products (works)	related
+next forward predecessor	predecessor
+former provincial premier	predecessor
+profession of predecessor	predecessor
+participating country leader	combatant
+eponymous administrative division	eponym
+northwest administrative division	nw

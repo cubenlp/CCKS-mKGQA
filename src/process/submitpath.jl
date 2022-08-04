@@ -76,7 +76,7 @@ function vague_triples(start, rel, illsdata)
     subs, n = first.(tris), length(tris)
     starts = getdefault(start) # 字串集
     worddists = [dist(starts, getdefault(sub)) for sub in subs]
-    tris[sort(1:n; by=i->(worddists[i], -length(split(subs[i], '_'))))][1:min(2, n)] # 取最佳的 2 个
+    tris[sort(1:n; by=i->(worddists[i], -length(split(subs[i], '_'))))][1:min(3, n)] # 取最佳的 2 个
 end
 
 """
