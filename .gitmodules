@@ -1,0 +1,3 @@
+[submodule "CCKS2022-QACrossLingualKB-6th"]
+	path = CCKS2022-QACrossLingualKB-6th
+	url = git@github.com:caffe-in/CCKS2022-QACrossLingualKB-6th.git
