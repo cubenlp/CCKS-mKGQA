@@ -1,40 +1,42 @@
-# CCKS2022：跨语言知识图谱问答
+# CCKS-mKGQA contest
 
-## 竞赛描述
-1. 比赛平台网址：
-    [CCKS2022: Question Answering over Cross-lingual Knowledge Graphs - Biendata](https://www.biendata.xyz/competition/clkgqa/)
+[中文说明](README-zh-cn.md)
 
-2. 任务五：跨语言知识图谱问答评测任务
-    [评测任务 – 2022全国知识图谱与语义计算大会](http://sigkg.cn/ccks2022/?page_id=22)
+> [official link](https://www.biendata.xyz/competition/clkgqa/)
 
-3. 要点：
-   - 解决自然语言问题与知识图谱间的**词法鸿沟问题**
-   - 在跨语言知识图谱中准确找到问题相关的知识组合
+## How to use
+The main part of the code in this repository is writing in Julia.
 
-4. 比赛任务
-   - 比赛要求选手根据提供的训练集问答数据**训练算法模型**并对验证集中的问题进行**自动答案路径生成**
-   - 模型输入：输入文件包含若干行自然语言问句
-   - 模型输出：输出文件每一行对应一个问题的答案路径，列表内元素以\t分隔，路径元素由分隔符#隔开
+Install requirements.
+```jl
+using Pkg
+Pkg.activate(".") ## path to this repo
+Pkg.update()
+```
 
-5. 最终提交文件要求：
-   - 问答任务测试集结果文件，用 result.txt 命名（UTF-8格式）
-   - 相关代码及说明
-   - 方法描述文档（非评测论文，评测论文撰写要求见CCKS 2022官网）
+After installation, following the instructions provided by the Jupyter notebooks at `./dataprocess`.
 
-6. 以上三个文件需在任务提交截止日期前发送至邮箱 tt_yymm@seu.edu.cn（暂定），邮件的标题为："CCKS-CLKGQA-参赛队名称"。
+## Contest background
+As more and more non-English users have participated in the establishment and maintenance of knowledge graphs in recent years, the distribution of online knowledge has changed from a single language rich in resources (English) to complementary multilingual resources. However, current multilingual knowledge graph question answering models mainly focus on natural language question parsing, while ignoring the joint application of cross-lingual knowledge.
+ 
 
-## 时间安排
+Taking the Encyclopedia Knowledge Questions and Answers as an example, for emerging knowledge, such as "COVID-19 (2019 novel coronavirus disease)", in the Chinese Wikipedia entry, the record about the attribute of "complication" contains "systemic organ failure", and this Item records are not included in the English entry for "Complication". On the other hand, the English entry contains the attribute of "Duration (duration of symptoms)", but the Chinese entry lacks the collection of this attribute. Therefore, such as: "Coronavirus that can cause the complication of systemic organ failure, how long does it usually cause symptoms in the human body?", "Symptoms generally last more than five days, and may become chronic coronavirus, Is it possible to cause serious complications such as systemic organ failure?" For such questions that require joint cross-language knowledge, the current question answering system is difficult to answer.
+ 
 
-| 事项 | 时间 |
-| :---: | :---: |
-| 任务征集截止时间 | 3月24日 |
-| 任务准备时间 | 3月25日—4月6日 |
-| 评测任务发布时间 | 4月6日 |
-| 报名时间 | 4月6日—7月25日 |
-| 训练及验证数据发布时间 | 4月25日 |
-| 测试数据发布时间 | 7月25日 |
-| 提交测试结果时间 | 7月31日 |
-| 评测论文提交时间 | 8月12日 |
-| CCKS会议日期(评测报告及颁奖) | 8月25日—28日 |
+The goal of this evaluation task is to use the cross-language knowledge graph to answer questions raised in different languages. We expect the contestants’ question answering system to not only solve the lexical gap between natural language questions and knowledge graphs, but also to be accurate in the cross-language knowledge graph. Find the combination of knowledge relevant to the problem.
+ 
 
-比赛代码参见 `dataprocess` 的 jupyter-notebook 文件。
+## game task
+The competition requires the contestants to use the given knowledge graph resources, train the algorithm model according to the question-and-answer data provided in the training set, and generate automatic answer paths for the questions in the validation set.
+Model input: The input file contains several lines of natural language questions.
+Model output: Each line of the output file corresponds to the answer path of a question. The elements in the list are separated by \t, and the path elements are separated by the separator #.
+ 
+Input Example
+```md
+q1: To which institution is the alma mater of Iranian American artist and educator Taravat Talepasand affiliated?
+q2: Who does the person whose name is used to name Poe (crater) influence?
+```
+
+Sample output (the form of the answer path is: e1#r1#e2#e2#r2#e3#e3#r3#e4, e stands for entity, r stands for relation)
+a1:< http://dbpedia.org/resource/Taravat_Talepasand > # < http://dbpedia.org/property/almaMater ># < http://dbpedia.org/resource/Rhode_Island_School_of_Design ># < http://en.dbpedia.org/resource/Rhode Island School of Design ># < http://en.dbpedia.org/property/state >#< http://en.dbpedia.org/resource/Rhode Island >
+a2: < http://dbpedia.org/resource/Poe_(crater ) >#< http://dbpedia.org/property/eponym >#< http://dbpedia.org/resource/Edgar_Allan_Poe >#< http://en.dbpedia.org/resource/Allan Poe >#< http://en.dbpedia.org/property/influenced>#< http://zh.dbpedia.org/resource/Edogawa Ranpo >
