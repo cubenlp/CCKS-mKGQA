@@ -1,5 +1,17 @@
 # CCKS2022：跨语言知识图谱问答
 
+## 使用方法
+本仓库主要语言为 Julia（不包括外链仓库），[下载及安装](https://julialang.org/downloads/)。
+
+安装依赖
+```jl
+using Pkg
+Pkg.activate(".") ## path to this repo
+Pkg.update()
+```
+
+代码使用说明参考 dataporcess 目录下的[Jupyter Notebooks](./dataprocess)。
+
 ## 竞赛描述
 1. 比赛平台网址：
     [CCKS2022: Question Answering over Cross-lingual Knowledge Graphs - Biendata](https://www.biendata.xyz/competition/clkgqa/)

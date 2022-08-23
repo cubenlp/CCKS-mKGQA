@@ -37,6 +37,9 @@ q1: To which institution is the alma mater of Iranian American artist and educat
 q2: Who does the person whose name is used to name Poe (crater) influence?
 ```
 
-Sample output (the form of the answer path is: e1#r1#e2#e2#r2#e3#e3#r3#e4, e stands for entity, r stands for relation)
-a1:< http://dbpedia.org/resource/Taravat_Talepasand > # < http://dbpedia.org/property/almaMater ># < http://dbpedia.org/resource/Rhode_Island_School_of_Design ># < http://en.dbpedia.org/resource/Rhode Island School of Design ># < http://en.dbpedia.org/property/state >#< http://en.dbpedia.org/resource/Rhode Island >
-a2: < http://dbpedia.org/resource/Poe_(crater ) >#< http://dbpedia.org/property/eponym >#< http://dbpedia.org/resource/Edgar_Allan_Poe >#< http://en.dbpedia.org/resource/Allan Poe >#< http://en.dbpedia.org/property/influenced>#< http://zh.dbpedia.org/resource/Edogawa Ranpo >
+Output Sample:
+
+a1:
+<http://dbpedia.org/resource/Taravat_Talepasand>#<http://dbpedia.org/property/almaMater>#<http://dbpedia.org/resource/Rhode_Island_School_of_Design>#<http://zh.dbpedia.org/resource/罗德岛设计学院>#<http://zh.dbpedia.org/property/state>#<http://zh.dbpedia.org/resource/罗德岛州>
+a2:
+<http://dbpedia.org/resource/Poe_(crater)>#<http://dbpedia.org/property/eponym>#<http://dbpedia.org/resource/Edgar_Allan_Poe>#<http://zh.dbpedia.org/resource/爱伦·坡>#<http://zh.dbpedia.org/property/influenced>#<http://zh.dbpedia.org/resource/江户川乱步>
